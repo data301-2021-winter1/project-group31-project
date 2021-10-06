@@ -1,7 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5887677&assignment_repo_type=AssignmentRepo)
-# Group 31 - {}
+# Group 31 - {Hockey Boys}
 
-- Your title can change over time.
 
 ## Milestones
 
@@ -13,13 +12,16 @@ The dataset we have chosen is titled NHL Game Data and was created by Martin Ell
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+With this data analytics project, we hope to investigate any correlations between NHL player demographics and team compositions to better understand how teams utilize player demographics to create their lineups. Jeremy is very knowledgeable about the NHL and has been a fan for years; he is interested in using the project to gain a deeper understanding of the sport he greatly enjoys. Noah has been a casual fan for a while and he has recently become more interested in hockey; he is looking to use this project as a way to learn more about the sport and its various intricacies. A question we specifically wish to explore is what demographics are under or over-represented in the NHL and if individual teams build their teams with a higher focus on players with specific demographics. We believe that we can build a dashboard to represent the dataset we are attempting to analyze, but we currently lack the skills to do so. We believe as the course progresses we will learn the skills necessary to create the dashboard.
 
 ## Team Members
 
+
 - Jeremy Scarcella: I started playing hockey at a young age and instantly fell in love with it, now I spend most of my free time watching or learning about the game.
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+
+
+- Noah: I have been a casual fan of the NHL for a couple years and I am using this procect to try and understand the sport on a deeper level.
+
 
 ## Images
 
@@ -28,7 +30,11 @@ The dataset we have chosen is titled NHL Game Data and was created by Martin Ell
 
 ## References
 
+
 [Link to Dataset here](https://www.kaggle.com/martinellis/nhl-game-data?select=game_goals.csv)
+
+
+
 
 
 
