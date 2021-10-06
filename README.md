@@ -13,13 +13,12 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+With this data analytics project, we hope to investigate any correlations between NHL player demographics and team compositions to better understand how teams utilize player demographics to create their lineups. Jeremy is very knowledgeable about the NHL and has been a fan for years; he is interested in using the project to gain a deeper understanding of the sport he greatly enjoys. Noah has been a casual fan for a while and he has recently become more interested in hockey; he is looking to use this project as a way to learn more about the sport and its various intricacies. A question we specifically wish to explore is what demographics are under or over-represented in the NHL and if individual teams build their teams with a higher focus on players with specific demographics. We believe that we can build a dashboard to represent the dataset we are attempting to analyze, but we currently lack the skills to do so. We believe as the course progresses we will learn the skills necessary to create the dashboard.
 
 ## Team Members
 
 - Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Noah: I have been a casual fan of the NHL for a couple years and I am using this procect to try and understand the sport on a deeper level.
 
 ## Images
 
@@ -29,7 +28,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
-{Add your stuff here}
+
 
 
 
