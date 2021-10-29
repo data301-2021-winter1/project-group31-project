@@ -1,7 +1,15 @@
 import pandas as pd
 import numpy as np
-def load_and_process():
 
+
+def unprocessed('../data/player_info.csv'):
+    df = pd.read_csv('../data/player_info.csv')
+    return df
+
+
+
+def load_and_process():
+    
     df1 = (
         pd.read_csv("/Users/noahandrew/school/year3/Data301/project-group31-project/player_info.csv")
         .drop('birthCity', axis=1)
