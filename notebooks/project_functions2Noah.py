@@ -3,7 +3,7 @@ import numpy as np
 def load_and_process():
 
     df1 = (
-        pd.read_csv("/Users/noahandrew/school/year3/Data301/project-group31-project/player_info.csv")
+        pd.read_csv("../data/raw/player_info.csv")
         .drop('birthCity', axis=1)
         .drop('birthDate', axis=1)
         .drop('birthStateProvince', axis=1)
