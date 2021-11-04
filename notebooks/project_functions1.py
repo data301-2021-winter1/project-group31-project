@@ -2,7 +2,7 @@ def load_and_process():
 
 
         df1 = (
-                pd.read_csv("/Users/JeremyScarcella/project-group31-project/player_info.csv")
+                pd.read_csv("../data/raw/player_info.csv")
                 .drop('height', axis=1)
                 .drop('birthCity', axis=1)
                 .drop('birthDate', axis=1)
