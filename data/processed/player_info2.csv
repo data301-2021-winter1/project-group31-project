@@ -1,0 +1,3926 @@
+primaryPosition,Player ID,firstName,lastName,nationality,height_cm,weight,shootsCatches
+Right Wing,8466148,Marian,Hossa,SVK,185.42,207.0,L
+Defence,8465058,Michal,Rozsival,CZE,185.42,210.0,R
+Defence,8476906,Shayne,Gostisbehere,USA,180.34,180.0,L
+Defence,8466285,Brian,Campbell,CAN,177.8,192.0,L
+Defence,8470607,Brent,Seabrook,CAN,190.5,220.0,R
+Right Wing,8474668,Dale,Weise,CAN,187.96,206.0,R
+Center,8473512,Claude,Giroux,CAN,180.34,185.0,R
+Goalie,8470645,Corey,Crawford,CAN,187.96,216.0,L
+Left Wing,8476994,Vinnie,Hinostroza,USA,175.26,173.0,R
+Center,8475323,Marcus,Kruger,SWE,182.88,186.0,L
+Defence,8473584,Andrew,MacDonald,CAN,185.42,204.0,L
+Defence,8478055,Gustav,Forsling,SWE,182.88,186.0,L
+Left Wing,8478550,Artemi,Panarin,RUS,180.34,168.0,R
+Right Wing,8476177,Matt,Read,CAN,177.8,185.0,R
+Goalie,8473461,Steve,Mason,CAN,193.04,210.0,R
+Defence,8475462,Radko,Gudas,CZE,182.88,204.0,R
+Center,8476393,Nick,Cousins,CAN,180.34,185.0,L
+Defence,8479482,Michal,Kempny,CZE,182.88,194.0,L
+Right Wing,8469547,Jordin,Tootoo,CAN,175.26,195.0,R
+Right Wing,8474190,Wayne,Simmonds,CAN,187.96,185.0,R
+Defence,8468513,Nick,Schultz,CAN,185.42,203.0,L
+Goalie,8473607,Michal,Neuvirth,CZE,185.42,209.0,L
+Defence,8471769,Niklas,Hjalmarsson,SWE,190.5,197.0,L
+Center,8477929,Dennis,Rasmussen,SWE,190.5,192.0,L
+Center,8471762,Chris,VandeVelde,USA,187.96,190.0,L
+Right Wing,8475209,Richard,Panik,SVK,185.42,208.0,L
+Center,8473604,Jonathan,Toews,CAN,187.96,201.0,L
+Center,8478439,Travis,Konecny,CAN,177.8,175.0,R
+Left Wing,8479648,Roman,Lyubimov,RUS,187.96,207.0,R
+Center,8470159,Boyd,Gordon,CAN,182.88,200.0,R
+Defence,8477845,Trevor,van Riemsdyk,USA,187.96,188.0,R
+Defence,8478500,Ivan,Provorov,RUS,185.42,201.0,L
+Defence,8475430,Brandon,Manning,CAN,185.42,205.0,L
+Defence,8470281,Duncan,Keith,CAN,185.42,192.0,L
+Right Wing,8474141,Patrick,Kane,USA,180.34,177.0,L
+Left Wing,8477930,Pierre-Edouard,Bellemare,FRA,182.88,198.0,L
+Right Wing,8474161,Jakub,Voracek,CZE,187.96,214.0,L
+Center,8477951,Nick,Schmaltz,USA,182.88,177.0,R
+Right Wing,8477451,Ryan,Hartman,USA,182.88,181.0,R
+Center,8476461,Sean,Couturier,CAN,190.5,211.0,L
+Center,8473573,Artem,Anisimov,RUS,193.04,198.0,L
+Center,8477353,Tyler,Motte,USA,177.8,191.0,L
+Center,8475170,Brayden,Schenn,CAN,185.42,200.0,L
+Defence,8468309,Mark,Streit,CHE,180.34,186.0,L
+Left Wing,8477290,Michael,Raffl,AUT,182.88,200.0,L
+Right Wing,8476806,J.T.,Brown,USA,177.8,169.0,R
+Left Wing,8471678,Benoit,Pouliot,CAN,190.5,200.0,L
+Goalie,8475215,Robin,Lehner,SWE,193.04,245.0,L
+Left Wing,8476866,Nicolas,Kerdiles,USA,187.96,200.0,L
+Left Wing,8471699,Andrew,Cogliano,CAN,177.8,177.0,L
+Right Wing,8470621,Corey,Perry,CAN,190.5,213.0,R
+Center,8477933,Sam,Reinhart,CAN,185.42,192.0,R
+Defence,8470324,Josh,Gorges,CAN,185.42,204.0,L
+Left Wing,8477941,Nick,Ritchie,CAN,187.96,234.0,L
+Defence,8476312,Josh,Manson,CAN,190.5,213.0,R
+Left Wing,8475169,Evander,Kane,CAN,187.96,212.0,L
+Defence,8479268,Casey,Nelson,USA,185.42,185.0,R
+Center,8475185,Jacob,Josefson,SWE,182.88,196.0,L
+Right Wing,8475780,Chris,Wagner,USA,182.88,198.0,R
+Right Wing,8475164,Jakob,Silfverberg,SWE,187.96,202.0,R
+Defence,8473560,Korbinian,Holzer,DEU,190.5,214.0,R
+Right Wing,8478131,Ondrej,Kase,CZE,182.88,185.0,R
+Center,8476293,Scott,Wilson,CAN,180.34,183.0,L
+Defence,8476470,Nathan,Beaulieu,CAN,187.96,200.0,L
+Center,8470616,Ryan,Kesler,USA,187.96,202.0,R
+Center,8468535,Antoine,Vermette,CAN,185.42,197.0,L
+Right Wing,8469506,Jason,Pominville,USA,182.88,180.0,R
+Defence,8467400,Francois,Beauchemin,CAN,180.34,208.0,L
+Center,8475728,Johan,Larsson,SWE,180.34,198.0,L
+Defence,8474618,Marco,Scandella,CAN,190.5,208.0,L
+Goalie,8468011,Ryan,Miller,USA,190.5,173.0,L
+Defence,8475764,Cam,Fowler,USA,185.42,215.0,L
+Center,8470612,Ryan,Getzlaf,CAN,193.04,223.0,R
+Defence,8477986,Brandon,Montour,CAN,182.88,192.0,R
+Defence,8476854,Hampus,Lindholm,SWE,190.5,208.0,L
+Center,8475325,Jordan,Nolan,CAN,190.5,219.0,L
+Defence,8476931,Jake,McCabe,USA,185.42,210.0,L
+Right Wing,8473449,Kyle,Okposo,USA,182.88,220.0,R
+Center,8476878,Zemgus,Girgensons,LVA,187.96,207.0,L
+Defence,8477499,Rasmus,Ristolainen,FIN,193.04,218.0,R
+Defence,8479755,Victor,Antipin,RUS,180.34,175.0,L
+Center,8474683,Derek,Grant,CAN,190.5,215.0,L
+Center,8478403,Jack,Eichel,USA,187.96,206.0,R
+Center,8474641,Adam,Henrique,CAN,182.88,195.0,L
+Center,8475158,Ryan,O'Reilly,CAN,185.42,216.0,L
+Defence,8473992,Justin,Falk,CAN,195.58,223.0,L
+Center,8476483,Rickard,Rakell,SWE,187.96,198.0,R
+Left Wing,8478542,Evan,Rodrigues,CAN,180.34,182.0,R
+Defence,8469598,Kevin,Bieksa,CAN,185.42,197.0,R
+Center,8473618,Mathieu,Perreault,CAN,177.8,188.0,L
+Right Wing,8471218,Blake,Wheeler,USA,195.58,225.0,R
+Defence,8470828,Toby,Enstrom,SWE,177.8,180.0,L
+Right Wing,8462042,Jarome,Iginla,CAN,185.42,210.0,R
+Center,8473412,Bryan,Little,CAN,182.88,191.0,R
+Defence,8475759,Brandon,Gormley,CAN,187.96,196.0,L
+Goalie,8473575,Semyon,Varlamov,RUS,187.96,209.0,L
+Left Wing,8471657,Cody,McLeod,CAN,187.96,210.0,L
+Left Wing,8471217,Andrew,Ladd,CAN,190.5,200.0,L
+Right Wing,8476469,Joel,Armia,FIN,190.5,205.0,R
+Defence,8474207,Nick,Holden,CAN,193.04,214.0,L
+Defence,8474743,Zach,Redmond,USA,187.96,212.0,R
+Center,8476888,Mikhail,Grigorenko,RUS,190.5,209.0,L
+Left Wing,8471260,Blake,Comeau,CAN,185.42,202.0,R
+Center,8475168,Matt,Duchene,CAN,180.34,195.0,L
+Left Wing,8476455,Gabriel,Landeskog,SWE,185.42,215.0,L
+Defence,8474574,Tyler,Myers,CAN,203.2,229.0,R
+Defence,8474074,Paul,Postma,CAN,190.5,195.0,R
+Left Wing,8477940,Nikolaj,Ehlers,DNK,182.88,172.0,L
+Right Wing,8471681,Jack,Skille,USA,185.42,216.0,R
+Defence,8471385,Adam,Pardy,CAN,193.04,227.0,L
+Center,8471262,Carl,Soderberg,SWE,190.5,210.0,L
+Center,8476392,Adam,Lowry,USA,195.58,210.0,L
+Right Wing,8469501,Chris,Thorburn,CAN,190.5,235.0,R
+Defence,8470317,Nate,Guenin,USA,190.5,207.0,R
+Defence,8470614,Mark,Stuart,USA,187.96,215.0,L
+Defence,8470834,Dustin,Byfuglien,USA,195.58,260.0,R
+Defence,8473446,Erik,Johnson,USA,193.04,225.0,R
+Center,8470750,John,Mitchell,CAN,185.42,204.0,L
+Right Wing,8477902,Dennis,Everberg,SWE,193.04,205.0,L
+Center,8477429,Andrew,Copp,USA,185.42,206.0,L
+Goalie,8474636,Michael,Hutchinson,CAN,190.5,202.0,R
+Center,8475788,Alexander,Burmistrov,RUS,185.42,180.0,L
+Right Wing,8471226,Drew,Stafford,USA,187.96,214.0,R
+Defence,8476885,Jacob,Trouba,USA,190.5,202.0,R
+Defence,8475279,Ben,Chiarot,CAN,190.5,219.0,L
+Center,8476460,Mark,Scheifele,CAN,190.5,207.0,R
+Left Wing,8478561,Andreas,Martinsen,NOR,190.5,229.0,L
+Defence,8475197,Tyson,Barrie,CAN,177.8,190.0,R
+Center,8477492,Nathan,MacKinnon,CAN,182.88,205.0,R
+Right Wing,8474061,Anthony,Peluso,CAN,190.5,225.0,R
+Goalie,8471715,Ondrej,Pavelec,CZE,190.5,212.0,L
+Center,8473533,Jordan,Staal,CAN,193.04,220.0,L
+Goalie,8470320,Cam,Ward,CAN,185.42,185.0,L
+Defence,8475753,Justin,Faulk,USA,182.88,215.0,R
+Defence,8477488,Brett,Pesce,USA,190.5,200.0,R
+Left Wing,8474052,Chris,Terry,CAN,177.8,191.0,L
+Left Wing,8475784,Jeff,Skinner,CAN,180.34,200.0,L
+Goalie,8475663,Eddie,Lack,SWE,193.04,187.0,L
+Defence,8478396,Noah,Hanifin,USA,190.5,206.0,L
+Defence,8468639,John-Michael,Liles,USA,177.8,185.0,L
+Center,8471804,Nathan,Gerbe,USA,162.56,176.0,L
+Center,8469508,Jay,McClement,CAN,185.42,205.0,L
+Left Wing,8475807,Joakim,Nordstrom,SWE,185.42,189.0,L
+Left Wing,8476858,Phillip,Di Giuseppe,CAN,182.88,200.0,L
+Defence,8468493,Ron,Hainsey,USA,190.5,210.0,L
+Defence,8476958,Jaccob,Slavin,USA,190.5,205.0,L
+Center,8470595,Eric,Staal,CAN,193.04,208.0,L
+Right Wing,8471346,Kris,Versteeg,CAN,180.34,176.0,R
+Center,8476437,Victor,Rask,SWE,187.96,200.0,L
+Defence,8474661,Michal,Jordan,CZE,185.42,195.0,L
+Center,8474062,Riley,Nash,CAN,185.42,200.0,R
+Center,8475250,Andrej,Nestrasil,CZE,190.5,200.0,L
+Center,8474089,Brad,Malone,CAN,187.96,207.0,L
+Center,8477496,Elias,Lindholm,SWE,185.42,192.0,R
+Defence,8470966,Mark,Giordano,CAN,182.88,198.0,L
+Defence,8474628,Michael,Stone,CAN,190.5,210.0,R
+Defence,8474749,Matt,Bartkowski,USA,185.42,196.0,L
+Center,8475878,Freddie,Hamilton,CAN,185.42,195.0,R
+Defence,8476967,Brett,Kulak,CAN,187.96,187.0,L
+Center,8477935,Sam,Bennett,CAN,185.42,200.0,L
+Defence,8476407,Andy,Welinski,USA,185.42,206.0,R
+Left Wing,8476971,Kevin,Roy,CAN,175.26,170.0,L
+Defence,8474673,TJ,Brodie,CAN,185.42,182.0,L
+Center,8476873,Mark,Jankowski,CAN,193.04,202.0,L
+Center,8474150,Mikael,Backlund,SWE,185.42,199.0,L
+Goalie,8476434,John,Gibson,USA,190.5,223.0,L
+Right Wing,8448208,Jaromir,Jagr,CZE,190.5,230.0,L
+Goalie,8469608,Mike,Smith,CAN,193.04,215.0,L
+Left Wing,8475907,Micheal,Ferland,CAN,187.96,208.0,L
+Right Wing,8477903,Garnet,Hathaway,USA,187.96,208.0,R
+Center,8477508,Curtis,Lazar,CAN,182.88,209.0,R
+Right Wing,8473564,Michael,Frolik,CZE,185.42,194.0,L
+Right Wing,8471426,Troy,Brouwer,CAN,190.5,215.0,R
+Defence,8474612,Travis,Hamonic,CAN,187.96,205.0,R
+Right Wing,8476400,Logan,Shaw,CAN,190.5,208.0,R
+Left Wing,8476346,Johnny,Gaudreau,USA,175.26,157.0,L
+Left Wing,8479314,Matthew,Tkachuk,USA,187.96,202.0,L
+Center,8477497,Sean,Monahan,CAN,190.5,195.0,L
+Defence,8476462,Dougie,Hamilton,CAN,198.12,210.0,R
+Center,8470162,Matt,Stajan,CAN,185.42,195.0,L
+Center,8476808,Brian,Flynn,USA,185.42,183.0,R
+Left Wing,8471476,Daniel,Winnik,CAN,187.96,210.0,L
+Right Wing,8476769,Bobby,Farnham,USA,177.8,190.0,L
+Right Wing,8477957,Nikita,Scherbak,RUS,187.96,192.0,L
+Center,8471338,Torrey,Mitchell,CAN,180.34,186.0,R
+Goalie,8471679,Carey,Price,CAN,190.5,215.0,L
+Left Wing,8471214,Alex,Ovechkin,RUS,190.5,235.0,R
+Right Wing,8471698,T.J.,Oshie,USA,180.34,195.0,R
+Defence,8470642,Shea,Weber,CAN,193.04,230.0,R
+Center,8474008,Paul,Carey,USA,185.42,200.0,L
+Defence,8471710,Taylor,Chorney,USA,182.88,193.0,L
+Left Wing,8477444,Andre,Burakovsky,SWE,190.5,201.0,L
+Defence,8475200,Dmitry,Orlov,RUS,180.34,212.0,L
+Goalie,8474651,Braden,Holtby,CAN,187.96,211.0,L
+Right Wing,8477446,Michael,McCarron,USA,198.12,230.0,R
+Center,8473563,Nicklas,Backstrom,SWE,185.42,210.0,L
+Defence,8474590,John,Carlson,USA,190.5,218.0,R
+Defence,8477220,Nate,Schmidt,USA,185.42,194.0,L
+Left Wing,8474157,Max,Pacioretty,USA,187.96,206.0,L
+Center,8469521,Tomas,Plekanec,CZE,180.34,193.0,L
+Center,8474291,Jay,Beagle,CAN,190.5,218.0,R
+Defence,8471702,Matt,Niskanen,USA,185.42,203.0,R
+Defence,8473507,Jeff,Petry,USA,190.5,208.0,R
+Defence,8468498,Brooks,Orpik,USA,190.5,217.0,L
+Defence,8474717,Mark,Barberio,CAN,185.42,207.0,L
+Left Wing,8474038,Paul,Byron,CAN,175.26,162.0,L
+Center,8476479,Phillip,Danault,CAN,185.42,195.0,L
+Left Wing,8475149,Marcus,Johansson,SWE,185.42,205.0,L
+Right Wing,8471228,Alexander,Radulov,RUS,185.42,201.0,L
+Center,8475744,Evgeny,Kuznetsov,RUS,187.96,204.0,L
+Left Wing,8477901,Daniel,Carr,CAN,182.88,193.0,L
+Left Wing,8477476,Artturi,Lehkonen,FIN,182.88,183.0,L
+Right Wing,8477413,Sven,Andrighetto,CHE,177.8,188.0,L
+Defence,8478963,Ryan,Johnston,CAN,177.8,180.0,R
+Defence,8471296,Alexei,Emelin,RUS,187.96,218.0,L
+Center,8474189,Lars,Eller,DNK,187.96,207.0,L
+Defence,8473991,Karl,Alzner,CAN,190.5,217.0,L
+Right Wing,8476880,Tom,Wilson,CAN,193.04,218.0,R
+Right Wing,8475792,Brett,Connolly,CAN,190.5,195.0,R
+Right Wing,8468508,Justin,Williams,CAN,185.42,188.0,R
+Center,8477070,Liam,O'Brien,CAN,185.42,215.0,L
+Center,8470604,Jeff,Carter,CAN,190.5,217.0,R
+Defence,8470602,Dion,Phaneuf,CAN,190.5,219.0,L
+Left Wing,8470207,Joffrey,Lupul,CAN,185.42,211.0,R
+Right Wing,8470606,Dustin,Brown,USA,182.88,216.0,R
+Center,8476406,Nick,Shore,USA,185.42,201.0,R
+Right Wing,8468483,Marian,Gaborik,SVK,185.42,205.0,L
+Defence,8475716,Martin,Marincin,SVK,193.04,210.0,L
+Defence,8471436,Matt,Hunwick,USA,180.34,200.0,L
+Goalie,8471734,Jonathan,Quick,USA,185.42,218.0,L
+Left Wing,8476404,Andy,Andreoff,CAN,185.42,210.0,L
+Defence,8474568,Luke,Schenn,CAN,187.96,229.0,R
+Defence,8475188,Brayden,McNabb,CAN,193.04,212.0,L
+Left Wing,8476871,Tanner,Pearson,CAN,185.42,204.0,L
+Center,8473463,Leo,Komarov,FIN,180.34,210.0,L
+Left Wing,8476352,Michael,Mersch,USA,187.96,213.0,L
+Center,8475180,Peter,Holland,CAN,187.96,205.0,L
+Center,8467329,Vincent,Lecavalier,CAN,193.04,215.0,L
+Right Wing,8469707,PA,Parenteau,CAN,182.88,200.0,R
+Center,8471685,Anze,Kopitar,SVN,190.5,224.0,L
+Center,8475726,Tyler,Toffoli,CAN,182.88,201.0,R
+Left Wing,8474037,James,van Riemsdyk,USA,190.5,210.0,L
+Defence,8476853,Morgan,Rielly,CAN,185.42,215.0,L
+Goalie,8473503,James,Reimer,CAN,187.96,217.0,L
+Right Wing,8473546,Michael,Grabner,AUT,185.42,188.0,L
+Goalie,8477312,Antoine,Bibeau,CAN,190.5,205.0,L
+Defence,8471392,Roman,Polak,CZE,187.96,235.0,R
+Center,8475278,Byron,Froese,CAN,185.42,202.0,R
+Defence,8474162,Jake,Muzzin,CAN,190.5,216.0,L
+Defence,8474563,Drew,Doughty,CAN,185.42,195.0,R
+Defence,8476302,Frank,Corrado,CAN,182.88,205.0,R
+Left Wing,8473574,Shawn,Matthias,CAN,193.04,231.0,L
+Center,8473453,Trevor,Lewis,USA,185.42,201.0,R
+Center,8475098,Tyler,Bozak,CAN,185.42,195.0,R
+Defence,8474581,Jake,Gardiner,USA,187.96,200.0,L
+Left Wing,8473473,Milan,Lucic,CAN,190.5,236.0,L
+Defence,8474166,Alec,Martinez,USA,185.42,212.0,L
+Left Wing,8474100,Dwight,King,CAN,193.04,229.0,L
+Defence,8473571,Jamie,McBain,USA,185.42,180.0,R
+Right Wing,8476062,Mark,Arcobello,USA,172.72,174.0,R
+Center,8475172,Nazem,Kadri,CAN,182.88,195.0,L
+Defence,8469555,Christian,Ehrhoff,DEU,187.96,201.0,L
+Right Wing,8468504,Brad,Boyes,CAN,182.88,199.0,R
+Center,8467876,Henrik,Sedin,SWE,187.96,183.0,L
+Left Wing,8467875,Daniel,Sedin,SWE,185.42,190.0,L
+Goalie,8473499,Reto,Berra,CHE,193.04,218.0,L
+Right Wing,8473432,Derek,Dorsett,CAN,182.88,192.0,R
+Right Wing,8477937,Jake,Virtanen,CAN,185.42,229.0,R
+Defence,8474605,Patrick,Wiercioch,CAN,195.58,202.0,L
+Defence,8477018,Ben,Hutton,CAN,187.96,207.0,L
+Defence,8473415,Alex,Biega,CAN,177.8,193.0,R
+Center,8476867,Brendan,Gaunce,CAN,187.96,217.0,L
+Defence,8475222,Sami,Vatanen,FIN,177.8,185.0,R
+Center,8477500,Bo,Horvat,CAN,182.88,223.0,L
+Goalie,8474593,Jacob,Markstrom,SWE,198.12,196.0,L
+Center,8474091,Brandon,Sutter,CAN,190.5,191.0,R
+Left Wing,8470598,Thomas,Vanek,AUT,187.96,214.0,R
+Defence,8471303,Alexander,Edler,SWE,190.5,214.0,L
+Defence,8474584,Michael,Del Zotto,CAN,182.88,195.0,L
+Right Wing,8478444,Brock,Boeser,USA,185.42,191.0,R
+Defence,8476884,Derrick,Pouliot,CAN,182.88,208.0,L
+Left Wing,8476466,Sven,Baertschi,CHE,180.34,192.0,L
+Center,8474040,Sam,Gagner,CAN,180.34,200.0,R
+Center,8476423,Reid,Boucher,USA,177.8,195.0,L
+Defence,8475790,Erik,Gudbranson,CAN,195.58,220.0,R
+Center,8476440,Markus,Granlund,FIN,182.88,183.0,L
+Defence,8477034,Jaycob,Megna,USA,198.12,219.0,L
+Center,8479290,Kalle,Kossila,FIN,177.8,185.0,L
+Center,8474569,Colin,Wilson,USA,185.42,221.0,L
+Defence,8478906,Markus,Nutivaara,FIN,185.42,191.0,L
+Defence,8476449,Scott,Harrington,CAN,187.96,207.0,L
+Defence,8471677,Jack,Johnson,USA,185.42,227.0,L
+Right Wing,8477416,Oliver,Bjorkstrand,DNK,182.88,177.0,R
+Center,8476310,Lukas,Sedlak,CZE,182.88,205.0,L
+Goalie,8475683,Sergei,Bobrovsky,RUS,187.96,182.0,L
+Center,8476432,Boone,Jenner,CAN,187.96,206.0,L
+Left Wing,8475147,Jordan,Schroeder,USA,175.26,170.0,R
+Left Wing,8475268,Gabriel,Bourque,CAN,177.8,206.0,L
+Goalie,8473541,Jonathan,Bernier,CAN,182.88,184.0,L
+Center,8479400,Pierre-Luc,Dubois,CAN,190.5,207.0,L
+Center,8477021,Alexander,Kerfoot,CAN,177.8,175.0,L
+Defence,8478073,Anton,Lindholm,SWE,180.34,191.0,L
+Left Wing,8477947,Sonny,Milano,USA,182.88,195.0,L
+Defence,8477507,Nikita,Zadorov,RUS,195.58,230.0,L
+Defence,8475747,Patrik,Nemeth,SWE,190.5,219.0,L
+Left Wing,8473422,Nick,Foligno,USA,182.88,202.0,L
+Center,8474610,Zac,Dalpe,CAN,187.96,194.0,R
+Right Wing,8476855,Nail,Yakupov,RUS,180.34,195.0,L
+Right Wing,8476981,Josh,Anderson,CAN,190.5,221.0,R
+Left Wing,8476442,Matt,Nieto,USA,180.34,190.0,L
+Defence,8475233,David,Savard,CAN,187.96,227.0,R
+Left Wing,8474685,Matt,Calvert,CAN,180.34,186.0,L
+Defence,8478567,Dean,Kukan,CHE,187.96,186.0,L
+Defence,8478842,Andrei,Mironov,RUS,190.5,194.0,L
+Defence,8477495,Seth,Jones,USA,193.04,210.0,R
+Left Wing,8478421,A.J.,Greer,CAN,190.5,204.0,L
+Left Wing,8478541,Markus,Hannikainen,FIN,185.42,200.0,L
+Defence,8479398,Samuel,Girard,CAN,177.8,162.0,L
+Right Wing,8478420,Mikko,Rantanen,FIN,193.04,211.0,L
+Defence,8478460,Zach,Werenski,USA,187.96,209.0,L
+Center,8479370,Tyson,Jost,CAN,180.34,191.0,L
+Center,8473914,Mark,Letestu,CAN,177.8,195.0,R
+Defence,8471816,Mark,Fayne,USA,190.5,209.0,R
+Defence,8467452,Rob,Scuderi,USA,185.42,216.0,L
+Defence,8474602,Justin,Schultz,CAN,187.96,193.0,R
+Center,8471675,Sidney,Crosby,CAN,180.34,200.0,L
+Left Wing,8471232,Lauri,Korpikoski,FIN,185.42,193.0,L
+Left Wing,8478928,Sergei,Plotnikov,RUS,187.96,202.0,L
+Goalie,8473553,Jeff,Zatkoff,USA,187.96,186.0,L
+Defence,8473933,Ben,Lovejoy,USA,185.42,205.0,R
+Center,8477934,Leon,Draisaitl,DEU,187.96,215.0,L
+Center,8474009,Nick,Bonino,USA,185.42,196.0,L
+Left Wing,8470543,Chris,Kunitz,CAN,182.88,195.0,L
+Center,8471215,Evgeni,Malkin,RUS,190.5,195.0,L
+Defence,8476431,Adam,Clendening,USA,182.88,196.0,R
+Center,8476454,Ryan,Nugent-Hopkins,CAN,182.88,191.0,L
+Right Wing,8475761,Beau,Bennett,USA,187.96,195.0,R
+Defence,8476874,Olli,Maatta,FIN,187.96,206.0,L
+Defence,8476472,Oscar,Klefbom,SWE,190.5,215.0,L
+Defence,8474013,Ian,Cole,USA,185.42,219.0,L
+Defence,8471284,Andrej,Sekera,SVK,182.88,200.0,L
+Center,8475165,Anton,Lander,SWE,182.88,184.0,L
+Center,8468611,Matt,Hendricks,USA,182.88,209.0,L
+Defence,8466333,Andrew,Ference,CAN,180.34,182.0,L
+Defence,8471724,Kris,Letang,CAN,182.88,201.0,R
+Defence,8473468,Eric,Gryba,CAN,193.04,222.0,R
+Right Wing,8466393,Pascal,Dupuis,CAN,185.42,205.0,L
+Left Wing,8473962,Teddy,Purcell,CAN,187.96,195.0,R
+Defence,8475208,Brian,Dumoulin,USA,193.04,207.0,L
+Defence,8475869,Brandon,Davidson,CAN,187.96,208.0,L
+Left Wing,8476915,Jujhar,Khaira,CAN,193.04,214.0,L
+Right Wing,8476336,Iiro,Pakarinen,FIN,185.42,212.0,R
+Left Wing,8473989,Luke,Gazdic,CAN,193.04,225.0,L
+Center,8470611,Eric,Fehr,CAN,193.04,208.0,R
+Right Wing,8471887,Patric,Hornqvist,SWE,180.34,189.0,R
+Right Wing,8473548,Phil,Kessel,USA,182.88,202.0,R
+Defence,8474660,David,Warsofsky,USA,175.26,170.0,L
+Defence,8477498,Darnell,Nurse,CAN,193.04,221.0,L
+Right Wing,8478466,Daniel,Sprong,NLD,182.88,180.0,R
+Center,8474586,Jordan,Eberle,CAN,180.34,187.0,R
+Goalie,8475195,Anders,Nilsson,SWE,198.12,229.0,L
+Left Wing,8474102,David,Perron,CAN,182.88,200.0,R
+Left Wing,8475791,Taylor,Hall,CAN,185.42,205.0,L
+Center,8464989,Matt,Cullen,USA,185.42,202.0,L
+Left Wing,8474849,Antoine,Roussel,FRA,180.34,195.0,L
+Goalie,8476945,Connor,Hellebuyck,USA,193.04,207.0,L
+Defence,8476902,Esa,Lindell,FIN,190.5,213.0,L
+Left Wing,8473994,Jamie,Benn,CAN,187.96,209.0,L
+Defence,8470760,Marc,Methot,CAN,193.04,233.0,L
+Goalie,8471750,Ben,Bishop,USA,200.66,225.0,L
+Right Wing,8479339,Patrik,Laine,FIN,195.58,206.0,R
+Defence,8474688,Greg,Pateryn,USA,190.5,224.0,R
+Center,8476966,Gemel,Smith,CAN,177.8,190.0,L
+Center,8476889,Radek,Faksa,CZE,190.5,216.0,L
+Left Wing,8477962,Brendan,Lemieux,USA,185.42,210.0,L
+Left Wing,8477461,Remi,Elie,CAN,185.42,210.0,L
+Left Wing,8478398,Kyle,Connor,USA,185.42,182.0,L
+Defence,8469465,Dan,Hamhuis,CAN,185.42,204.0,L
+Defence,8475906,John,Klingberg,SWE,187.96,177.0,R
+Center,8476913,Devin,Shore,CAN,182.88,205.0,L
+Center,8477448,Marko,Dano,SVK,180.34,212.0,L
+Center,8477406,Mattias,Janmark,SWE,185.42,196.0,L
+Defence,8477504,Josh,Morrissey,CAN,182.88,195.0,L
+Center,8475794,Tyler,Seguin,CAN,185.42,201.0,R
+Defence,8475179,Dmitry,Kulikov,RUS,185.42,204.0,L
+Defence,8476467,Jamie,Oleksiak,CAN,200.66,255.0,L
+Defence,8475730,Stephen,Johns,USA,193.04,221.0,R
+Center,8475752,Tyler,Pitlick,USA,187.96,200.0,R
+Center,8477450,Jason,Dickinson,CAN,187.96,205.0,L
+Center,8471691,Martin,Hanzal,CZE,198.12,230.0,L
+Center,8469455,Jason,Spezza,CAN,190.5,214.0,R
+Left Wing,8479293,Brandon,Tanev,CAN,182.88,180.0,L
+Goalie,8470860,Jaroslav,Halak,SVK,180.34,183.0,L
+Defence,8476429,Scott,Mayfield,USA,193.04,227.0,R
+Defence,8475857,Kevin,Gravel,USA,193.04,212.0,L
+Defence,8470187,Johnny,Boychuk,CAN,187.96,227.0,R
+Defence,8470121,Matt,Greene,USA,190.5,236.0,R
+Center,8476409,Alan,Quine,CAN,182.88,203.0,L
+Left Wing,8475314,Anders,Lee,USA,190.5,231.0,L
+Center,8475754,Brock,Nelson,USA,190.5,212.0,L
+Left Wing,8473579,Nikolay,Kulemin,RUS,185.42,228.0,L
+Defence,8470104,Tom,Gilbert,USA,187.96,210.0,R
+Center,8475166,John,Tavares,CAN,185.42,208.0,L
+Right Wing,8474573,Josh,Bailey,CAN,185.42,203.0,L
+Center,8475343,Nic,Dowd,USA,187.96,197.0,R
+Defence,8475762,Derek,Forbort,USA,193.04,215.0,L
+Right Wing,8471682,Devin,Setoguchi,CAN,182.88,205.0,R
+Defence,8475181,Nick,Leddy,USA,182.88,204.0,L
+Left Wing,8475160,Kyle,Clifford,CAN,187.96,211.0,L
+Goalie,8471306,Thomas,Greiss,DEU,185.42,227.0,L
+Defence,8476917,Adam,Pelech,CAN,190.5,217.0,L
+Left Wing,8466251,Jason,Chimera,CAN,190.5,215.0,L
+Center,8476458,Ryan,Strome,CAN,185.42,194.0,R
+Right Wing,8473504,Cal,Clutterbuck,CAN,180.34,216.0,R
+Defence,8475177,Calvin,de Haan,CAN,185.42,198.0,L
+Center,8478463,Anthony,Beauvillier,CAN,180.34,182.0,L
+Left Wing,8476386,Shane,Prince,USA,180.34,193.0,L
+Defence,8474066,Thomas,Hickey,CAN,182.88,188.0,L
+Center,8475231,Casey,Cizikas,CAN,180.34,200.0,L
+Goalie,8469514,Peter,Budaj,SVK,185.42,196.0,L
+Defence,8469619,Dennis,Seidenberg,DEU,182.88,199.0,L
+Left Wing,8477936,Michael,Dal Colle,CAN,190.5,204.0,L
+Right Wing,8476326,Josh,Archibald,CAN,177.8,176.0,R
+Left Wing,8476921,Jordan,Martinook,CAN,182.88,204.0,L
+Center,8479206,Tanner,Fritz,CAN,180.34,192.0,R
+Center,8476356,Tobias,Rieder,DEU,180.34,188.0,L
+Defence,8475246,Kevin,Connauton,CAN,187.96,205.0,L
+Defence,8479345,Jakob,Chychrun,USA,187.96,210.0,L
+Right Wing,8478432,Christian,Fischer,USA,187.96,214.0,R
+Center,8479343,Clayton,Keller,USA,177.8,170.0,L
+Defence,8480222,Sebastian,Aho,SWE,177.8,170.0,L
+Center,8474613,Derek,Stepan,USA,182.88,196.0,R
+Defence,8477506,Ryan,Pulock,CAN,187.96,214.0,R
+Center,8474736,Zac,Rinaldo,CAN,177.8,192.0,L
+Left Wing,8477943,Brendan,Perlini,GBR,190.5,211.0,L
+Left Wing,8477503,Max,Domi,CAN,177.8,195.0,L
+Center,8470755,Brad,Richardson,CAN,182.88,190.0,L
+Left Wing,8477527,Ross,Johnston,CAN,195.58,235.0,L
+Center,8477989,Christian,Dvorak,USA,182.88,195.0,L
+Defence,8474218,Jason,Demers,CAN,185.42,195.0,R
+Center,8478445,Mathew,Barzal,CAN,182.88,189.0,R
+Defence,8471274,Alex,Goligoski,USA,180.34,185.0,L
+Goalie,8477293,Antti,Raanta,FIN,182.88,195.0,L
+Defence,8475171,Oliver,Ekman-Larsson,SWE,187.96,200.0,L
+Goalie,8475839,Louis,Domingue,CAN,190.5,210.0,R
+Right Wing,8468085,Radim,Vrbata,CZE,185.42,194.0,R
+Left Wing,8478474,Lawson,Crouse,CAN,193.04,220.0,L
+Left Wing,8477464,Nic,Petan,CAN,175.26,179.0,L
+Defence,8476473,Connor,Murphy,USA,193.04,212.0,R
+Center,8477460,Laurent,Dauphin,CAN,185.42,180.0,L
+Right Wing,8462038,Shane,Doan,CAN,185.42,223.0,R
+Left Wing,8477407,Anthony,Duclair,CAN,180.34,191.0,L
+Center,8473466,Ryan,White,CAN,182.88,200.0,R
+Left Wing,8473465,Jamie,McGinn,CAN,185.42,205.0,L
+Defence,8477950,Tony,DeAngelo,USA,180.34,181.0,R
+Center,8478440,Dylan,Strome,CAN,190.5,200.0,L
+Center,8475769,Quinton,Howden,CAN,187.96,189.0,L
+Center,8478029,Chase,De Leo,USA,175.26,185.0,L
+Center,8469759,Vernon,Fiddler,CAN,180.34,205.0,L
+Defence,8470724,Kyle,Quincey,CAN,187.96,210.0,L
+Defence,8476923,Damon,Severson,CAN,187.96,205.0,R
+Right Wing,8475758,Devante,Smith-Pelly,CAN,182.88,223.0,R
+Center,8471233,Travis,Zajac,CAN,187.96,185.0,R
+Goalie,8476234,Keith,Kinkaid,USA,190.5,195.0,L
+Defence,8475186,John,Moore,USA,187.96,210.0,L
+Defence,8479483,Yohann,Auvitu,FRA,180.34,187.0,L
+Left Wing,8469500,Michael,Cammalleri,CAN,175.26,185.0,L
+Defence,8472382,Andy,Greene,USA,180.34,190.0,L
+Center,8478401,Pavel,Zacha,CZE,190.5,210.0,L
+Center,8478566,Sergey,Kalinin,RUS,190.5,200.0,L
+Right Wing,8475151,Kyle,Palmieri,USA,180.34,185.0,R
+Right Wing,8479250,Nick,Lappin,USA,185.42,175.0,R
+Left Wing,8477839,Conor,Sheary,USA,172.72,175.0,L
+Goalie,8470880,Brian,Elliott,CAN,187.96,209.0,L
+Left Wing,8474642,Lance,Bouma,CAN,187.96,208.0,L
+Right Wing,8475832,Tom,Kuhnhackl,DEU,187.96,196.0,L
+Defence,8478397,Rasmus,Andersson,SWE,185.42,214.0,R
+Right Wing,8475163,Alex,Chiasson,CAN,193.04,208.0,R
+Defence,8477244,Chad,Ruhwedel,USA,180.34,191.0,R
+Left Wing,8474176,Carl,Hagelin,SWE,180.34,186.0,L
+Right Wing,8477240,Carter,Rowney,CAN,187.96,200.0,R
+Defence,8468674,Deryk,Engelland,CAN,187.96,214.0,R
+Goalie,8470594,Marc-Andre,Fleury,CAN,187.96,180.0,L
+Left Wing,8473542,Tom,Sestito,USA,195.58,228.0,L
+Center,8476897,Oskar,Sundqvist,SWE,190.5,209.0,R
+Center,8477404,Jake,Guentzel,USA,180.34,180.0,L
+Defence,8474611,Cameron,Gaunce,CAN,187.96,204.0,L
+Defence,8469770,Dennis,Wideman,CAN,182.88,202.0,R
+Defence,8471958,Dan,Girardi,CAN,185.42,212.0,R
+Right Wing,8471339,Ryan,Callahan,USA,177.8,187.0,R
+Defence,8471873,Anton,Stralman,SWE,180.34,190.0,R
+Center,8476826,Yanni,Gourde,CAN,175.26,172.0,L
+Center,8476468,J.T.,Miller,USA,185.42,218.0,L
+Defence,8476886,Slater,Koekkoek,CAN,187.96,193.0,L
+Defence,8470601,Braydon,Coburn,CAN,195.58,223.0,L
+Right Wing,8476453,Nikita,Kucherov,RUS,180.34,178.0,L
+Center,8474870,Tyler,Johnson,USA,172.72,183.0,R
+Defence,8475167,Victor,Hedman,SWE,198.12,223.0,L
+Defence,8474151,Ryan,McDonagh,USA,185.42,215.0,L
+Center,8478010,Brayden,Point,CAN,177.8,166.0,R
+Center,8476195,Cory,Conacher,CAN,172.72,180.0,L
+Center,8478519,Anthony,Cirelli,CAN,182.88,180.0,L
+Right Wing,8476439,Brett,Ritchie,CAN,190.5,217.0,R
+Center,8476975,Cedric,Paquette,CAN,185.42,198.0,L
+Defence,8477205,Andrej,Sustr,CZE,200.66,220.0,R
+Defence,8477945,Julius,Honka,FIN,180.34,186.0,R
+Left Wing,8473986,Alex,Killorn,CAN,185.42,196.0,L
+Defence,8477009,Jake,Dotchin,CAN,190.5,210.0,R
+Left Wing,8477454,Adam,Erne,USA,185.42,214.0,L
+Center,8474564,Steven,Stamkos,CAN,185.42,194.0,R
+Defence,8479410,Mikhail,Sergachev,RUS,190.5,215.0,L
+Right Wing,8470740,Lee,Stempniak,USA,180.34,195.0,R
+Defence,8477938,Haydn,Fleury,CAN,190.5,221.0,L
+Left Wing,8477415,Anton,Slepyshev,RUS,187.96,221.0,R
+Right Wing,8478427,Sebastian,Aho,FIN,180.34,172.0,L
+Defence,8476403,Klas,Dahlbeck,SWE,190.5,207.0,L
+Left Wing,8477458,Valentin,Zykov,RUS,185.42,224.0,R
+Right Wing,8476427,Ty,Rattie,CAN,180.34,184.0,R
+Defence,8476988,Matt,Benning,CAN,185.42,204.0,R
+Goalie,8474152,Scott,Darling,USA,198.12,232.0,L
+Left Wing,8479465,Drake,Caggiula,CAN,177.8,185.0,L
+Right Wing,8479344,Jesse,Puljujarvi,FIN,193.04,211.0,R
+Defence,8478451,Ethan,Bear,CAN,180.34,209.0,R
+Goalie,8475660,Cam,Talbot,CAN,193.04,200.0,L
+Defence,8471729,Kris,Russell,CAN,177.8,173.0,L
+Left Wing,8476857,Pontus,Aberg,SWE,180.34,196.0,R
+Left Wing,8476934,Brock,McGinn,CAN,182.88,185.0,L
+Defence,8476457,Adam,Larsson,SWE,190.5,210.0,R
+Defence,8476416,Dillon,Simpson,CAN,187.96,204.0,L
+Left Wing,8476882,Teuvo,Teravainen,FIN,180.34,178.0,L
+Right Wing,8475178,Zack,Kassian,CAN,190.5,209.0,R
+Center,8478402,Connor,McDavid,CAN,185.42,192.0,L
+Center,8478585,Derek,Ryan,USA,180.34,170.0,R
+Center,8471311,Tyler,Kennedy,CAN,180.34,185.0,R
+Center,8471331,Kevin,Porter,USA,180.34,191.0,L
+Goalie,8471239,Cory,Schneider,USA,190.5,205.0,L
+Right Wing,8475810,Bryan,Rust,USA,180.34,192.0,R
+Left Wing,8469462,Tuomo,Ruutu,FIN,182.88,200.0,L
+Defence,8470110,Trevor,Daley,CAN,180.34,195.0,L
+Right Wing,8472410,Stephen,Gionta,USA,170.18,175.0,R
+Goalie,8476899,Matt,Murray,CAN,193.04,178.0,L
+Defence,8475750,Jon,Merrill,USA,190.5,205.0,L
+Defence,8473673,David,Schlemko,CAN,185.42,189.0,L
+Left Wing,8477010,Joseph,Blandisi,CAN,182.88,200.0,L
+Defence,8470600,Ryan,Suter,USA,187.96,202.0,L
+Right Wing,8475798,Mikael,Granlund,FIN,177.8,185.0,L
+Left Wing,8474589,Tyler,Ennis,CAN,175.26,161.0,L
+Defence,8477467,Gustav,Olofsson,SWE,190.5,196.0,L
+Right Wing,8473485,Chris,Stewart,CAN,187.96,242.0,R
+Left Wing,8475220,Marcus,Foligno,CAN,190.5,232.0,L
+Center,8478493,Joel,Eriksson Ek,SWE,185.42,206.0,L
+Defence,8474716,Jared,Spurgeon,CAN,175.26,168.0,R
+Right Wing,8476619,Zack,Mitchell,CAN,185.42,196.0,R
+Goalie,8471227,Devan,Dubnyk,CAN,198.12,218.0,L
+Left Wing,8475722,Jason,Zucker,USA,180.34,187.0,L
+Defence,8476856,Matt,Dumba,CAN,182.88,184.0,R
+Left Wing,8470610,Zach,Parise,USA,180.34,195.0,L
+Center,8479316,Luke,Kunin,USA,182.88,193.0,R
+Defence,8476422,Mike,Reilly,USA,187.96,195.0,L
+Center,8475157,Landon,Ferraro,CAN,182.88,176.0,R
+Defence,8476463,Jonas,Brodin,SWE,185.42,194.0,L
+Center,8469459,Mikko,Koivu,FIN,190.5,215.0,L
+Left Wing,8468486,Scott,Hartnell,CAN,187.96,215.0,L
+Center,8476448,William,Karlsson,SWE,185.42,189.0,L
+Defence,8476850,Ryan,Murray,CAN,185.42,205.0,L
+Goalie,8476914,Joonas,Korpisalo,FIN,190.5,182.0,L
+Right Wing,8474715,Cam,Atkinson,USA,172.72,179.0,R
+Defence,8474774,Dalton,Prout,CAN,190.5,230.0,R
+Center,8477505,Alexander,Wennberg,SWE,187.96,196.0,L
+Left Wing,8476438,Brandon,Saad,USA,185.42,206.0,L
+Center,8471273,Brandon,Dubinsky,USA,187.96,205.0,L
+Left Wing,8474709,Matt,Martin,CAN,190.5,220.0,L
+Center,8477939,William,Nylander,SWE,182.88,191.0,R
+Defence,8476941,Connor,Carrick,USA,177.8,192.0,R
+Defence,8477359,Tucker,Poolman,USA,187.96,199.0,R
+Center,8479318,Auston,Matthews,USA,190.5,216.0,L
+Left Wing,8476410,Josh,Leivo,CAN,187.96,210.0,R
+Goalie,8475883,Frederik,Andersen,DNK,193.04,230.0,L
+Center,8466139,Patrick,Marleau,CAN,187.96,215.0,L
+Center,8468575,Dominic,Moore,CAN,182.88,192.0,L
+Center,8475786,Zach,Hyman,CAN,185.42,213.0,R
+Defence,8479458,Nikita,Zaitsev,RUS,187.96,195.0,R
+Right Wing,8477015,Connor,Brown,CAN,182.88,185.0,R
+Center,8478483,Mitchell,Marner,CAN,182.88,175.0,R
+Defence,8480158,Andreas,Borgman,SWE,182.88,212.0,L
+Right Wing,8474727,Ben,Smith,USA,180.34,203.0,R
+Defence,8468542,Paul,Martin,USA,185.42,200.0,L
+Left Wing,8475834,Marcus,Sorensen,SWE,180.34,175.0,L
+Goalie,8474889,Martin,Jones,CAN,193.04,195.0,L
+Defence,8474027,Justin,Braun,USA,187.96,205.0,R
+Center,8474230,Micheal,Haley,CAN,180.34,205.0,L
+Center,8474053,Logan,Couture,CAN,185.42,205.0,L
+Right Wing,8478099,Kevin,Labanc,USA,180.34,185.0,R
+Left Wing,8474571,Mikkel,Boedker,DNK,182.88,210.0,L
+Defence,8476331,Dylan,DeMelo,CAN,185.42,195.0,R
+Right Wing,8478373,Nikita,Soshnikov,RUS,180.34,185.0,L
+Center,8466138,Joe,Thornton,CAN,193.04,220.0,L
+Defence,8470613,Brent,Burns,CAN,195.58,230.0,R
+Center,8470619,Brian,Boyle,USA,198.12,245.0,L
+Defence,8471709,Marc-Edouard,Vlasic,CAN,185.42,205.0,L
+Center,8476919,Chris,Tierney,CAN,185.42,195.0,L
+Center,8470794,Joe,Pavelski,USA,180.34,195.0,R
+Right Wing,8475820,Joonas,Donskoi,FIN,182.88,190.0,R
+Center,8477922,Melker,Karlsson,SWE,182.88,180.0,R
+Defence,8476289,Alexey,Marchenko,RUS,190.5,210.0,R
+Defence,8475455,Brenden,Dillon,CAN,193.04,225.0,L
+Center,8476881,Tomas,Hertl,CZE,187.96,220.0,L
+Right Wing,8468208,Joel,Ward,CAN,185.42,225.0,R
+Left Wing,8470626,Loui,Eriksson,SWE,187.96,196.0,L
+Left Wing,8473419,Brad,Marchand,CAN,175.26,181.0,L
+Defence,8471717,Adam,McQuaid,CAN,193.04,212.0,R
+Right Wing,8474625,Jimmy,Hayes,USA,195.58,215.0,R
+Center,8471276,David,Krejci,CZE,182.88,186.0,R
+Defence,8470886,Clayton,Stoner,CAN,193.04,216.0,L
+Center,8478569,Noel,Acciari,USA,177.8,208.0,R
+Right Wing,8477956,David,Pastrnak,CZE,182.88,181.0,R
+Defence,8476476,Joe,Morrow,CAN,182.88,196.0,L
+Goalie,8475361,Jonas,Gustavsson,SWE,193.04,201.0,L
+Defence,8476792,Torey,Krug,USA,175.26,186.0,L
+Defence,8465009,Zdeno,Chara,SVK,205.74,250.0,L
+Defence,8476191,Kevan,Miller,USA,187.96,210.0,R
+Center,8470638,Patrice,Bergeron,CAN,185.42,195.0,R
+Center,8467423,Shawn,Horcoff,CAN,185.42,210.0,L
+Defence,8475902,Zach,Trotman,USA,190.5,217.0,R
+Center,8475727,Ryan,Spooner,CAN,177.8,184.0,L
+Center,8476116,Ryan,Garbutt,CAN,182.88,195.0,L
+Right Wing,8475204,Brandon,Pirri,CAN,182.88,186.0,L
+Center,8470775,Nate,Thompson,USA,182.88,212.0,L
+Defence,8475155,Simon,Despres,CAN,193.04,218.0,L
+Left Wing,8473492,Matt,Beleskey,CAN,182.88,203.0,L
+Center,8471390,Mike,Santorelli,CAN,182.88,189.0,R
+Right Wing,8475292,Tyler,Randell,CAN,185.42,198.0,R
+Center,8468700,Paul,Gaustad,USA,195.58,227.0,L
+Defence,8470640,Matt,Carle,USA,182.88,197.0,L
+Defence,8475218,Mattias,Ekholm,SWE,193.04,215.0,L
+Defence,8467890,Barret,Jackman,CAN,182.88,203.0,L
+Center,8470047,Valtteri,Filppula,FIN,182.88,196.0,L
+Center,8475714,Calle,Jarnkrok,SWE,180.34,186.0,R
+Center,8467371,Mike,Ribeiro,CAN,182.88,179.0,L
+Center,8467370,Mike,Fisher,CAN,185.42,216.0,R
+Left Wing,8476887,Filip,Forsberg,SWE,185.42,205.0,R
+Defence,8473658,Victor,Bartley,CAN,182.88,217.0,L
+Defence,8474600,Roman,Josi,CHE,185.42,201.0,L
+Center,8474570,Cody,Hodgson,CAN,182.88,191.0,R
+Left Wing,8476292,Ondrej,Palat,CZE,182.88,188.0,L
+Left Wing,8471707,James,Neal,CAN,187.96,221.0,L
+Right Wing,8473588,Erik,Condra,USA,180.34,188.0,R
+Defence,8475868,Anthony,Bitetto,USA,185.42,210.0,L
+Right Wing,8475225,Craig,Smith,USA,185.42,208.0,R
+Goalie,8471469,Pekka,Rinne,FIN,195.58,217.0,L
+Left Wing,8475766,Austin,Watson,USA,193.04,204.0,R
+Defence,8476300,Nikita,Nesterov,RUS,180.34,191.0,L
+Defence,8474520,Jason,Garrison,CAN,185.42,218.0,L
+Left Wing,8470180,Eric,Nystrom,USA,185.42,200.0,L
+Left Wing,8477494,Jonathan,Drouin,CAN,182.88,203.0,L
+Defence,8475176,Ryan,Ellis,CAN,177.8,180.0,R
+Center,8476480,Vladislav,Namestnikov,RUS,180.34,180.0,L
+Left Wing,8478042,Viktor,Arvidsson,SWE,175.26,180.0,R
+Left Wing,8476948,Charles,Hudon,CAN,177.8,188.0,L
+Left Wing,8476207,Brian,Gibbons,USA,172.72,175.0,L
+Center,8476399,Blake,Coleman,USA,180.34,200.0,L
+Left Wing,8476851,Alex,Galchenyuk,USA,185.42,207.0,L
+Defence,8477463,Steven,Santini,USA,187.96,205.0,R
+Right Wing,8476474,Stefan,Noesen,USA,185.42,205.0,R
+Defence,8480143,Jakub,Jerabek,CZE,180.34,200.0,L
+Center,8480002,Nico,Hischier,CHE,185.42,175.0,L
+Defence,8474818,Jordie,Benn,CAN,187.96,198.0,L
+Right Wing,8475848,Brendan,Gallagher,CAN,175.26,181.0,R
+Left Wing,8479407,Jesper,Bratt,SWE,177.8,175.0,L
+Left Wing,8477425,Miles,Wood,USA,187.96,195.0,L
+Left Wing,8477455,Jacob,de la Rose,SWE,190.5,210.0,L
+Defence,8477355,Will,Butcher,USA,177.8,190.0,L
+Left Wing,8475235,Nicolas,Deslauriers,CAN,185.42,215.0,L
+Right Wing,8476381,Andrew,Shaw,CAN,180.34,182.0,R
+Right Wing,8475913,Mark,Stone,CAN,193.04,219.0,R
+Defence,8475815,Julian,Melchiori,CAN,195.58,214.0,L
+Left Wing,8474884,Mike,Hoffman,CAN,182.88,181.0,L
+Left Wing,8473537,Viktor,Stalberg,SWE,190.5,209.0,L
+Right Wing,8471676,Bobby,Ryan,USA,187.96,209.0,R
+Defence,8476279,Jyrki,Jokipakka,FIN,190.5,215.0,L
+Left Wing,8474250,Zack,Smith,CAN,187.96,208.0,L
+Defence,8478031,Nelson,Nogier,CAN,187.96,191.0,R
+Center,8467967,Chris,Kelly,CAN,182.88,190.0,L
+Left Wing,8471768,Tom,Pyatt,CAN,180.34,185.0,L
+Center,8474739,Tommy,Wingels,USA,182.88,200.0,R
+Defence,8476879,Cody,Ceci,CAN,187.96,209.0,R
+Left Wing,8474018,Christopher,DiDomenico,CAN,180.34,174.0,R
+Center,8473544,Derick,Brassard,CAN,185.42,202.0,L
+Center,8476419,Jean-Gabriel,Pageau,CAN,177.8,184.0,R
+Right Wing,8470358,Alexandre,Burrows,CAN,185.42,197.0,L
+Defence,8474697,Mark,Borowiecki,CAN,185.42,207.0,L
+Defence,8475227,Chris,Wideman,USA,177.8,183.0,R
+Defence,8474578,Erik,Karlsson,SWE,182.88,191.0,R
+Left Wing,8476288,Ryan,Dzingel,USA,182.88,190.0,L
+Goalie,8477237,Mike,Condon,USA,187.96,195.0,L
+Defence,8476368,Fredrik,Claesson,SWE,185.42,200.0,L
+Center,8474068,Kyle,Turris,CAN,185.42,190.0,R
+Center,8476539,Jonathan,Marchessault,CAN,175.26,174.0,R
+Defence,8476779,Brad,Hunt,CAN,175.26,187.0,L
+Goalie,8476883,Andrei,Vasilevskiy,RUS,190.5,207.0,L
+Left Wing,8473970,Rob,Klinkhammer,CAN,190.5,214.0,L
+Center,8476905,Chandler,Stephenson,CAN,182.88,203.0,L
+Goalie,8475831,Philipp,Grubauer,DEU,185.42,191.0,L
+Goalie,8474550,Antti,Niemi,FIN,187.96,215.0,L
+Defence,8477043,Christian,Djoos,SWE,182.88,169.0,L
+Left Wing,8477944,Jakub,Vrana,CZE,182.88,197.0,L
+Defence,8479376,Victor,Mete,CAN,175.26,184.0,L
+Defence,8477474,Madison,Bowey,CAN,187.96,198.0,R
+Defence,8476807,Matt,Tennyson,USA,187.96,205.0,R
+Center,8464977,Dainius,Zubrus,LTU,195.58,225.0,L
+Right Wing,8471371,Mike,Brown,USA,180.34,205.0,R
+Left Wing,8470854,Tanner,Glass,CAN,185.42,213.0,L
+Right Wing,8470201,Jiri,Hudler,CZE,177.8,190.0,L
+Center,8475738,Jordan,Weal,CAN,177.8,179.0,R
+Right Wing,8470877,David,Jones,CAN,190.5,208.0,R
+Left Wing,8471664,Mason,Raymond,CAN,185.42,179.0,L
+Defence,8471222,Ladislav,Smid,CZE,193.04,210.0,L
+Goalie,8471403,Karri,Ramo,FIN,187.96,206.0,L
+Center,8474577,Joe,Colborne,CAN,195.58,221.0,L
+Left Wing,8475650,Brandon,Bollig,USA,187.96,220.0,L
+Right Wing,8477591,Josh,Jooris,CAN,185.42,197.0,R
+Defence,8467496,Andrei,Markov,RUS,182.88,200.0,L
+Center,8471976,David,Desharnais,CAN,170.18,180.0,L
+Defence,8477810,Joel,Hanley,CAN,180.34,191.0,L
+Defence,8477969,Marcus,Pettersson,SWE,193.04,180.0,L
+Goalie,8470140,Kari,Lehtonen,FIN,193.04,209.0,L
+Left Wing,8469638,Jussi,Jokinen,FIN,180.34,198.0,L
+Center,8468001,Derek,MacKenzie,CAN,180.34,181.0,L
+Center,8476428,Rocco,Grimaldi,USA,167.64,180.0,R
+Goalie,8466141,Roberto,Luongo,CAN,190.5,217.0,L
+Center,8475736,Connor,Brickley,USA,182.88,203.0,L
+Defence,8477932,Aaron,Ekblad,CAN,193.04,216.0,R
+Defence,8475755,Alex,Petrovic,CAN,193.04,206.0,R
+Center,8475760,Nick,Bjugstad,USA,198.12,218.0,R
+Left Wing,8476456,Jonathan,Huberdeau,CAN,185.42,188.0,L
+Defence,8465185,Willie,Mitchell,CAN,190.5,210.0,L
+Center,8471245,Dave,Bolland,CAN,182.88,184.0,R
+Center,8476389,Vincent,Trocheck,USA,177.8,182.0,R
+Left Wing,8475253,Garrett,Wilson,CAN,187.96,199.0,L
+Defence,8474000,Steven,Kampfer,USA,180.34,195.0,R
+Right Wing,8475191,Reilly,Smith,CAN,182.88,185.0,L
+Left Wing,8465978,Shawn,Thornton,CAN,187.96,217.0,R
+Defence,8467331,Brad,Stuart,CAN,187.96,215.0,L
+Right Wing,8477916,Borna,Rendulic,HRV,187.96,200.0,R
+Left Wing,8467338,Alex,Tanguay,CAN,185.42,194.0,L
+Defence,8477453,Chris,Bigras,CAN,185.42,190.0,L
+Goalie,8475717,Calvin,Pickard,CAN,185.42,200.0,L
+Defence,8474597,Cody,Goloubef,CAN,185.42,200.0,R
+Center,8476390,Joseph,Cramarossa,CAN,182.88,192.0,L
+Right Wing,8471504,Rene,Bourque,CAN,187.96,217.0,L
+Right Wing,8471766,Jared,Boll,USA,190.5,206.0,R
+Defence,8475199,Eric,Gelinas,CAN,193.04,215.0,L
+Defence,8469492,Fedor,Tyutin,RUS,187.96,221.0,L
+Defence,8474604,Aaron,Ness,USA,177.8,184.0,L
+Left Wing,8477456,J.T.,Compher,USA,182.88,193.0,R
+Center,8477973,Vladislav,Kamenev,RUS,187.96,194.0,L
+Left Wing,8477573,Nathan,Walker,AUS,175.26,186.0,L
+Right Wing,8477958,Nikolay,Goldobin,RUS,180.34,185.0,L
+Defence,8479442,Troy,Stecher,CAN,177.8,190.0,R
+Defence,8475690,Christopher,Tanev,CAN,187.96,195.0,R
+Defence,8478408,Travis,Dermott,CAN,182.88,208.0,L
+Right Wing,8477953,Kasperi,Kapanen,FIN,185.42,187.0,R
+Goalie,8471774,Alex,Stalock,USA,182.88,191.0,L
+Right Wing,8475799,Nino,Niederreiter,CHE,187.96,216.0,L
+Right Wing,8475816,Stanislav,Galiev,RUS,185.42,197.0,R
+Center,8474096,Nick,Spaling,CAN,185.42,198.0,L
+Center,8470617,Mike,Richards,CAN,180.34,196.0,L
+Center,8475247,Michael,Latta,CAN,182.88,207.0,R
+Defence,8473426,Mike,Weber,USA,187.96,217.0,L
+Defence,8476465,Ryan,Murphy,CAN,180.34,185.0,R
+Defence,8476162,Steve,Oleksy,USA,182.88,188.0,R
+Defence,8478004,Brett,Lernout,CAN,193.04,214.0,R
+Goalie,8479292,Charlie,Lindgren,USA,185.42,182.0,R
+Defence,8477642,Rinat,Valiev,RUS,190.5,215.0,L
+Defence,8478454,Noah,Juulsen,CAN,187.96,175.0,R
+Center,8476925,Colton,Sissons,CAN,185.42,200.0,R
+Right Wing,8477003,Riley,Barber,USA,182.88,190.0,R
+Left Wing,8476158,Harry,Zolnierczyk,CAN,180.34,180.0,L
+Goalie,8477424,Juuse,Saros,FIN,180.34,180.0,L
+Defence,8474134,Yannick,Weber,CHE,180.34,200.0,R
+Defence,8474056,P.K.,Subban,CAN,182.88,210.0,R
+Left Wing,8477482,Zach,Sanford,USA,193.04,207.0,L
+Defence,8475625,Matt,Irwin,CAN,185.42,207.0,L
+Left Wing,8477942,Kevin,Fiala,CHE,177.8,193.0,L
+Center,8475793,Ryan,Johansen,CAN,190.5,218.0,R
+Goalie,8471418,Anton,Khudobin,RUS,180.34,195.0,L
+Defence,8471735,Keith,Yandle,USA,185.42,196.0,L
+Right Wing,8474149,Evgenii,Dadonov,RUS,180.34,185.0,L
+Center,8477955,Jared,McCann,CAN,185.42,198.0,L
+Center,8474098,Colton,Sceviour,CAN,182.88,195.0,R
+Defence,8479325,Charlie,McAvoy,USA,182.88,208.0,R
+Defence,8477346,MacKenzie,Weegar,CAN,182.88,212.0,R
+Defence,8476891,Matt,Grzelcyk,USA,175.26,174.0,L
+Center,8476374,Sean,Kuraly,USA,187.96,213.0,L
+Left Wing,8478498,Jake,DeBrusk,CAN,182.88,188.0,L
+Left Wing,8477320,Anton,Blidh,SWE,182.88,201.0,L
+Right Wing,8467407,Brian,Gionta,USA,170.18,178.0,R
+Right Wing,8470655,David,Backes,USA,190.5,221.0,R
+Defence,8476875,Mike,Matheson,CAN,187.96,192.0,L
+Center,8477213,Tim,Schaller,USA,187.96,210.0,L
+Center,8478843,Denis,Malgin,CHE,175.26,177.0,R
+Defence,8475796,Mark,Pysyk,CAN,185.42,200.0,R
+Center,8479553,Maxim,Mamin,RUS,187.96,191.0,L
+Defence,8478443,Brandon,Carlo,USA,195.58,208.0,R
+Center,8478366,Frank,Vatrano,USA,175.26,201.0,L
+Center,8478046,Danton,Heinen,CAN,185.42,185.0,L
+Left Wing,8470041,Rick,Nash,CAN,193.04,211.0,L
+Defence,8477452,Ian,McCoshen,USA,190.5,217.0,L
+Center,8477493,Aleksander,Barkov,FIN,190.5,213.0,L
+Center,8477512,Frederik,Gauthier,CAN,195.58,232.0,L
+Right Wing,8467493,Chris,Neil,CAN,185.42,209.0,R
+Right Wing,8478376,Casey,Bailey,USA,190.5,195.0,R
+Defence,8475613,Nate,Prosser,USA,187.96,201.0,R
+Left Wing,8475287,Erik,Haula,FIN,182.88,193.0,L
+Center,8476872,Scott,Laughton,CAN,185.42,190.0,L
+Right Wing,8476235,Justin,Fontaine,CAN,177.8,174.0,R
+Center,8469469,R.J.,Umberger,USA,187.96,214.0,L
+Left Wing,8470871,Chris,Porter,CAN,185.42,206.0,L
+Left Wing,8473646,Ryan,Carter,USA,185.42,205.0,L
+Goalie,8473404,Niklas,Backstrom,FIN,187.96,192.0,L
+Center,8475745,Charlie,Coyle,USA,190.5,221.0,R
+Defence,8477850,Christian,Folin,SWE,190.5,204.0,R
+Defence,8478563,Evgeny,Medvedev,RUS,190.5,187.0,L
+Center,8468526,Jarret,Stoll,CAN,185.42,216.0,R
+Left Wing,8477960,Adrian,Kempe,SWE,187.96,195.0,L
+Left Wing,8478233,Andrew,Mangiapane,CAN,177.8,184.0,L
+Center,8477380,Jonny,Brodzinski,USA,185.42,217.0,L
+Defence,8480147,Oscar,Fantenberg,SWE,182.88,210.0,L
+Left Wing,8475949,Marek,Hrivik,SVK,187.96,197.0,R
+Defence,8477073,Kurtis,MacDermid,CAN,195.58,233.0,L
+Center,8480113,Alex,Iafallo,USA,182.88,185.0,L
+Goalie,8468685,Henrik,Lundqvist,SWE,185.42,180.0,L
+Right Wing,8470609,Steve,Bernier,CAN,190.5,220.0,R
+Defence,8467096,Dan,Boyle,CAN,180.34,194.0,R
+Center,8475715,Oscar,Lindberg,SWE,185.42,202.0,L
+Center,8470144,Frans,Nielsen,DNK,185.42,188.0,L
+Right Wing,8475855,Jesper,Fast,SWE,182.88,191.0,R
+Center,8475763,Kevin,Hayes,USA,195.58,217.0,L
+Center,8477126,Jayson,Megna,USA,185.42,195.0,R
+Left Wing,8475184,Chris,Kreider,USA,190.5,224.0,L
+Center,8471362,Mikhail,Grabovski,BLR,180.34,186.0,L
+Defence,8469623,Marek,Zidlicky,CZE,180.34,190.0,R
+Defence,8470630,Kevin,Klein,CAN,185.42,206.0,R
+Defence,8471686,Marc,Staal,CAN,193.04,209.0,L
+Defence,8473565,Brian,Strait,USA,185.42,206.0,L
+Defence,8475795,Dylan,McIlrath,CAN,195.58,236.0,R
+Right Wing,8475692,Mats,Zuccarello,NOR,172.72,179.0,L
+Right Wing,8470622,Patrick,Eaves,USA,177.8,202.0,R
+Center,8477006,Christoph,Bertschy,CHE,177.8,185.0,R
+Defence,8469665,Johnny,Oduya,SWE,182.88,191.0,L
+Right Wing,8471490,Adam,Cracknell,CAN,187.96,218.0,R
+Left Wing,8475310,Curtis,McKenzie,CAN,187.96,205.0,L
+Center,8476344,Tyler,Graovac,CAN,195.58,208.0,L
+Right Wing,8476924,Martin,Frk,CZE,185.42,205.0,R
+Left Wing,8471254,Bryan,Bickell,CAN,193.04,223.0,L
+Defence,8478562,Jakub,Nakladal,CZE,187.96,212.0,R
+Center,8477887,Patrick,Brown,USA,185.42,216.0,R
+Left Wing,8471716,Justin,Abdelkader,USA,187.96,214.0,L
+Goalie,8471695,Tuukka,Rask,FIN,190.5,176.0,L
+Goalie,8475852,Petr,Mrazek,CZE,187.96,181.0,L
+Center,8468083,Henrik,Zetterberg,SWE,182.88,197.0,L
+Defence,8476525,Colin,Miller,CAN,185.42,196.0,R
+Right Wing,8476822,Luke,Glendening,USA,180.34,192.0,R
+Center,8478512,Austin,Czarnik,USA,175.26,160.0,R
+Goalie,8477225,Jared,Coreau,CAN,198.12,220.0,L
+Defence,8471242,Mike,Green,CAN,185.42,207.0,R
+Defence,8476450,Ryan,Sproul,CAN,193.04,205.0,R
+Left Wing,8476430,Tomas,Jurco,SVK,187.96,188.0,L
+Defence,8470318,Jonathan,Ericsson,SWE,193.04,220.0,L
+Left Wing,8470778,Drew,Miller,USA,187.96,183.0,L
+Right Wing,8474679,Gustav,Nyquist,SWE,180.34,184.0,L
+Center,8477946,Dylan,Larkin,USA,185.42,198.0,L
+Defence,8475324,Nick,Jensen,USA,182.88,194.0,R
+Center,8475772,Riley,Sheahan,CAN,190.5,214.0,L
+Defence,8476443,Xavier,Ouellet,FRA,185.42,185.0,L
+Left Wing,8476960,Andreas,Athanasiou,CAN,187.96,188.0,L
+Defence,8477215,Danny,DeKeyser,USA,190.5,192.0,L
+Right Wing,8477511,Anthony,Mantha,CAN,195.58,225.0,L
+Left Wing,8475193,Tomas,Tatar,SVK,177.8,185.0,L
+Center,8468505,Steve,Ott,CAN,182.88,193.0,L
+Right Wing,8471498,Jannik,Hansen,DNK,185.42,198.0,R
+Right Wing,8476624,Barclay,Goodrow,CAN,187.96,210.0,L
+Right Wing,8478414,Timo,Meier,CHE,182.88,215.0,L
+Defence,8477046,Joakim,Ryan,USA,180.34,185.0,L
+Left Wing,8478075,Anders,Bjork,USA,182.88,186.0,L
+Defence,8475841,Tim,Heed,SWE,182.88,185.0,R
+Center,8477846,Ryan,Carpenter,USA,182.88,200.0,R
+Left Wing,8475844,Kenny,Agostino,USA,182.88,202.0,L
+Defence,8477509,Mirco,Mueller,CHE,190.5,210.0,L
+Goalie,8473434,Chad,Johnson,CAN,190.5,197.0,L
+Right Wing,8477959,Joshua,Ho-Sang,CAN,182.88,173.0,R
+Defence,8474567,Zach,Bogosian,USA,190.5,221.0,R
+Center,8476495,Seth,Griffith,CAN,175.26,190.0,R
+Left Wing,8470852,Matt,Moulson,CAN,185.42,203.0,L
+Left Wing,8475192,Taylor,Beck,CAN,187.96,203.0,R
+Center,8467330,David,Legwand,USA,187.96,207.0,L
+Center,8471811,Cal,O'Reilly,CAN,182.88,193.0,L
+Left Wing,8473482,Jiri,Tlusty,CZE,182.88,205.0,L
+Right Wing,8476772,Brian,O'Neill,USA,175.26,175.0,L
+Center,8476870,Stefan,Matteau,USA,187.96,220.0,L
+Defence,8471742,Cody,Franson,CAN,195.58,224.0,R
+Goalie,8476999,Linus,Ullmark,SWE,193.04,221.0,L
+Defence,8469470,Carlo,Colaiacovo,CAN,185.42,202.0,L
+Center,8460542,Patrik,Elias,CZE,185.42,190.0,L
+Center,8480072,Lias,Andersson,SWE,182.88,204.0,L
+Defence,8476869,Brady,Skjei,USA,190.5,211.0,L
+Defence,8476303,Rob,O'Gara,USA,193.04,215.0,L
+Defence,8477337,John,Gilmour,CAN,182.88,195.0,L
+Right Wing,8477402,Pavel,Buchnevich,RUS,187.96,191.0,L
+Defence,8480145,Neal,Pionk,USA,182.88,190.0,R
+Left Wing,8476918,Jimmy,Vesey,USA,190.5,206.0,L
+Goalie,8480382,Alexandar,Georgiev,RUS,185.42,180.0,L
+Center,8476459,Mika,Zibanejad,SWE,187.96,227.0,R
+Left Wing,8478063,Shane,Gersich,USA,180.34,175.0,L
+Center,8480078,Filip,Chytil,CZE,187.96,202.0,L
+Left Wing,8478449,Roope,Hintz,FIN,190.5,205.0,L
+Right Wing,8476447,Miikka,Salomaki,FIN,180.34,203.0,L
+Defence,8477997,Nikita,Tryamkin,RUS,200.66,265.0,L
+Center,8475808,Michael,Chaput,CAN,187.96,204.0,L
+Defence,8474579,Luca,Sbisa,CHE,187.96,209.0,L
+Right Wing,8475210,Anton,Rodin,SWE,180.34,185.0,L
+Defence,8476388,Andrey,Pedan,LTU,195.58,213.0,L
+Right Wing,8476545,Kurtis,Gabriel,CAN,193.04,200.0,R
+Center,8476415,Kyle,Rau,USA,172.72,176.0,L
+Left Wing,8475800,Teemu,Pulkkinen,FIN,177.8,185.0,R
+Right Wing,8476200,Paul,Thompson,USA,185.42,200.0,R
+Defence,8471693,Jakub,Kindl,CZE,190.5,199.0,L
+Defence,8476852,Griffin,Reinhart,CAN,193.04,212.0,L
+Left Wing,8474034,Patrick,Maroon,USA,190.5,225.0,L
+Defence,8471348,Nikita,Nikitin,RUS,193.04,217.0,L
+Defence,8477851,Jordan,Oesterle,USA,182.88,182.0,L
+Center,8470803,Kyle,Brodziak,CAN,187.96,209.0,R
+Right Wing,8471817,Ryan,Reaves,CAN,185.42,225.0,R
+Center,8473534,Patrik,Berglund,SWE,193.04,219.0,L
+Defence,8476989,Petteri,Lindbohm,FIN,190.5,198.0,L
+Defence,8474125,Carl,Gunnarsson,SWE,187.96,198.0,L
+Center,8474627,Jori,Lehtera,FIN,187.96,212.0,L
+Right Wing,8470105,Scottie,Upshall,CAN,182.88,200.0,L
+Defence,8474565,Alex,Pietrangelo,CAN,190.5,210.0,R
+Defence,8474031,Kevin,Shattenkirk,USA,182.88,200.0,R
+Goalie,8474596,Jake,Allen,CAN,187.96,203.0,L
+Defence,8470151,Jay,Bouwmeester,CAN,193.04,206.0,L
+Defence,8476892,Colton,Parayko,CAN,198.12,230.0,R
+Center,8471669,Paul,Stastny,USA,182.88,193.0,L
+Left Wing,8475768,Jaden,Schwartz,CAN,177.8,190.0,L
+Right Wing,8476436,Dmitrij,Jaskin,CZE,187.96,216.0,L
+Right Wing,8475765,Vladimir,Tarasenko,RUS,182.88,225.0,L
+Left Wing,8470257,Alexander,Steen,SWE,182.88,211.0,L
+Center,8477952,Robby,Fabbri,CAN,177.8,190.0,L
+Defence,8474145,Robert,Bortuzzo,CAN,193.04,216.0,R
+Defence,8477471,Dillon,Heatherington,CAN,193.04,215.0,L
+Center,8475236,Cody,Eakin,CAN,182.88,190.0,L
+Right Wing,8477501,Valeri,Nichushkin,RUS,193.04,205.0,L
+Right Wing,8469466,Ales,Hemsky,CZE,182.88,177.0,R
+Left Wing,8469544,Patrick,Sharp,CAN,185.42,200.0,R
+Center,8477983,Maxim,Letunov,RUS,193.04,180.0,L
+Center,8479580,Dylan,Gambrell,USA,182.88,195.0,R
+Goalie,8467950,Craig,Anderson,USA,187.96,185.0,L
+Left Wing,8477426,Nick,Paul,CAN,193.04,230.0,L
+Center,8475254,Gabriel,Dumont,CAN,177.8,190.0,R
+Defence,8477433,Ben,Harpur,CAN,198.12,222.0,L
+Defence,8478469,Thomas,Chabot,CAN,187.96,196.0,L
+Defence,8477462,Robert,Hagg,SWE,187.96,204.0,L
+Defence,8477948,Travis,Sanheim,CAN,190.5,181.0,L
+Center,8479974,Nolan,Patrick,CAN,187.96,198.0,R
+Center,8476396,Steven,Fogarty,USA,190.5,209.0,R
+Left Wing,8476955,Taylor,Leier,CAN,180.34,180.0,L
+Left Wing,8478067,Oskar,Lindblom,SWE,185.42,191.0,L
+Left Wing,8477816,Michael,Zalewski,USA,187.96,205.0,L
+Center,8470171,Max,Talbot,CAN,180.34,186.0,L
+Right Wing,8475223,Linden,Vey,CAN,182.88,189.0,R
+Left Wing,8471283,Brandon,Prust,CAN,182.88,195.0,L
+Center,8478564,Joonas,Kemppainen,FIN,190.5,223.0,L
+Right Wing,8475770,Emerson,Etem,USA,185.42,212.0,L
+Center,8477715,Tyler,Gaudet,CAN,190.5,205.0,L
+Goalie,8470147,Curtis,McElhinney,CAN,187.96,200.0,L
+Center,8480144,David,Kampf,CZE,187.96,195.0,L
+Defence,8476979,Erik,Gustafsson,SWE,182.88,176.0,L
+Defence,8471761,Chris,Butler,USA,185.42,196.0,L
+Right Wing,8479337,Alex,DeBrincat,USA,170.18,165.0,R
+Goalie,8476341,Anton,Forsberg,SWE,190.5,192.0,L
+Center,8480153,Victor,Ejdsell,SWE,195.58,214.0,L
+Defence,8480172,Jan,Rutta,CZE,190.5,200.0,R
+Defence,8478407,Vince,Dunn,CAN,182.88,203.0,L
+Center,8479588,Nolan,Stevens,CAN,190.5,183.0,L
+Right Wing,8477401,John,Hayden,USA,190.5,223.0,R
+Center,8479420,Tage,Thompson,USA,195.58,205.0,R
+Defence,8480761,Mitch,Reinke,USA,180.34,181.0,R
+Center,8477964,Ivan,Barbashev,RUS,182.88,187.0,L
+Goalie,8475622,Carter,Hutton,CAN,185.42,202.0,L
+Defence,8476877,Jordan,Schmaltz,USA,187.96,190.0,R
+Left Wing,8471743,Vladimir,Sobotka,CZE,177.8,184.0,L
+Right Wing,8478106,Dylan,Sikura,CAN,180.34,158.0,L
+Goalie,8475234,J-F,Berube,CAN,185.42,177.0,L
+Defence,8479595,Blake,Hillman,USA,185.42,180.0,L
+Defence,8476441,Joel,Edmundson,CAN,193.04,215.0,L
+Goalie,8475299,Joni,Ortio,FIN,185.42,190.0,L
+Center,8470169,Gregory,Campbell,CAN,182.88,188.0,L
+Left Wing,8477510,Kerby,Rychel,CAN,185.42,213.0,L
+Left Wing,8460720,Eric,Boulton,CAN,182.88,227.0,L
+Center,8467351,Scott,Gomez,USA,180.34,200.0,L
+Goalie,8477202,Andrew,Hammond,CAN,187.96,215.0,L
+Defence,8474497,Michael,Kostka,CAN,185.42,210.0,R
+Left Wing,8476477,Matt,Puempel,CAN,185.42,205.0,L
+Defence,8475774,Petter,Granberg,SWE,190.5,200.0,R
+Defence,8473550,Andrew,Bodnarchuk,CAN,180.34,195.0,L
+Defence,8477472,Carl,Dahlstrom,SWE,193.04,231.0,L
+Center,8478146,Matthew,Highmore,CAN,180.34,181.0,L
+Center,8476927,Teddy,Blueger,LVA,182.88,185.0,L
+Center,8478866,Dominik,Simon,CZE,180.34,190.0,L
+Center,8479944,Zach,Aston-Reese,USA,182.88,204.0,L
+Right Wing,8474722,Luke,Witkowski,USA,187.96,210.0,R
+Goalie,8476316,Laurent,Brossoit,CAN,190.5,204.0,L
+Left Wing,8475775,Tye,McGinn,CAN,190.5,218.0,L
+Center,8475735,Greg,McKegg,CAN,182.88,191.0,L
+Left Wing,8471956,Andrew,Desjardins,CAN,185.42,195.0,L
+Center,8478528,Tanner,Kero,USA,182.88,185.0,L
+Defence,8478506,Gabriel,Carlsson,SWE,195.58,192.0,L
+Defence,8474090,Brendan,Smith,CAN,187.96,211.0,L
+Goalie,8476343,Garret,Sparks,USA,187.96,204.0,L
+Right Wing,8477491,Nicholas,Baptiste,CAN,185.42,205.0,R
+Left Wing,8477931,Tomas,Nosek,CZE,190.5,210.0,L
+Right Wing,8476617,Tomas,Hyka,CZE,180.34,160.0,R
+Right Wing,8477949,Alex,Tuch,USA,193.04,222.0,R
+Goalie,8476509,Maxime,Lagace,CAN,187.96,190.0,L
+Defence,8480727,Zach,Whitecloud,CAN,187.96,209.0,R
+Defence,8477447,Shea,Theodore,CAN,187.96,195.0,L
+Center,8478458,Jack,Roslovic,USA,185.42,187.0,R
+Goalie,8477180,Aaron,Dell,CAN,182.88,200.0,L
+Center,8477987,Ryan,Donato,USA,182.88,181.0,L
+Left Wing,8471794,Darren,Helm,CAN,182.88,196.0,L
+Goalie,8470657,Jimmy,Howard,USA,185.42,218.0,L
+Left Wing,8471266,David,Booth,USA,182.88,212.0,L
+Center,8478488,Filip,Chlapik,CZE,185.42,196.0,L
+Left Wing,8477479,Tyler,Bertuzzi,CAN,182.88,190.0,L
+Defence,8468509,Niklas,Kronwall,SWE,182.88,194.0,L
+Goalie,8471219,Al,Montoya,USA,187.96,201.0,L
+Center,8475260,Corban,Knight,CAN,187.96,195.0,R
+Defence,8475982,Erik,Burgdoerfer,USA,185.42,207.0,R
+Center,8478400,Colin,White,USA,182.88,183.0,R
+Defence,8475797,Jarred,Tinordi,USA,198.12,230.0,L
+Right Wing,8474588,Viktor,Tikhonov,RUS,187.96,189.0,R
+Defence,8469760,Zbynek,Michalek,CZE,187.96,210.0,R
+Defence,8471269,Nicklas,Grossmann,SWE,193.04,230.0,L
+Center,8471231,Kyle,Chipchura,CAN,187.96,203.0,L
+Left Wing,8476894,Brendan,Leipsic,CAN,177.8,180.0,L
+Left Wing,8477478,William,Carrier,CAN,187.96,212.0,L
+Right Wing,8476209,Mike,Sislo,USA,180.34,190.0,R
+Left Wing,8476370,Blake,Pietila,USA,180.34,200.0,L
+Right Wing,8471663,Mike,Blunden,CAN,193.04,217.0,R
+Defence,8478584,Vojtech,Mozik,CZE,190.5,200.0,R
+Defence,8475274,Seth,Helgeson,USA,193.04,221.0,L
+Goalie,8474092,Jeremy,Smith,USA,182.88,177.0,L
+Left Wing,8475175,Magnus,Paajarvi,SWE,190.5,206.0,L
+Defence,8476464,Duncan,Siemens,CAN,190.5,210.0,L
+Center,8475413,Justin,Dowling,CAN,177.8,185.0,L
+Center,8476471,Mark,McNeill,CAN,187.96,214.0,R
+Right Wing,8478495,Denis,Gurianov,RUS,190.5,200.0,L
+Center,8476982,Danny,O'Regan,USA,177.8,185.0,R
+Defence,8475729,Mark,Alt,USA,193.04,201.0,R
+Right Wing,8476482,Nicklas,Jensen,DNK,190.5,216.0,L
+Right Wing,8474094,Matt,Halischuk,CAN,182.88,180.0,R
+Right Wing,8476910,Scott,Kosmachuk,CAN,180.34,185.0,R
+Right Wing,8477076,JC,Lipon,CAN,182.88,183.0,R
+Left Wing,8475414,Craig,Cunningham,CAN,177.8,184.0,R
+Left Wing,8474138,Dustin,Jeffrey,CAN,185.42,205.0,L
+Defence,8475206,Stefan,Elliott,CAN,185.42,190.0,R
+Left Wing,8473722,John,Scott,CAN,203.2,260.0,L
+Right Wing,8477473,Justin,Bailey,USA,190.5,214.0,R
+Left Wing,8475739,Michael,Bournival,CAN,180.34,198.0,L
+Center,8476285,Matthew,Peca,CAN,172.72,178.0,L
+Defence,8474707,Philip,Larsen,DNK,185.42,185.0,R
+Goalie,8473523,Jhonas,Enroth,SWE,177.8,175.0,L
+Goalie,8473972,Jonas,Hiller,CHE,187.96,191.0,R
+Center,8469639,Brooks,Laich,CAN,187.96,200.0,L
+Center,8474744,Sean,Collins,CAN,185.42,198.0,L
+Center,8476329,Travis,Boyd,USA,180.34,185.0,L
+Center,8475958,Michael,Sgarbossa,CAN,182.88,186.0,L
+Right Wing,8477326,Joel,Vermin,CHE,180.34,192.0,L
+Left Wing,8474850,Brandon,Mashinter,CAN,193.04,212.0,L
+Left Wing,8470039,Tomas,Fleischmann,CZE,185.42,192.0,L
+Defence,8476452,Tyler,Wotherspoon,CAN,187.96,207.0,L
+Center,8467389,Brad,Richards,CAN,182.88,199.0,L
+Center,8474168,Joakim,Andersson,SWE,187.96,211.0,L
+Left Wing,8475661,Dave,Dziurzynski,CAN,190.5,224.0,L
+Defence,8475174,Jared,Cowen,CAN,195.58,238.0,L
+Left Wing,8468635,Travis,Moen,CAN,187.96,215.0,L
+Defence,8473589,Chris,Summers,USA,187.96,207.0,L
+Right Wing,8480015,Owen,Tippett,CAN,185.42,200.0,R
+Defence,8472394,Peter,Harrold,USA,180.34,180.0,R
+Goalie,8478999,Niklas,Treutle,DEU,187.96,185.0,
+Center,8477919,Frederick,Gaudreau,CAN,182.88,179.0,R
+Center,8479511,Janne,Kuokkanen,FIN,185.42,188.0,L
+Center,8480039,Martin,Necas,CZE,185.42,167.0,R
+Center,8477445,Hunter,Shinkaruk,CAN,177.8,181.0,L
+Right Wing,8474130,Corey,Tropp,USA,182.88,186.0,R
+Center,8476219,Patrick,Cannone,USA,180.34,199.0,R
+Defence,8475153,Dylan,Olsen,CAN,187.96,223.0,L
+Defence,8474005,Alex,Grant,CAN,193.04,205.0,R
+Left Wing,8478137,Jiri,Sekac,CZE,185.42,185.0,L
+Left Wing,8477486,Emile,Poirier,CAN,187.96,196.0,L
+Defence,8474113,TJ,Brennan,USA,185.42,216.0,L
+Defence,8474638,Andrew,Campbell,CAN,193.04,205.0,L
+Center,8475842,Sam,Carrick,CAN,182.88,205.0,R
+Right Wing,8477427,Tobias,Lindberg,SWE,190.5,215.0,L
+Left Wing,8470599,Milan,Michalek,CZE,187.96,225.0,L
+Right Wing,8470920,David,Clarkson,CAN,182.88,207.0,R
+Center,8471862,Colin,Greening,CAN,187.96,210.0,L
+Defence,8477300,Viktor,Svedberg,SWE,203.2,238.0,L
+Defence,8475182,David,Rundblad,SWE,187.96,187.0,R
+Right Wing,8471703,Steve,Downie,CAN,180.34,191.0,R
+Defence,8474837,Mark,Cundari,CAN,175.26,195.0,L
+Center,8474516,Bryan,Lerg,USA,177.8,175.0,L
+Right Wing,8476384,Max,Friberg,SWE,180.34,200.0,R
+Right Wing,8474131,Mario,Kempe,SWE,182.88,185.0,L
+Defence,8480157,Calle,Rosen,SWE,185.42,195.0,L
+Goalie,8475876,Zane,McIntyre,USA,187.96,206.0,L
+Defence,8478851,Alexandre,Carrier,CAN,180.34,174.0,R
+Goalie,8475809,Scott,Wedgewood,CAN,187.96,195.0,L
+Left Wing,8476323,Max,McCormick,USA,180.34,188.0,L
+Center,8475836,Alex,Friesen,CAN,175.26,186.0,L
+Center,8479968,Vinni,Lettieri,USA,180.34,195.0,R
+Goalie,8475311,Darcy,Kuemper,CAN,195.58,215.0,L
+Defence,8470222,James,Wisniewski,USA,180.34,203.0,R
+Left Wing,8477589,Ronalds,Kenins,LVA,182.88,201.0,L
+Left Wing,8470274,Chris,Higgins,USA,182.88,205.0,L
+Goalie,8477465,Tristan,Jarry,CAN,187.96,194.0,L
+Goalie,8476876,Malcolm,Subban,CAN,187.96,200.0,L
+Defence,8477502,Samuel,Morin,CAN,198.12,202.0,L
+Defence,8476983,Paul,LaDue,USA,187.96,198.0,R
+Center,8476922,Boo,Nieves,USA,190.5,212.0,L
+Right Wing,8478873,Troy,Terry,USA,185.42,175.0,R
+Defence,8477541,Dakota,Mermis,USA,182.88,195.0,L
+Defence,8477634,Trevor,Murphy,CAN,177.8,180.0,L
+Left Wing,8476766,Cole,Schneider,USA,185.42,203.0,L
+Defence,8476166,Taylor,Fedun,CAN,185.42,201.0,R
+Center,8471760,Cody,Bass,CAN,182.88,205.0,R
+Defence,8476864,Ville,Pokka,FIN,182.88,214.0,R
+Right Wing,8478393,Kyle,Baun,CAN,187.96,209.0,R
+Goalie,8476932,Anthony,Stolarz,USA,198.12,210.0,L
+Center,8476401,Daniel,Catenacci,CAN,177.8,193.0,L
+Center,8478417,Jakob,Forsbacka Karlsson,SWE,185.42,184.0,R
+Left Wing,8479066,Ryan,Lomberg,CAN,175.26,187.0,L
+Defence,8477033,Viktor,Loov,SWE,185.42,212.0,L
+Center,8467514,Pavel,Datsyuk,RUS,180.34,194.0,L
+Goalie,8474765,Anders,Lindback,SWE,198.12,215.0,L
+Goalie,8479496,David,Rittich,CZE,190.5,202.0,L
+Right Wing,8475161,Chris,Brown,USA,187.96,208.0,R
+Center,8476435,Alex,Khokhlachev,RUS,177.8,181.0,L
+Left Wing,8470230,Daniel,Paille,CAN,185.42,200.0,L
+Center,8475119,Zach,Sill,CAN,182.88,214.0,L
+Defence,8475598,Ryan,Stanton,CAN,187.96,196.0,L
+Goalie,8468038,Michael,Leighton,CAN,190.5,186.0,L
+Center,8478020,Michael,Amadio,CAN,185.42,204.0,R
+Center,8476391,TJ,Tynan,USA,172.72,165.0,R
+Center,8476952,Dominic,Toninato,USA,187.96,200.0,L
+Center,8475213,Drew,Shore,USA,190.5,205.0,R
+Center,8476425,Joseph,LaBate,USA,195.58,210.0,L
+Defence,8477814,Kevin,Czuczman,CAN,187.96,206.0,L
+Defence,8476890,Patrick,Sieloff,USA,185.42,205.0,L
+Center,8474024,Jim,O'Brien,USA,190.5,195.0,R
+Left Wing,8478211,Dryden,Hunt,CAN,182.88,197.0,L
+Defence,8474873,Brian,Lashoff,USA,190.5,219.0,L
+Left Wing,8477998,Warren,Foegele,CAN,187.96,190.0,L
+Defence,8478846,Christian,Wolanin,CAN,187.96,185.0,L
+Defence,8477981,Roland,McKeown,CAN,185.42,195.0,R
+Center,8475328,Ben,Sexton,CAN,180.34,196.0,R
+Center,8475321,Phil,Varone,CAN,177.8,193.0,L
+Left Wing,8471733,Rich,Clune,CAN,177.8,207.0,L
+Goalie,8477484,Spencer,Martin,CAN,190.5,210.0,L
+Goalie,8479193,Casey,DeSmith,USA,182.88,181.0,L
+Left Wing,8468485,Raffi,Torres,CAN,182.88,215.0,L
+Defence,8474698,Brent,Regner,CAN,180.34,189.0,R
+Goalie,8477914,Roman,Will,CZE,185.42,195.0,L
+Defence,8475060,Matt,Taormina,USA,177.8,189.0,L
+Center,8475263,Wade,Megan,USA,185.42,191.0,L
+Left Wing,8478104,Sammy,Blais,CAN,187.96,205.0,L
+Right Wing,8476414,Alexandre,Grenier,CAN,195.58,200.0,R
+Right Wing,8475224,Jordan,Szwarz,CAN,180.34,200.0,R
+Goalie,8476903,Jon,Gillies,USA,198.12,223.0,L
+Right Wing,8470120,Alexander,Semin,RUS,187.96,211.0,R
+Defence,8470729,Tyson,Strachan,CAN,190.5,210.0,R
+Defence,8480081,Michael,Kapla,USA,182.88,200.0,L
+Right Wing,8470644,Colin,McDonald,USA,187.96,219.0,R
+Center,8477961,John,Quenneville,CAN,185.42,195.0,L
+Center,8480087,Mike,Vecchione,USA,177.8,194.0,R
+Right Wing,8478431,Evgeny,Svechnikov,RUS,190.5,212.0,L
+Center,8478027,Lucas,Wallmark,SWE,182.88,176.0,L
+Right Wing,8477466,Nick,Sorensen,DNK,185.42,182.0,R
+Defence,8478491,Jacob,Larsson,SWE,187.96,195.0,L
+Right Wing,8480009,Eeli,Tolvanen,FIN,177.8,191.0,L
+Left Wing,8480762,Eric,Robinson,USA,187.96,200.0,L
+Center,8476283,Alex,Broadhurst,USA,182.88,178.0,L
+Left Wing,8477341,Andreas,Johnsson,SWE,177.8,180.0,L
+Right Wing,8477392,Hudson,Fasching,USA,190.5,204.0,R
+Left Wing,8470667,Clarke,MacArthur,CAN,182.88,192.0,L
+Right Wing,8475150,Jordan,Caron,CAN,190.5,204.0,L
+Center,8477520,Jean-Sebastien,Dea,CAN,180.34,175.0,R
+Goalie,8476433,Magnus,Hellberg,SWE,198.12,209.0,L
+Center,8479304,Kyle,Criscuolo,USA,172.72,170.0,R
+Defence,8476394,Michael,Paliotta,USA,193.04,207.0,R
+Left Wing,8472424,Ryan,Hamilton,CAN,187.96,219.0,L
+Right Wing,8475296,Mitch,Callahan,USA,180.34,198.0,R
+Center,8477529,Colby,Cave,CAN,185.42,200.0,L
+Defence,8476798,Karl,Stollery,CAN,180.34,180.0,L
+Center,8479291,Kevin,Rooney,USA,187.96,190.0,L
+Center,8479969,Griffen,Molino,USA,180.34,171.0,L
+Right Wing,8475597,Shane,Harper,USA,180.34,193.0,R
+Center,8477583,Curtis,Valk,CAN,175.26,170.0,L
+Center,8476322,Chase,Balisy,USA,180.34,179.0,L
+Center,8476020,Andrew,Crescenzi,CAN,195.58,207.0,L
+Defence,8475194,Philip,Samuelsson,SWE,187.96,194.0,L
+Defence,8476372,Nick,Seeler,USA,187.96,200.0,L
+Defence,8477971,Andreas,Englund,SWE,190.5,189.0,L
+Right Wing,8477210,Buddy,Robinson,USA,198.12,232.0,R
+Center,8476911,Tanner,Richard,CAN,182.88,192.0,L
+Goalie,8477356,Kristers,Gudlevskis,LVA,190.5,214.0,L
+Left Wing,8477417,Peter,Cehlarik,SVK,187.96,202.0,L
+Defence,8478476,Kyle,Capobianco,CAN,185.42,196.0,L
+Left Wing,8476451,Lucas,Lessio,CAN,185.42,212.0,L
+Goalie,8475681,Ben,Scrivens,CAN,187.96,181.0,L
+Defence,8475782,Morgan,Ellis,CAN,185.42,211.0,R
+Defence,8473440,Will,O'Neill,USA,185.42,190.0,L
+Left Wing,8474554,Eric,Selleck,CAN,187.96,208.0,L
+Goalie,8476444,Christopher,Gibson,FIN,185.42,188.0,L
+Goalie,8479115,Jorge,Alves,USA,175.26,185.0,L
+Goalie,8479312,Alex,Lyon,USA,185.42,201.0,L
+Left Wing,8478413,Jordan,Greenway,USA,198.12,226.0,L
+Defence,8478011,Louie,Belpedio,USA,180.34,193.0,R
+Right Wing,8471309,Johan,Franzen,SWE,193.04,232.0,L
+Right Wing,8478447,Nicholas,Merkley,CAN,177.8,194.0,L
+Goalie,8471301,Jeff,Glass,CAN,190.5,206.0,L
+Right Wing,8478268,Jack,Rodewald,CAN,187.96,189.0,R
+Left Wing,8476526,Ben,Thomson,CAN,190.5,205.0,L
+Left Wing,8478371,Matt,Lorito,CAN,175.26,171.0,L
+Defence,8476418,Robbie,Russo,USA,182.88,191.0,R
+Center,8476043,Ben,Street,CAN,180.34,200.0,L
+Center,8475980,Brody,Sutter,CAN,195.58,203.0,R
+Left Wing,8471916,Mike,Angelidis,CAN,185.42,214.0,L
+Right Wing,8475423,Darren,Archibald,CAN,190.5,210.0,L
+Defence,8471240,Jeff,Schultz,CAN,198.12,225.0,L
+Defence,8476397,Keegan,Lowe,USA,185.42,193.0,L
+Goalie,8473614,Richard,Bachman,USA,177.8,183.0,L
+Left Wing,8477399,Tyrell,Goulbourne,CAN,180.34,195.0,L
+Left Wing,8474025,Eric,Tangradi,USA,193.04,221.0,L
+Center,8479404,Henrik,Borgstrom,FIN,190.5,185.0,L
+Center,8479249,Andrew,Poturalski,USA,177.8,180.0,R
+Left Wing,8475461,Andrew,Agozzino,CAN,177.8,187.0,L
+Left Wing,8475749,Christian,Thomas,CAN,175.26,175.0,R
+Left Wing,8478870,Rudolfs,Balcers,LVA,180.34,175.0,L
+Left Wing,8475436,Mike,Liambas,CAN,177.8,196.0,L
+Defence,8480771,Daniel,Brickley,USA,190.5,203.0,L
+Right Wing,8480776,Sheldon,Rempal,CAN,177.8,165.0,R
+Defence,8480163,Philip,Holm,SWE,185.42,190.0,L
+Center,8477994,Dominic,Turgeon,CAN,187.96,200.0,L
+Center,8477249,Andrew,Miller,USA,177.8,181.0,R
+Center,8474616,Patrice,Cormier,CAN,187.96,215.0,L
+Defence,8477041,Brady,Austin,CAN,193.04,230.0,L
+Defence,8476379,Darren,Dietz,CAN,185.42,201.0,R
+Center,8478874,Adam,Gaudette,USA,185.42,170.0,R
+Defence,8477085,Ashton,Sautner,CAN,185.42,195.0,L
+Defence,8471752,Marc-Andre,Gragnani,CAN,190.5,205.0,L
+Center,8471856,Joe,Vitale,USA,180.34,205.0,R
+Defence,8474019,Tommy,Cross,USA,190.5,205.0,L
+Right Wing,8479977,Kailer,Yamamoto,USA,172.72,154.0,R
+Center,8479366,Logan,Brown,USA,198.12,220.0,L
+Left Wing,8475214,Jeremy,Morin,USA,185.42,195.0,R
+Left Wing,8480083,C.J.,Smith,USA,180.34,181.0,L
+Right Wing,8479423,Alexander,Nylander,CAN,185.42,192.0,R
+Right Wing,8477428,Justin,Auger,CAN,198.12,232.0,R
+Center,8473942,Trevor,Smith,CAN,185.42,195.0,L
+Goalie,8474682,Dustin,Tokarski,CAN,182.88,204.0,L
+Defence,8478425,Brendan,Guhle,CAN,187.96,196.0,L
+Defence,8474518,Davis,Drewiske,USA,187.96,222.0,L
+Defence,8473921,Joe,Piskula,USA,190.5,205.0,L
+Right Wing,8469490,Tim,Jackman,USA,187.96,225.0,R
+Goalie,8476309,Jason,Kasdorf,CAN,193.04,205.0,L
+Left Wing,8475756,John,McFarland,CAN,182.88,211.0,R
+Goalie,8470093,Mike,McKenna,USA,187.96,183.0,R
+Defence,8478176,Joe,Hicketts,CAN,172.72,180.0,L
+Center,8474535,Chris,Mueller,USA,180.34,209.0,R
+Goalie,8478559,Matthew,O'Connor,CAN,198.12,205.0,L
+Defence,8470714,Corey,Potter,USA,190.5,204.0,R
+Left Wing,8480164,Henrik,Haapala,FIN,175.26,165.0,L
+Left Wing,8477566,Sergey,Tolchinsky,RUS,172.72,170.0,L
+Defence,8475148,Tim,Erixon,SWE,187.96,200.0,L
+Defence,8478868,Christian,Jaros,SVK,190.5,201.0,R
+Left Wing,8480029,Alex,Formenton,CAN,187.96,165.0,L
+Center,8471996,Bracken,Kearns,CAN,182.88,200.0,L
+Goalie,8474667,Harri,Sateri,FIN,185.42,205.0,L
+Goalie,8471251,Justin,Peters,CAN,185.42,210.0,L
+Center,8473562,John,McCarthy,USA,185.42,195.0,L
+Defence,8476953,Trevor,Carrick,CAN,187.96,186.0,L
+Center,8478480,Blake,Speers,CAN,180.34,185.0,R
+Defence,8474659,Matt,Donovan,USA,185.42,205.0,L
+Goalie,8477990,Brandon,Halverson,USA,193.04,209.0,L
+Center,8473431,Bud,Holloway,CAN,182.88,194.0,R
+Defence,8477390,Ben,Betker,CAN,198.12,226.0,L
+Goalie,8478499,Adin,Hill,CAN,198.12,202.0,L
+Goalie,8480420,Collin,Delia,USA,187.96,200.0,L
+Goalie,8479138,Scott,Foster,,,,
+Goalie,8477480,Eric,Comrie,CAN,185.42,175.0,L
+Defence,8476006,Brenden,Kichton,CAN,177.8,185.0,R
+Defence,8475294,Rasmus,Rissanen,FIN,190.5,217.0,L
+Defence,8477369,Carson,Soucy,CAN,195.58,208.0,L
+Center,8477881,Connor,Jones,CAN,175.26,182.0,L
+Center,8479650,Vadim,Shipachyov,RUS,182.88,187.0,L
+Defence,8470378,Andre,Benoit,CAN,180.34,191.0,L
+Left Wing,8476944,Brendan,Woods,CAN,193.04,210.0,L
+Right Wing,8480330,Spencer,Foo,CAN,182.88,190.0,R
+Right Wing,8467899,Martin,Havlat,CZE,187.96,210.0,L
+Center,8478462,Nicolas,Roy,CAN,193.04,208.0,R
+Goalie,8475611,Zane,Kalemba,USA,180.34,185.0,L
+Goalie,8476861,Oscar,Dansk,SWE,190.5,195.0,L
+Center,8480082,Justin,Kloos,USA,175.26,180.0,R
+Goalie,8477967,Thatcher,Demko,USA,193.04,192.0,L
+Goalie,8476992,Marek,Mazanec,CZE,193.04,187.0,R
+Right Wing,8475757,Brett,Bulmer,CAN,193.04,212.0,R
+Left Wing,8477923,Michael,Keranen,FIN,185.42,170.0,L
+Center,8479032,Justin,Scott,CAN,185.42,198.0,L
+Goalie,8475789,Jack,Campbell,USA,187.96,197.0,L
+Center,8477314,Brian,Pinho,USA,182.88,173.0,R
+Center,8477391,Sean,Malone,USA,182.88,197.0,L
+Defence,8477441,Jordan,Subban,CAN,175.26,175.0,R
+Goalie,8478965,Ken,Appleby,CAN,193.04,210.0,L
+Center,8479999,Casey,Mittelstadt,USA,185.42,201.0,L
+Defence,8478915,Sami,Niku,FIN,185.42,176.0,L
+Right Wing,8475291,Garrett,Mitchell,CAN,180.34,198.0,R
+Left Wing,8477449,Morgan,Klimchuk,CAN,182.88,185.0,L
+Defence,8476426,David,Musil,CAN,193.04,207.0,L
+Goalie,8476412,Jordan,Binnington,CAN,185.42,167.0,L
+Center,8476819,Jeremy,Welsh,CAN,190.5,210.0,L
+Defence,8478013,Jake,Walman,CAN,185.42,170.0,L
+Goalie,8469548,Ray,Emery,CAN,187.96,196.0,L
+Left Wing,8476147,Kael,Mouillierat,CAN,182.88,188.0,L
+Right Wing,8472368,Chris,Conner,USA,170.18,181.0,L
+Goalie,8471186,Yann,Danis,CAN,180.34,180.0,L
+Goalie,8476904,Chris,Driedger,CAN,193.04,205.0,L
+Left Wing,8478365,Danick,Martel,CAN,172.72,162.0,L
+Center,8476974,Thomas,Di Pauli,USA,180.34,188.0,L
+Left Wing,8479613,Giovanni,Fiore,CAN,185.42,193.0,L
+Goalie,8476330,Adam,Wilcox,USA,182.88,189.0,L
+Goalie,8480718,Ben,Wexler,,,,
+Defence,8479252,Dan,Renouf,CAN,187.96,205.0,L
+Defence,8477028,Nick,Ebert,USA,185.42,205.0,R
+Goalie,8477831,Pheonix,Copley,USA,193.04,200.0,L
+Goalie,8475300,Joe,Cannata,USA,185.42,200.0,L
+Left Wing,8476805,Spencer,Abbott,CAN,175.26,170.0,R
+Defence,8470839,Shane,O'Brien,CAN,190.5,230.0,L
+Defence,8475718,Justin,Holl,USA,190.5,205.0,R
+Goalie,8480524,Tyler,Stewart,USA,165.1,141.0,L
+Defence,8476478,Stuart,Percy,CAN,185.42,187.0,L
+Goalie,8477968,Alex,Nedeljkovic,USA,182.88,198.0,L
+Center,8477483,Yan Pavel,Laplante,CAN,182.88,187.0,L
+Defence,8478430,Oliver,Kylington,SWE,182.88,183.0,L
+Goalie,8474690,Kevin,Poulin,CAN,187.96,206.0,L
+Defence,8475829,John,Ramage,CAN,185.42,194.0,R
+Defence,8475732,Danny,Biega,CAN,182.88,205.0,R
+Left Wing,8478565,Matthias,Plachta,DEU,187.96,218.0,L
+Center,8476505,Turner,Elson,CAN,182.88,195.0,L
+Goalie,8480263,Dylan,Ferguson,CAN,185.42,189.0,L
+Goalie,8478024,Ville,Husso,FIN,190.5,205.0,L
+Center,8476511,Samuel,Henley,CAN,193.04,210.0,L
+Center,8478839,Aleksi,Saarela,FIN,180.34,198.0,L
+Goalie,8471433,Daniel,Taylor,GBR,182.88,198.0,L
+Defence,8477091,Evan,McEneny,CAN,187.96,203.0,L
+Goalie,8476986,Marek,Langhamer,CZE,187.96,190.0,L
+Defence,8467344,Robyn,Regehr,CAN,190.5,222.0,L
+Defence,8467917,Jordan,Leopold,USA,185.42,206.0,L
+Left Wing,8466160,Brenden,Morrow,CAN,180.34,212.0,L
+Right Wing,8470302,Patrick,Dwyer,USA,180.34,175.0,R
+Defence,8474135,Brett,Bellemore,CAN,193.04,225.0,R
+Defence,8469476,Tim,Gleason,USA,182.88,217.0,L
+Right Wing,8470647,B.J.,Crombeen,USA,187.96,209.0,R
+Defence,8467332,Bryan,Allen,CAN,195.58,223.0,L
+Left Wing,8474646,Brandon,McMillan,CAN,180.34,190.0,L
+Right Wing,8468064,Martin,Erat,CZE,182.88,196.0,L
+Left Wing,8468482,Dany,Heatley,CAN,190.5,212.0,L
+Center,8466140,Olli,Jokinen,FIN,187.96,210.0,L
+Right Wing,8465166,Craig,Adams,CAN,182.88,200.0,R
+Center,8470654,Maxim,Lapierre,CAN,187.96,215.0,R
+Center,8469473,Marcel,Goc,DEU,185.42,197.0,L
+Center,8470289,Jim,Slater,USA,182.88,195.0,L
+Left Wing,8474001,TJ,Galiardi,CAN,187.96,185.0,L
+Defence,8469531,Jay,Harrison,CAN,193.04,222.0,L
+Center,8473682,Andrew,Ebbett,CAN,175.26,174.0,L
+Left Wing,8474576,Zach,Boychuk,CAN,177.8,185.0,L
+Goalie,8468524,Ilya,Bryzgalov,RUS,190.5,213.0,L
+Defence,8474606,Colby,Robak,CAN,190.5,194.0,L
+Defence,8474048,Keith,Aulie,CAN,198.12,222.0,L
+Right Wing,8473911,Steven,Pinizzotto,CAN,185.42,205.0,R
+Defence,8471241,Mark,Fistric,CAN,187.96,225.0,L
+Goalie,8476839,Viktor,Fasth,SWE,182.88,181.0,L
+Center,8467334,Manny,Malhotra,CAN,187.96,207.0,L
+Defence,8470054,Keith,Ballard,USA,180.34,204.0,L
+Left Wing,8469542,Stephane,Veilleux,CAN,185.42,200.0,L
+Defence,8468478,Mike,Weaver,CAN,177.8,186.0,R
+Left Wing,8474137,Drayson,Bowman,USA,185.42,195.0,L
+Defence,8474164,Jonathon,Blum,USA,185.42,188.0,R
+Center,8471718,Marc-Andre,Cliche,CAN,182.88,202.0,R
+Center,8473536,James,Sheppard,CAN,185.42,215.0,L
+Center,8464975,Daniel,Briere,CAN,175.26,174.0,R
+Defence,8466158,Scott,Hannan,CAN,185.42,215.0,L
+Defence,8470699,Jan,Hejda,CZE,193.04,230.0,L
+Defence,8473700,Ryan,Wilson,CAN,185.42,210.0,L
+Right Wing,8470063,Adam,Burish,USA,185.42,195.0,R
+Center,8474793,Justin,Hodgman,CAN,185.42,203.0,R
+Defence,8471482,Grant,Clitsome,CAN,180.34,211.0,L
+Right Wing,8469664,David,Moss,USA,193.04,210.0,R
+Right Wing,8476363,Brian,Ferlin,USA,187.96,213.0,R
+Left Wing,8467396,Erik,Cole,USA,187.96,205.0,L
+Defence,8458951,Sergei,Gonchar,RUS,187.96,210.0,L
+Defence,8466142,Eric,Brewer,CAN,193.04,216.0,L
+Center,8474095,Dana,Tyrell,CAN,177.8,192.0,L
+Defence,8473647,Frédéric,St-Denis,CAN,180.34,192.0,L
+Goalie,8460705,Evgeni,Nabokov,RUS,182.88,202.0,L
+Right Wing,8468518,Tomas,Kopecky,SVK,190.5,210.0,L
+Left Wing,8470176,Sean,Bergenheim,FIN,180.34,201.0,L
+Defence,8471879,Kyle,Cumiskey,CAN,180.34,180.0,L
+Left Wing,8470666,Daniel,Carcillo,CAN,182.88,200.0,L
+Defence,8474748,Andrew,MacWilliam,CAN,187.96,223.0,L
+Center,8470152,Joakim,Lindstrom,SWE,182.88,187.0,L
+Center,8469485,Derek,Roy,CAN,175.26,184.0,L
+Defence,8462196,Stephane,Robidas,CAN,180.34,190.0,R
+Right Wing,8475295,Brandon,Kozun,USA,172.72,167.0,R
+Right Wing,8475671,Matt,Fraser,CAN,190.5,206.0,L
+Right Wing,8466149,Daniel,Cleary,CAN,185.42,205.0,L
+Center,8469457,Stephen,Weiss,CAN,180.34,190.0,L
+Defence,8471236,Andrej,Meszaros,SVK,187.96,223.0,L
+Right Wing,8471388,Patrick,Kaleta,USA,185.42,198.0,R
+Left Wing,8470018,Matt,Ellis,CAN,182.88,208.0,L
+Left Wing,8471185,Curtis,Glencross,CAN,185.42,197.0,L
+Defence,8476244,Raphael,Diaz,CHE,180.34,197.0,R
+Goalie,8477234,Troy,Grosenick,USA,185.42,185.0,L
+Right Wing,8467977,Brian,McGrattan,CAN,193.04,235.0,R
+Left Wing,8471636,Tim,Sestito,USA,180.34,195.0,L
+Right Wing,8476227,Joe,Whitney,USA,167.64,167.0,L
+Defence,8471748,Mark,Fraser,CAN,193.04,220.0,L
+Right Wing,8467545,Michael,Ryder,CAN,185.42,200.0,R
+Defence,8468598,Lubomir,Visnovsky,SVK,177.8,192.0,L
+Left Wing,8476214,Brandon,DeFazio,CAN,187.96,199.0,L
+Defence,8475162,Mat,Clark,USA,190.5,225.0,R
+Right Wing,8475309,Jerry,D'Amigo,USA,180.34,200.0,L
+Defence,8468501,Anton,Volchenkov,RUS,185.42,220.0,L
+Center,8474603,Eric,O'Dell,CAN,185.42,200.0,R
+Left Wing,8475159,Carl,Klingberg,SWE,190.5,205.0,R
+Defence,8474772,Stu,Bickel,USA,193.04,207.0,R
+Center,8470719,Alexandre,Bolduc,CAN,190.5,200.0,L
+Defence,8474519,Jack,Hillen,USA,177.8,190.0,L
+Right Wing,8475917,Jason,Akeson,CAN,177.8,185.0,R
+Center,8471767,Blair,Jones,CAN,187.96,216.0,R
+Right Wing,8477059,Damien,Brunner,CHE,180.34,185.0,R
+Defence,8460626,Bryce,Salvador,CAN,190.5,215.0,L
+Defence,8473610,Bobby,Sanguinetti,USA,190.5,188.0,R
+Goalie,8474591,Tom,McCollum,USA,187.96,226.0,L
+Defence,8474184,Keaton,Ellerby,CAN,195.58,220.0,L
+Right Wing,8474192,Matt,Frattin,CAN,182.88,205.0,R
+Goalie,8468540,Dan,Ellis,CAN,185.42,195.0,L
+Center,8475996,Brendan,Shinnimin,CAN,177.8,185.0,L
+Right Wing,8466378,Martin,St. Louis,CAN,172.72,180.0,L
+Right Wing,8475826,Justin,Shugg,CAN,180.34,185.0,R
+Defence,8464956,Chris,Phillips,CAN,190.5,219.0,L
+Left Wing,8467988,Ryan,Malone,USA,193.04,224.0,L
+Goalie,8455710,Martin,Brodeur,CAN,187.96,220.0,L
+Left Wing,8473514,Jesse,Joensuu,FIN,193.04,213.0,L
+Left Wing,8465951,Matt,Cooke,CAN,180.34,216.0,L
+Left Wing,8467346,Simon,Gagne,CAN,185.42,195.0,L
+Goalie,8476844,Niklas,Svedberg,SWE,182.88,176.0,L
+Left Wing,8471840,Brett,Sutter,CAN,182.88,200.0,L
+Left Wing,8475896,Brendan,Ranford,CAN,177.8,205.0,L
+Left Wing,8475734,Curtis,Hamilton,USA,187.96,212.0,L
+Center,8475767,Joey,Hishon,CAN,177.8,170.0,L
+Right Wing,8470867,Troy,Bodie,CAN,195.58,226.0,R
+Left Wing,8475619,Aaron,Volpatti,CAN,182.88,215.0,L
+Defence,8476799,Cameron,Schilling,USA,187.96,182.0,L
+Defence,8475203,Jesse,Blacker,CAN,185.42,190.0,R
+Goalie,8467972,Rob,Zepp,CAN,187.96,198.0,L
+Goalie,8475252,Matt,Hackett,CAN,187.96,179.0,L
+Center,8475266,Tomas,Vincour,CZE,187.96,204.0,R
+Left Wing,8477913,David,Wolf,DEU,190.5,215.0,L
+Right Wing,8477227,Eriah,Hayes,USA,193.04,210.0,R
+Center,8469591,Cody,McCormick,CAN,187.96,222.0,R
+Center,8471474,Travis,Morin,USA,185.42,200.0,L
+Center,8475733,Max,Reinhart,CAN,185.42,195.0,L
+Defence,8459670,Kimmo,Timonen,FIN,177.8,194.0,L
+Center,8474498,Jesse,Winchester,CAN,185.42,205.0,R
+Right Wing,8475154,Carter,Ashton,CAN,190.5,215.0,L
+Center,8476868,Henrik,Samuelsson,USA,190.5,219.0,R
+Defence,8470798,Dylan,Reese,USA,185.42,205.0,R
+Left Wing,8469622,Ryane,Clowe,CAN,190.5,225.0,L
+Goalie,8475824,Sami,Aittokallio,FIN,185.42,185.0,L
+Center,8477228,Matt,Lindblad,USA,180.34,193.0,L
+Goalie,8475680,Jussi,Rynnas,FIN,195.58,210.0,L
+Defence,8475567,Julien,Brouillette,CAN,180.34,185.0,L
+Goalie,8466339,Scott,Clemmensen,USA,187.96,200.0,L
+Defence,8467365,John,Erskine,CAN,193.04,220.0,L
+Right Wing,8476549,Daniil,Tarasov,RUS,182.88,185.0,L
+Center,8476179,Will,Acton,USA,190.5,202.0,L
+Defence,8474594,Slava,Voynov,RUS,182.88,194.0,R
+Right Wing,8475723,Petr,Straka,CZE,185.42,185.0,L
+Defence,8475342,Oliver,Lauridsen,DNK,198.12,220.0,L
+Left Wing,8471326,Patrick,Bordeleau,CAN,198.12,225.0,L
+Goalie,8467391,Jason,LaBarbera,CAN,190.5,232.0,L
+Right Wing,8468778,Colton,Orr,CAN,190.5,222.0,R
+Center,8470065,Ryan,Craig,CAN,187.96,213.0,L
+Center,8474609,Luke,Adam,CAN,187.96,207.0,L
+Center,8475243,Ryan,Bourque,USA,175.26,185.0,L
+Goalie,8474202,John,Curry,USA,180.34,185.0,L
+Center,8471299,Peter,Regin,DNK,187.96,190.0,L
+Left Wing,8470189,David,Van Der Gulik,CAN,177.8,173.0,L
+Defence,8477214,Conor,Allen,USA,185.42,210.0,L
+Right Wing,8472365,Bobby,Robins,USA,185.42,220.0,R
+Center,8470662,Colin,Fraser,CAN,185.42,190.0,L
+Center,8476339,Dominik,Uher,CZE,182.88,202.0,L
+Goalie,8475821,Sam,Brittain,CAN,190.5,226.0,L
+Defence,8475712,Taylor,Aronson,USA,185.42,205.0,R
+Center,8476536,Colin,Smith,CAN,177.8,185.0,R
+Goalie,8475781,Tyler,Bunz,CAN,185.42,205.0,L
+Defence,8477127,Raman,Hrabarenka,BLR,193.04,230.0,R
+Goalie,8477092,Andrey,Makarov,RUS,187.96,194.0,L
+Center,8477410,Bogdan,Yakimov,RUS,195.58,232.0,L
+Goalie,8477084,Mackenzie,Skapski,CAN,190.5,197.0,L
+Goalie,8475251,Igor,Bobkov,RUS,198.12,238.0,L
+Defence,8475640,Erik,Gustafsson,SWE,177.8,180.0,L
+Defence,8459628,Hal,Gill,USA,200.66,243.0,L
+Right Wing,8467925,Adam,Hall,USA,187.96,212.0,R
+Right Wing,8471208,Dustin,Penner,CAN,193.04,247.0,L
+Left Wing,8470816,Jay,Rosehill,CAN,190.5,215.0,L
+Right Wing,8457981,Teemu,Selanne,FIN,182.88,209.0,R
+Left Wing,8459492,Vinny,Prospal,CZE,187.96,191.0,L
+Defence,8459053,Adrian,Aucoin,CAN,187.96,215.0,R
+Defence,8460561,Sheldon,Souray,CAN,193.04,231.0,L
+Center,8471832,Nick,Drazenovic,CAN,182.88,192.0,L
+Goalie,8470074,Jeff,Deslauriers,CAN,193.04,203.0,R
+Center,8459442,Saku,Koivu,FIN,177.8,181.0,L
+Defence,8465042,Toni,Lydman,FIN,187.96,213.0,L
+Right Wing,8471521,Brad,Staubitz,CAN,185.42,207.0,R
+Center,8474121,Colton,Gillies,CAN,193.04,208.0,L
+Left Wing,8459454,Jay,Pandolfo,USA,185.42,190.0,L
+Center,8471514,Rich,Peverley,CAN,180.34,195.0,R
+Left Wing,8473484,Kaspars,Daugavins,LVA,182.88,213.0,L
+Defence,8469765,Marc-Andre,Bergeron,CAN,175.26,190.0,L
+Defence,8466215,Joe,Corvo,USA,182.88,204.0,R
+Defence,8462033,Wade,Redden,CAN,187.96,205.0,L
+Right Wing,8473908,Kevin,Westgarth,CAN,193.04,234.0,R
+Right Wing,8470596,Nathan,Horton,CAN,187.96,229.0,R
+Defence,8470137,Joni,Pitkanen,FIN,190.5,220.0,L
+Center,8470283,Tim,Brent,CAN,182.88,188.0,R
+Defence,8469534,Aaron,Johnson,CAN,185.42,204.0,L
+Right Wing,8469812,Chad,LaRose,USA,177.8,181.0,R
+Right Wing,8459444,Todd,Bertuzzi,CAN,190.5,229.0,L
+Right Wing,8460621,Daniel,Alfredsson,SWE,180.34,203.0,R
+Defence,8467931,Matt,Carkner,CAN,195.58,229.0,R
+Defence,8468101,Radek,Martinek,CZE,182.88,205.0,R
+Right Wing,8475637,Bobby,Butler,USA,182.88,189.0,R
+Defence,8466182,Henrik,Tallinder,SWE,193.04,209.0,L
+Left Wing,8474666,David,Ullstrom,SWE,187.96,195.0,L
+Right Wing,8467428,Krys,Barch,CAN,187.96,225.0,L
+Defence,8471701,Joe,Finley,USA,203.2,245.0,L
+Goalie,8460704,Johan,Hedberg,SWE,182.88,190.0,
+Center,8464967,Marty,Reasoner,USA,185.42,197.0,L
+Right Wing,8469454,Ilya,Kovalchuk,RUS,190.5,230.0,R
+Center,8469779,Keith,Aucoin,USA,172.72,171.0,L
+Defence,8468484,Rostislav,Klesla,CZE,190.5,215.0,L
+Left Wing,8460719,Steve,Sullivan,CAN,175.26,165.0,R
+Right Wing,8471280,Nick,Johnson,CAN,187.96,200.0,R
+Left Wing,8470713,Paul,Bissonnette,CAN,187.96,216.0,L
+Center,8468695,Matthew,Lombardi,CAN,180.34,195.0,L
+Defence,8464966,Derek,Morris,CAN,182.88,210.0,R
+Center,8475602,Casey,Wellman,USA,182.88,173.0,R
+Defence,8475275,Patrick,Wey,USA,187.96,200.0,R
+Left Wing,8467336,Mike,Rupp,USA,195.58,235.0,L
+Center,8470153,Pierre-Marc,Bouchard,CAN,177.8,168.0,L
+Center,8469820,Zenon,Konopka,CAN,182.88,213.0,L
+Defence,8465122,Brett,Clark,CAN,182.88,194.0,L
+Defence,8473953,Derek,Smith,CAN,185.42,197.0,L
+Center,8473558,Cory,Emmerton,CAN,182.88,191.0,L
+Right Wing,8467463,Mikael,Samuelsson,SWE,187.96,218.0,R
+Left Wing,8471234,Wojtek,Wolski,CAN,190.5,215.0,L
+Defence,8474649,Tomas,Kundratek,CZE,187.96,201.0,R
+Left Wing,8474551,Ville,Leino,FIN,185.42,182.0,L
+Center,8462077,Jochen,Hecht,DEU,185.42,198.0,L
+Defence,8464981,Cory,Sarich,CAN,193.04,207.0,R
+Right Wing,8459514,Jamal,Mayers,CAN,185.42,222.0,R
+Left Wing,8464994,Steve,Begin,CAN,182.88,192.0,L
+Center,8476834,Roman,Cervenka,CZE,180.34,201.0,L
+Defence,8469992,Sheldon,Brookbank,CAN,185.42,202.0,R
+Goalie,8462147,Miikka,Kiprusoff,FIN,185.42,185.0,L
+Left Wing,8477201,Kellan,Lain,CAN,198.12,210.0,L
+Defence,8468114,Douglas,Murray,SWE,190.5,240.0,L
+Right Wing,8468095,George,Parros,USA,195.58,224.0,R
+Defence,8465914,Francis,Bouillon,USA,172.72,194.0,L
+Right Wing,8471851,Matt,D'Agostini,CAN,182.88,198.0,R
+Center,8474674,James,Wright,CAN,193.04,210.0,L
+Center,8474012,John,Albert,USA,180.34,179.0,L
+Defence,8465202,Sami,Salo,FIN,190.5,215.0,R
+Defence,8470309,Ryan,Whitney,USA,193.04,209.0,L
+Defence,8475118,Matt,Gilroy,USA,185.42,199.0,R
+Left Wing,8474201,Pierre-Cedric,Labrie,CAN,190.5,226.0,L
+Center,8471352,Jake,Dowell,USA,182.88,200.0,L
+Defence,8470685,Alexander,Sulzer,DEU,185.42,198.0,L
+Left Wing,8474059,Linus,Omark,SWE,177.8,187.0,L
+Defence,8475248,Alexander,Urbom,SWE,193.04,215.0,L
+Goalie,8462044,Jean-Sebastien,Giguere,CAN,185.42,202.0,L
+Center,8474705,Mark,Olver,CAN,177.8,170.0,L
+Right Wing,8474030,Aaron,Palushaj,USA,182.88,187.0,R
+Defence,8470273,Ian,White,CAN,177.8,191.0,R
+Right Wing,8469467,Chuck,Kobasew,CAN,182.88,192.0,R
+Defence,8468636,Greg,Zanon,CAN,180.34,201.0,L
+Defence,8470672,Ryan,O'Byrne,CAN,195.58,234.0,R
+Center,8468162,Jerred,Smithson,CAN,190.5,209.0,R
+Left Wing,8473712,Frazer,McLaren,CAN,195.58,230.0,L
+Defence,8470085,Paul,Ranger,CAN,190.5,210.0,L
+Left Wing,8469752,Pascal,Pelletier,CAN,180.34,191.0,L
+Right Wing,8474077,Carson,McMillan,CAN,185.42,196.0,R
+Left Wing,8460496,Ryan,Smyth,CAN,187.96,191.0,L
+Goalie,8459140,Nikolai,Khabibulin,RUS,185.42,208.0,L
+Left Wing,8471323,Ryan,Jones,CAN,185.42,208.0,L
+Left Wing,8471402,Lennart,Petrell,FIN,190.5,215.0,L
+Center,8465050,Eric,Belanger,CAN,180.34,185.0,L
+Goalie,8470216,Josh,Harding,CAN,187.96,194.0,R
+Defence,8473525,Theo,Peckham,CAN,187.96,246.0,L
+Defence,8475648,Chris,Breen,CAN,200.66,226.0,L
+Defence,8476827,Chad,Billins,USA,177.8,180.0,L
+Center,8467831,Jeff,Halpern,USA,182.88,190.0,R
+Left Wing,8471842,Tim,Kennedy,USA,177.8,175.0,L
+Right Wing,8470123,Cam,Janssen,USA,182.88,215.0,R
+Center,8474681,Andrei,Loktionov,RUS,180.34,190.0,L
+Right Wing,8474582,Mattias,Tedenby,SWE,175.26,175.0,L
+Defence,8469626,Andrew,Alberts,USA,195.58,218.0,L
+Defence,8460492,Ed,Jovanovski,CAN,190.5,220.0,L
+Goalie,8460703,Tim,Thomas,USA,180.34,201.0,L
+Defence,8467478,Kent,Huskins,CAN,193.04,210.0,L
+Left Wing,8470280,Ben,Eager,CAN,187.96,226.0,L
+Left Wing,8467412,Alexei,Ponikarovsky,UKR,193.04,225.0,L
+Defence,8469460,Mike,Komisarek,USA,193.04,235.0,R
+Center,8469483,David,Steckel,USA,198.12,215.0,L
+Center,8473867,Greg,Rallo,USA,182.88,195.0,R
+Center,8473526,Peter,Mueller,USA,187.96,204.0,R
+Defence,8462225,Filip,Kuba,CZE,193.04,225.0,L
+Center,8469685,Andrew,Murray,CAN,187.96,210.0,L
+Center,8459687,Scott,Nichol,CAN,172.72,179.0,R
+Right Wing,8471700,Matt,Pelech,CAN,193.04,230.0,R
+Center,8462129,Michal,Handzus,SVK,195.58,215.0,L
+Left Wing,8476765,Mike,Halmo,CAN,177.8,188.0,L
+Center,8476205,Stephane,Da Costa,FRA,180.34,180.0,R
+Defence,8471314,Mike,Lundin,USA,187.96,190.0,L
+Left Wing,8467881,Taylor,Pyatt,CAN,193.04,230.0,L
+Left Wing,8471719,Matt,Kassian,CAN,193.04,240.0,L
+Left Wing,8477847,Bryce,Van Brabant,CAN,190.5,207.0,L
+Right Wing,8475196,Ben,Hanowski,USA,187.96,210.0,L
+Defence,8470310,Aaron,Rome,CAN,185.42,220.0,L
+Left Wing,8458537,Ray,Whitney,CAN,177.8,180.0,R
+Right Wing,8466398,Tom,Kostopoulos,CAN,182.88,197.0,R
+Left Wing,8471859,Sergei,Kostitsyn,BLR,182.88,196.0,L
+Left Wing,8473569,Jan,Mursak,SVN,180.34,190.0,R
+Right Wing,8471450,Brandon,Yip,CAN,185.42,198.0,R
+Left Wing,8471670,Guillaume,Latendresse,CAN,187.96,230.0,L
+Defence,8477289,Anton,Belov,RUS,193.04,218.0,L
+Defence,8468520,Kurtis,Foster,CAN,195.58,225.0,R
+Center,8467353,Nik,Antropov,KAZ,198.12,245.0,L
+Center,8469581,Kyle,Wellwood,CAN,177.8,181.0,R
+Right Wing,8458590,Mike,Knuble,USA,190.5,229.0,R
+Left Wing,8468172,Ruslan,Fedotenko,UKR,185.42,200.0,L
+Defence,8470774,Bruno,Gervais,CAN,185.42,200.0,R
+Defence,8466309,Mike,Mottau,USA,182.88,195.0,L
+Defence,8470265,Anton,Babchuk,UKR,195.58,200.0,R
+Goalie,8473414,Leland,Irving,CAN,182.88,177.0,L
+Defence,8471321,Brett,Carson,CAN,193.04,210.0,R
+Goalie,8469732,Joey,MacDonald,CAN,182.88,197.0,L
+Left Wing,8474844,Carter,Bancks,CAN,180.34,181.0,L
+Right Wing,8474049,Akim,Aliu,NGA,193.04,225.0,R
+Center,8475264,Roman,Horak,CZE,182.88,170.0,L
+Left Wing,8468434,Andy,McDonald,CAN,177.8,175.0,L
+Defence,8475825,Jani,Hakanpaa,FIN,195.58,218.0,R
+Defence,8465012,Tom,Poti,USA,190.5,190.0,L
+Defence,8458938,Roman,Hamrlik,CZE,187.96,206.0,L
+Right Wing,8470156,Joey,Crabb,USA,185.42,190.0,R
+Defence,8473459,Arturs,Kulda,LVA,187.96,215.0,L
+Defence,8470061,Derek,Meech,CAN,180.34,200.0,L
+Center,8471451,Aaron,Gagnon,CAN,180.34,186.0,R
+Right Wing,8468704,Antti,Miettinen,FIN,182.88,190.0,R
+Defence,8471216,Cam,Barker,CAN,190.5,223.0,L
+Defence,8471810,Derek,Joslin,CAN,185.42,210.0,L
+Left Wing,8475283,Lane,MacDermid,USA,190.5,215.0,L
+Center,8471807,Tom,Wandell,SWE,185.42,200.0,L
+Center,8475198,Joonas,Nattinen,FIN,190.5,192.0,R
+Right Wing,8470618,Anthony,Stewart,CAN,190.5,230.0,R
+Left Wing,8468660,Darcy,Hordichuk,CAN,185.42,215.0,L
+Defence,8468213,Jim,Vandermeer,CAN,185.42,210.0,L
+Center,8474719,Teemu,Hartikainen,FIN,185.42,214.0,L
+Center,8476849,Harri,Pesonen,FIN,182.88,195.0,L
+Center,8475183,Louis,Leblanc,CAN,182.88,188.0,R
+Defence,8465200,Tomas,Kaberle,CZE,185.42,212.0,L
+Center,8471229,Petteri,Nokelainen,FIN,185.42,201.0,R
+Goalie,8474775,Robert,Mayer,CZE,185.42,188.0,L
+Right Wing,8469474,Colby,Armstrong,CAN,187.96,185.0,R
+Goalie,8469569,Drew,MacIntyre,CAN,185.42,190.0,L
+Defence,8471683,Brian,Lee,USA,190.5,200.0,R
+Right Wing,8458529,Alex,Kovalev,RUS,187.96,222.0,L
+Defence,8467910,Nolan,Yonkman,CAN,198.12,247.0,R
+Right Wing,8462041,Radek,Dvorak,CZE,187.96,195.0,R
+Goalie,8468481,Rick,DiPietro,USA,182.88,185.0,R
+Left Wing,8471246,Chris,Bourque,USA,172.72,174.0,L
+Right Wing,8477832,Cody,Kunyk,CAN,180.34,195.0,L
+Left Wing,8476367,John,Persson,SWE,190.5,222.0,L
+Center,8476445,Johan,Sundstrom,SWE,190.5,201.0,R
+Right Wing,8459457,Jamie,Langenbrunner,USA,185.42,205.0,R
+Defence,8469480,Jeff,Woywitka,CAN,190.5,227.0,L
+Right Wing,8475889,Patrick,Holland,CAN,182.88,185.0,R
+Center,8473932,Darroll,Powe,CAN,180.34,212.0,L
+Defence,8470192,Steve,Eminger,CAN,187.96,207.0,R
+Left Wing,8471220,Rostislav,Olesz,CZE,187.96,215.0,L
+Right Wing,8465025,Arron,Asham,CAN,180.34,210.0,R
+Center,8470232,Kris,Newbury,CAN,180.34,205.0,L
+Right Wing,8460577,Milan,Hejduk,CZE,182.88,190.0,R
+Defence,8471705,Brendan,Mikkelson,CAN,190.5,210.0,L
+Goalie,8460535,Jose,Theodore,CAN,180.34,172.0,R
+Goalie,8460712,Tomas,Vokoun,CZE,185.42,210.0,R
+Defence,8467580,Mark,Eaton,USA,185.42,215.0,L
+Center,8475304,Scott,Timmins,CAN,180.34,191.0,L
+Right Wing,8477811,Ryan,Haggerty,USA,182.88,201.0,R
+Goalie,8476319,Nathan,Lieuwen,CAN,195.58,189.0,L
+Right Wing,8473734,Tim,Wallace,USA,185.42,207.0,R
+Right Wing,8473568,Andreas,Nodl,AUT,185.42,196.0,L
+Left Wing,8470777,Francis,Wathier,CAN,193.04,210.0,L
+Defence,8475332,Adam,Almquist,SWE,180.34,174.0,L
+Defence,8472370,Jordan,Hendry,CAN,182.88,194.0,L
+Goalie,8477245,Eric,Hartzell,USA,193.04,205.0,L
+Left Wing,8470896,Steve,MacIntyre,CAN,195.58,250.0,L
+Defence,8470804,Mathieu,Roy,CAN,187.96,210.0,R
+Goalie,8464999,Mathieu,Garon,CAN,185.42,198.0,R
+Center,8477243,Drew,LeBlanc,USA,182.88,194.0,L
+Center,8476206,Andy,Miele,USA,170.18,169.0,L
+Center,8474598,Nicolas,Deschamps,CAN,182.88,173.0,L
+Center,8477666,Simon,Moser,CHE,187.96,215.0,L
+Defence,8470861,Sean,Sullivan,USA,182.88,195.0,L
+Left Wing,8477836,Matt,Carey,CAN,182.88,189.0,L
+Goalie,8462047,Martin,Biron,CAN,187.96,186.0,L
+Right Wing,8471409,Andrew,Gordon,CAN,182.88,194.0,R
+Goalie,8475771,Mark,Visentin,CAN,187.96,201.0,L
+Defence,8473416,Michael,Caruso,CAN,187.96,191.0,L
+Defence,8468745,Jean-Philippe,Cote,CAN,187.96,216.0,L
+Defence,8470268,Denis,Grebeshkov,RUS,182.88,206.0,L
+Center,8473927,Brad,Mills,CAN,182.88,195.0,R
+Defence,8475395,Matthew,Konan,USA,193.04,186.0,L
+Defence,8475202,Taylor,Doherty,CAN,203.2,235.0,R
+Defence,8469798,Maxime,Fortunus,CAN,180.34,202.0,R
+Goalie,8474855,Nathan,Lawson,CAN,187.96,198.0,L
+Left Wing,8475190,Jamie,Devane,CAN,195.58,232.0,L
+Goalie,8459306,Robbie,Tallas,CAN,182.88,175.0,L
+Center,8471680,Gilbert,Brule,CAN,180.34,187.0,R
+Goalie,8475720,Kent,Simpson,CAN,187.96,209.0,L
+Center,8473505,Peter,LeBlanc,CAN,175.26,195.0,L
+Right Wing,8473616,Jonathan,Rheault,USA,177.8,202.0,R
+Left Wing,8474892,Eric,Wellwood,CAN,180.34,180.0,L
+Left Wing,8462535,Jody,Shelley,CAN,190.5,230.0,L
+Goalie,8468382,Rob,Laurie,USA,177.8,175.0,L
+Right Wing,8471428,Pierre-Luc,Letourneau-Leblond,CAN,185.42,218.0,L
+Center,8471708,Ryan,Stoa,USA,190.5,200.0,L
+Left Wing,8471912,Kevin,Henderson,CAN,190.5,210.0,L
+Goalie,8462152,Chris,Mason,CAN,182.88,198.0,L
+Left Wing,8476835,Daniel,Bang,SWE,190.5,208.0,L
+Center,8475893,Joonas,Rask,FIN,180.34,168.0,R
+Goalie,8473638,Cedrick,Desjardins,CAN,182.88,192.0,R
+Defence,8468534,Andreas,Lilja,SWE,190.5,220.0,L
+Goalie,8462052,Brian,Boucher,USA,187.96,200.0,L
+Left Wing,8475845,Justin,Florek,USA,193.04,205.0,L
+Goalie,8476846,Cristopher,Nilstorp,SWE,190.5,190.0,R
+Right Wing,8475241,Sergey,Andronov,RUS,187.96,190.0,L
+Defence,8477082,Dmitry,Korobov,BLR,190.5,230.0,L
+Center,8476522,Adam,Payerl,CAN,190.5,218.0,R
+Right Wing,8471312,JT,Wyman,USA,187.96,209.0,R
+Right Wing,8470704,Jamie,Tardif,CAN,182.88,199.0,R
+Defence,8474032,Nick,Petrecki,USA,190.5,230.0,L
+Left Wing,8474035,Bill,Sweatt,USA,182.88,190.0,L
+Goalie,8476763,Calvin,Heeter,USA,193.04,195.0,L
+Defence,8474629,Shawn,Lalonde,CAN,185.42,204.0,R
+Defence,8468927,Steve,Montador,CAN,182.88,210.0,R
+Goalie,8475431,Henrik,Karlsson,SWE,198.12,209.0,L
+Goalie,8477199,Zach,Sikich,USA,185.42,200.0,
+Right Wing,8473600,Benn,Ferriero,USA,180.34,195.0,R
+Left Wing,8477246,Antoine,Laganiere,CAN,193.04,196.0,L
+Left Wing,8471853,Nicolas,Blanchard,CAN,190.5,205.0,L
+Right Wing,8474615,Jared,Staal,CAN,193.04,210.0,R
+Right Wing,8473944,Matt,Anderson,USA,180.34,195.0,R
+Left Wing,8474236,Brett,Gallant,CAN,182.88,191.0,L
+Left Wing,8476304,David,Broll,CAN,187.96,235.0,L
+Center,8475833,Bill,Arnold,USA,182.88,193.0,R
+Defence,8474601,Yann,Sauve,CAN,190.5,209.0,L
+Goalie,8471712,Jeff,Frazee,USA,182.88,195.0,L
+Defence,8476411,Jonathan,Racine,CAN,187.96,194.0,L
+Goalie,8476373,Niklas,Lundstrom,SWE,185.42,194.0,L
+Left Wing,8474254,John,Kurtz,CAN,187.96,210.0,L
+Goalie,8475303,Connor,Knapp,USA,198.12,206.0,L
+Right Wing,8476086,Justin,Johnson,USA,185.42,220.0,R
+Goalie,8474754,Joacim,Eriksson,SWE,185.42,189.0,R
+Right Wing,8469755,Brandon,Segal,CAN,187.96,215.0,R
+Center,8474939,Mark,Van Guilder,USA,185.42,186.0,R
+Center,8467543,Toby,Petersen,USA,177.8,195.0,L
+Center,8470366,Martin,St Pierre,CAN,175.26,188.0,L
+Left Wing,8459596,Andrew,Brunette,CAN,185.42,215.0,L
+Defence,8471279,Sami,Lepisto,FIN,185.42,193.0,L
+Defence,8458637,Sean,O'Donnell,CAN,187.96,238.0,L
+Center,8459461,Brendan,Morrison,CAN,180.34,176.0,L
+Defence,8470329,Chris,Campoli,CAN,182.88,200.0,L
+Center,8470705,Corey,Locke,CAN,175.26,175.0,L
+Right Wing,8471634,Ryan,Shannon,USA,175.26,175.0,R
+Goalie,8469461,Pascal,Leclaire,CAN,187.96,202.0,L
+Right Wing,8466212,Francis,Lessard,CAN,187.96,235.0,R
+Right Wing,8459640,Mike,Grier,USA,185.42,224.0,R
+Center,8459427,Rob,Niedermayer,CAN,187.96,203.0,L
+Right Wing,8471368,Roman,Wick,CHE,187.96,208.0,L
+Right Wing,8469670,Marek,Svatos,SVK,177.8,185.0,R
+Defence,8469472,Shaone,Morrisonn,CAN,193.04,210.0,L
+Center,8467878,Tim,Connolly,USA,185.42,190.0,R
+Center,8468789,Jason,Williams,CAN,180.34,192.0,R
+Defence,8467519,Karlis,Skrastins,LVA,187.96,208.0,L
+Center,8468506,Brian,Sutherby,CAN,187.96,208.0,L
+Left Wing,8470620,Jeff,Tambellini,CAN,180.34,186.0,L
+Center,8469584,Joel,Perrault,CAN,187.96,212.0,R
+Center,8460533,Dave,Scatchard,CAN,190.5,220.0,R
+Left Wing,8468515,Brad,Winchester,USA,195.58,230.0,L
+Left Wing,8474762,Stefan,Della Rovere,CAN,180.34,205.0,L
+Defence,8471692,Ryan,Parent,CAN,190.5,198.0,L
+Center,8462118,Marc,Savard,CAN,177.8,191.0,L
+Right Wing,8450725,Mark,Recchi,CAN,177.8,195.0,L
+Left Wing,8470603,Andrei,Kostitsyn,BLR,182.88,214.0,L
+Left Wing,8468463,Mathieu,Darche,CAN,185.42,215.0,L
+Defence,8465005,Colin,White,CAN,193.04,215.0,L
+Center,8462036,Daymond,Langkow,CAN,177.8,181.0,L
+Center,8470615,Marc-Antoine,Pouliot,CAN,187.96,203.0,R
+Defence,8457063,Nicklas,Lidstrom,SWE,185.42,192.0,L
+Left Wing,8460743,Tomas,Holmstrom,SWE,182.88,200.0,L
+Defence,8467915,Mike,Commodore,CAN,193.04,227.0,R
+Defence,8459424,Chris,Pronger,CAN,198.12,220.0,L
+Defence,8467927,Andrew,Hutchinson,USA,187.96,195.0,R
+Right Wing,8464957,J-P,Dumont,CAN,185.42,205.0,L
+Center,8467964,Mike,Comrie,CAN,177.8,185.0,L
+Right Wing,8468252,Eric,Godard,CAN,193.04,222.0,R
+Right Wing,8460502,Wade,Belak,CAN,195.58,222.0,R
+Left Wing,8467579,Trevor,Gillies,CAN,190.5,231.0,L
+Right Wing,8465059,Matt,Bradley,CAN,190.5,200.0,R
+Center,8459429,Jason,Arnott,CAN,195.58,220.0,R
+Left Wing,8470294,DJ,King,CAN,190.5,231.0,L
+Defence,8469684,Milan,Jurcina,SVK,193.04,253.0,R
+Left Wing,8464979,Marco,Sturm,DEU,182.88,196.0,L
+Defence,8473501,Ty,Wishart,CAN,193.04,225.0,L
+Center,8474731,Justin,DiBenedetto,CAN,182.88,198.0,L
+Defence,8474063,Mark,Katic,CAN,177.8,191.0,L
+Defence,8468846,Tyler,Sloan,CAN,193.04,214.0,L
+Left Wing,8468500,Alex,Frolov,RUS,187.96,210.0,R
+Defence,8471714,Michael,Sauer,USA,190.5,213.0,R
+Left Wing,8468224,Sean,Avery,CAN,177.8,195.0,L
+Center,8471753,T.J.,Hensick,USA,177.8,190.0,R
+Center,8460562,Chris,Drury,USA,177.8,191.0,R
+Center,8465192,Samuel,Pahlsson,SWE,182.88,202.0,L
+Left Wing,8466181,Kristian,Huselius,SWE,187.96,184.0,L
+Center,8471483,Kyle,Wilson,CAN,185.42,200.0,R
+Right Wing,8460567,Chris,Clark,USA,182.88,191.0,R
+Defence,8466145,Nick,Boynton,CAN,185.42,218.0,R
+Right Wing,8465170,Fernando,Pisani,CAN,185.42,205.0,L
+Left Wing,8470737,Brett,Sterling,USA,170.18,175.0,L
+Center,8460527,Ryan,Johnson,CAN,185.42,199.0,L
+Center,8474045,Zach,Hamill,CAN,180.34,180.0,R
+Right Wing,8474220,Jerome,Samson,CAN,182.88,195.0,R
+Defence,8467439,Jaroslav,Spacek,CZE,182.88,210.0,L
+Right Wing,8471821,Matt,Watkins,CAN,177.8,181.0,L
+Defence,8467436,Jay,Leach,USA,195.58,220.0,L
+Right Wing,8473999,Nick,Palmieri,USA,190.5,220.0,R
+Right Wing,8458525,Brian,Rolston,USA,187.96,215.0,L
+Center,8466216,Adam,Mair,CAN,185.42,208.0,R
+Left Wing,8466035,Sergei,Samsonov,RUS,172.72,188.0,R
+Center,8472355,Rod,Pelley,CAN,182.88,205.0,L
+Defence,8474557,Anssi,Salmela,FIN,185.42,200.0,L
+Right Wing,8473592,Vladimir,Zharkov,RUS,185.42,205.0,L
+Defence,8460580,Brad,Lukowich,CAN,185.42,191.0,L
+Left Wing,8467393,Jarkko,Ruutu,FIN,185.42,204.0,L
+Left Wing,8467844,Jason,Blake,USA,177.8,190.0,L
+Defence,8467304,Andy,Sutton,CAN,198.12,245.0,L
+Center,8459587,Todd,Marchant,USA,177.8,180.0,L
+Right Wing,8475105,Dan,Sexton,USA,175.26,180.0,R
+Left Wing,8470661,Jean-Francois,Jacques,CAN,190.5,231.0,L
+Right Wing,8470687,Zack,Stortini,CAN,187.96,219.0,R
+Defence,8460555,Jason,Strudwick,CAN,193.04,226.0,L
+Center,8471689,Ryan,O'Marra,CAN,187.96,220.0,R
+Center,8470986,Darryl,Boyce,CAN,182.88,200.0,L
+Defence,8471187,Brett,Lebda,USA,175.26,195.0,L
+Left Wing,8469464,Fredrik,Sjostrom,SWE,185.42,218.0,L
+Left Wing,8467943,Niklas,Hagman,FIN,177.8,205.0,L
+Right Wing,8467466,Trent,Hunter,CAN,190.5,217.0,R
+Center,8474139,Maxime,Macenauer,CAN,180.34,188.0,L
+Left Wing,8460504,Ethan,Moreau,CAN,190.5,223.0,L
+Left Wing,8474566,Nikita,Filatov,RUS,182.88,190.0,R
+Goalie,8467913,Alex,Auld,CAN,193.04,215.0,L
+Right Wing,8460465,Petr,Sykora,CZE,182.88,190.0,L
+Center,8470649,Patrick,O'Sullivan,USA,180.34,189.0,L
+Right Wing,8471697,Niclas,Bergfors,SWE,177.8,194.0,R
+Left Wing,8460556,Freddy,Modin,SWE,193.04,220.0,L
+Left Wing,8469647,Derek,Boogaard,CAN,200.66,265.0,L
+Defence,8469505,Noah,Welch,USA,193.04,215.0,L
+Defence,8462176,Brent,Sopel,CAN,187.96,205.0,R
+Center,8470299,Erik,Christensen,CAN,185.42,200.0,L
+Center,8466392,Todd,White,CAN,177.8,198.0,L
+Defence,8470578,Freddy,Meyer,USA,177.8,185.0,L
+Goalie,8467511,Antero,Niittymaki,FIN,185.42,195.0,L
+Goalie,8458568,Chris,Osgood,CAN,177.8,180.0,L
+Center,8446485,Kris,Draper,CAN,177.8,188.0,L
+Left Wing,8471324,Liam,Reddox,CAN,180.34,178.0,L
+Defence,8464962,Ruslan,Salei,BLR,185.42,212.0,L
+Defence,8467856,Brian,Rafalski,USA,177.8,194.0,R
+Defence,8465210,Pavel,Kubina,CZE,193.04,258.0,R
+Goalie,8468166,Curtis,Sanford,CAN,180.34,187.0,L
+Center,8468887,Warren,Peters,CAN,182.88,195.0,L
+Defence,8471756,Oskars,Bartulis,LVA,187.96,184.0,L
+Defence,8473580,Matthew,Corrente,CAN,182.88,205.0,R
+Left Wing,8473605,Alexander,Vasyunov,RUS,185.42,210.0,R
+Defence,8471508,Olivier,Magnan,CAN,187.96,210.0,L
+Center,8467361,Blair,Betts,CAN,190.5,210.0,L
+Right Wing,8470597,Nikolay,Zherdev,RUS,187.96,203.0,R
+Left Wing,8476764,Jack,Maclellan,CAN,180.34,185.0,L
+Defence,8458541,Steve,Staios,CAN,185.42,200.0,R
+Right Wing,8465026,Mark,Parrish,USA,180.34,199.0,R
+Center,8470680,Ryan,Potulny,USA,182.88,182.0,L
+Right Wing,8471419,Mark,Mancari,CAN,193.04,208.0,R
+Goalie,8459579,Patrick,Lalime,CAN,190.5,192.0,L
+Defence,8471978,Brett,Festerling,CAN,185.42,210.0,L
+Defence,8470905,Randy,Jones,CAN,187.96,210.0,L
+Left Wing,8471694,Kenndal,McArdle,CAN,180.34,190.0,L
+Center,8472379,Tim,Stapleton,USA,175.26,180.0,R
+Center,8473493,Ben,Maxwell,CAN,185.42,195.0,L
+Defence,8470780,Mark,Flood,CAN,185.42,195.0,R
+Right Wing,8474114,Oscar,Moller,SWE,177.8,189.0,R
+Defence,8470678,Alexandre,Picard,CAN,190.5,215.0,L
+Center,8474607,Max,Sauve,CAN,182.88,185.0,L
+Center,8465056,Trent,Whitfield,CAN,180.34,209.0,L
+Center,8466371,John,Madden,CAN,180.34,190.0,L
+Center,8474128,Milan,Kytnar,SVK,182.88,190.0,L
+Defence,8474575,Colten,Teubert,CAN,193.04,195.0,R
+Center,8471365,Steven,Zalewski,USA,182.88,195.0,L
+Center,8474634,Evgeny,Grachev,RUS,193.04,225.0,R
+Left Wing,8474552,Fabian,Brunnstrom,SWE,185.42,206.0,L
+Defence,8456283,Adam,Foote,CAN,187.96,220.0,R
+Defence,8470623,Shawn,Belle,CAN,185.42,235.0,L
+Defence,8474730,Jonas,Holos,NOR,180.34,196.0,R
+Center,8470697,Philippe,Dupuis,CAN,182.88,196.0,R
+Left Wing,8468626,David,Koci,CZE,198.12,238.0,L
+Right Wing,8474587,Greg,Nemisz,CAN,190.5,197.0,R
+Right Wing,8467502,Ales,Kotalik,CZE,185.42,225.0,R
+Center,8473608,Blake,Geoffrion,USA,185.42,190.0,L
+Right Wing,8470580,Jed,Ortmeyer,USA,182.88,200.0,R
+Center,8471885,Chad,Rau,USA,180.34,198.0,R
+Defence,8470988,Bryan,Rodney,CAN,182.88,195.0,R
+Center,8474042,Cody,Almond,CAN,187.96,199.0,L
+Defence,8459004,Craig,Rivet,CAN,187.96,207.0,R
+Defence,8471413,Mike,Vernace,CAN,182.88,216.0,L
+Defence,8470634,Matt,Smaby,USA,198.12,230.0,L
+Goalie,8460806,Dwayne,Roloson,CAN,185.42,170.0,L
+Left Wing,8474085,Johan,Harju,SWE,190.5,210.0,L
+Defence,8460503,Mattias,Ohlund,SWE,193.04,233.0,L
+Defence,8467408,Matt,Walker,CAN,193.04,215.0,R
+Center,8474592,Philip,McRae,USA,187.96,200.0,L
+Goalie,8469152,Ty,Conklin,USA,185.42,185.0,L
+Left Wing,8468881,Jason,Jaffray,CAN,185.42,195.0,L
+Left Wing,8471386,Scott,Parse,USA,180.34,189.0,R
+Defence,8468577,Niclas,Wallin,SWE,190.5,220.0,L
+Defence,8470136,Nathan,Oystrick,CAN,180.34,213.0,L
+Center,8471310,Dustin,Boyd,CAN,182.88,187.0,L
+Defence,8474531,Mike,Moore,CAN,185.42,210.0,L
+Defence,8472262,Clay,Wilson,USA,182.88,195.0,L
+Left Wing,8471399,Robbie,Earl,USA,185.42,195.0,L
+Center,8471668,Mattias,Ritola,SWE,182.88,192.0,L
+Center,8471238,Rob,Schremp,USA,180.34,200.0,L
+Center,8470651,Jeremy,Colliton,CAN,187.96,214.0,R
+Goalie,8475156,Mikko,Koskinen,FIN,198.12,205.0,L
+Goalie,8468646,Nolan,Schaefer,CAN,187.96,200.0,R
+Right Wing,8470072,Petr,Prucha,CZE,182.88,175.0,R
+Right Wing,8470708,Guillaume,Desbiens,CAN,187.96,210.0,R
+Left Wing,8462093,Peter,Schaefer,CAN,185.42,200.0,L
+Goalie,8462161,Brent,Johnson,USA,190.5,199.0,L
+Right Wing,8460541,Richard,Park,USA,180.34,190.0,R
+Center,8473444,Jon,Matsumoto,CAN,182.88,185.0,L
+Left Wing,8471261,Dane,Byers,CAN,190.5,204.0,L
+Left Wing,8471868,Ryan,Russell,CAN,177.8,178.0,L
+Defence,8475104,Evan,Oberg,CAN,182.88,191.0,L
+Goalie,8474057,Allen,York,CAN,190.5,188.0,L
+Goalie,8467453,Andrew,Raycroft,CAN,185.42,180.0,L
+Left Wing,8476225,Mike,Connolly,CAN,175.26,180.0,L
+Center,8449645,Mike,Modano,USA,190.5,212.0,L
+Left Wing,8470741,Nigel,Dawes,CAN,175.26,200.0,L
+Defence,8466144,Paul,Mara,USA,193.04,211.0,L
+Center,8476211,Carter,Camper,USA,175.26,176.0,R
+Center,8470636,Josh,Hennessy,USA,182.88,200.0,L
+Defence,8471741,Teemu,Laakso,FIN,185.42,215.0,R
+Center,8455919,Craig,Conroy,USA,187.96,193.0,R
+Right Wing,8474153,Michal,Repik,CZE,177.8,180.0,R
+Right Wing,8472361,Bill,Thomas,USA,185.42,185.0,R
+Right Wing,8474146,Spencer,Machacek,CAN,185.42,200.0,R
+Left Wing,8474050,Brett,MacLean,CAN,187.96,201.0,R
+Defence,8470086,Joe,Callahan,USA,190.5,210.0,R
+Defence,8474222,Maxim,Noreau,CAN,182.88,194.0,R
+Left Wing,8473997,Luca,Caputi,CAN,190.5,200.0,L
+Defence,8474029,Cade,Fairchild,USA,180.34,190.0,L
+Center,8473511,David,McIntyre,CAN,182.88,190.0,L
+Defence,8471696,Matt,Lashoff,USA,187.96,204.0,L
+Right Wing,8471941,Mike,Duco,CAN,177.8,200.0,L
+Center,8475372,Andreas,Engqvist,SWE,193.04,199.0,R
+Left Wing,8465024,Jon,Sim,CAN,177.8,189.0,L
+Right Wing,8470113,John,Zeiler,USA,180.34,204.0,R
+Defence,8470656,David,Liffiton,CAN,187.96,210.0,L
+Defence,8471395,Trevor,Ludwig,USA,182.88,205.0,L
+Defence,8468502,David,Hale,USA,185.42,222.0,L
+Center,8471628,Rick,Rypien,CAN,180.34,190.0,R
+Defence,8469564,Richard,Petiot,CAN,190.5,215.0,L
+Goalie,8469675,Martin,Gerber,CHE,182.88,205.0,L
+Defence,8474631,Marc-Andre,Bourdon,CAN,182.88,206.0,L
+Defence,8467928,Doug,Janik,USA,187.96,211.0,L
+Center,8458361,Doug,Weight,USA,180.34,202.0,L
+Left Wing,8458943,Cory,Stillman,CAN,182.88,193.0,L
+Center,8471411,Chad,Kolarik,USA,180.34,178.0,R
+Center,8470005,Mark,Cullen,USA,180.34,182.0,L
+Center,8475603,Ben,Holmstrom,USA,185.42,201.0,R
+Right Wing,8474383,Joel,Rechlicz,USA,193.04,220.0,R
+Defence,8470787,Drew,Bagnall,CAN,190.5,220.0,L
+Defence,8459462,Bryan,McCabe,CAN,187.96,223.0,L
+Goalie,8470800,Mike,Brodeur,CAN,187.96,185.0,L
+Goalie,8460612,Marty,Turco,CAN,180.34,184.0,L
+Goalie,8467959,Sebastien,Caron,CAN,185.42,170.0,L
+Center,8458520,Peter,Forsberg,SWE,182.88,205.0,L
+Right Wing,8470605,Hugh,Jessiman,USA,198.12,221.0,R
+Goalie,8475097,Brad,Thiessen,CAN,182.88,180.0,L
+Defence,8468599,Brian,Fahey,USA,185.42,216.0,R
+Left Wing,8469681,Ryan,Hollweg,USA,177.8,212.0,L
+Right Wing,8470700,Byron,Bitz,CAN,195.58,215.0,R
+Center,8471730,Evan,Brophey,CAN,187.96,199.0,L
+Center,8475087,Christian,Hanson,USA,193.04,228.0,R
+Center,8468432,Steve,Reinprecht,CAN,182.88,188.0,L
+Center,8475679,Jarod,Palmer,USA,182.88,200.0,R
+Defence,8470996,Danny,Syvret,CAN,182.88,205.0,L
+Left Wing,8469672,Aaron,Voros,CAN,187.96,210.0,L
+Center,8464984,Josh,Green,CAN,190.5,218.0,L
+Left Wing,8469582,Colin,Stuart,USA,187.96,205.0,L
+Left Wing,8468510,Jeff,Taffe,USA,190.5,207.0,L
+Left Wing,8468086,Alexandre,Giroux,CAN,190.5,208.0,L
+Center,8467937,Michael,Zigomanis,CAN,182.88,200.0,R
+Center,8470301,Andre,Deveaux,BHS,190.5,239.0,R
+Left Wing,8470321,Patrick,Rissmiller,USA,193.04,225.0,L
+Center,8475102,Travis,Turnbull,USA,182.88,193.0,R
+Right Wing,8473456,Rhett,Rakhshani,USA,177.8,182.0,R
+Left Wing,8470203,Greg,Mauldin,USA,180.34,195.0,R
+Defence,8460661,Shane,Hnidy,CAN,187.96,204.0,R
+Right Wing,8476791,Scott,Arnold,CAN,187.96,195.0,R
+Right Wing,8474670,Andre,Petersson,SWE,175.26,175.0,R
+Defence,8473931,Lee,Sweatt,USA,175.26,195.0,R
+Defence,8471846,Kris,Fredheim,CAN,187.96,170.0,R
+Defence,8476224,Chay,Genoway,CAN,175.26,177.0,L
+Left Wing,8474195,Maksim,Mayorov,RUS,187.96,198.0,L
+Goalie,8474488,Matt,Climie,CAN,190.5,194.0,L
+Goalie,8474771,Peter,Mannino,USA,185.42,195.0,L
+Center,8473898,Paul,Szczechura,CAN,177.8,186.0,R
+Right Wing,8471268,Victor,Oreskovich,CAN,190.5,215.0,R
+Defence,8474046,Alex,Plante,CAN,193.04,230.0,R
+Defence,8458543,Jassen,Cullimore,CAN,195.58,235.0,L
+Center,8474657,Jamie,Arniel,CAN,180.34,183.0,R
+Left Wing,8470648,Stefan,Meyer,CAN,187.96,200.0,L
+Right Wing,8474693,Tomas,Kubalik,CZE,187.96,212.0,R
+Defence,8475641,Brendon,Nash,CAN,190.5,210.0,L
+Defence,8471223,Boris,Valabik,SVK,200.66,255.0,L
+Defence,8469516,Brendan,Bell,CAN,187.96,205.0,L
+Defence,8474002,Colby,Cohen,USA,187.96,200.0,R
+Right Wing,8467906,Jonas,Andersson,SWE,190.5,204.0,L
+Goalie,8470263,David,Leneveu,CAN,185.42,190.0,L
+Right Wing,8474647,Ian,Schultz,CAN,187.96,202.0,R
+Left Wing,8469120,Raitis,Ivanans,LVA,193.04,231.0,L
+Center,8471863,Mario,Bliznak,SVK,182.88,185.0,L
+Left Wing,8475677,Linus,Klasen,SWE,172.72,176.0,L
+Defence,8471848,Andrey,Zubarev,RUS,185.42,210.0,L
+Defence,8469716,Severin,Blindenbacher,CHE,180.34,189.0,R
+Center,8467335,Mark,Bell,CAN,193.04,220.0,L
+Left Wing,8471728,Brodie,Dupont,CAN,187.96,210.0,L
+Left Wing,8473488,Sergei,Shirokov,RUS,177.8,195.0,R
+Goalie,8476803,Shawn,Hunwick,USA,170.18,166.0,L
+Center,8468499,Krys,Kolanos,CAN,187.96,195.0,R
+Goalie,8471822,Brian,Foster,USA,187.96,185.0,L
+Defence,8474163,Kevin,Marshall,CAN,185.42,191.0,L
+Defence,8476208,Matt,Campanale,USA,180.34,200.0,L
+Right Wing,8471764,Patrick,Davis,USA,187.96,195.0,R
+Goalie,8475934,Dennis,Endras,DEU,182.88,167.0,L
+Goalie,8471302,Justin,Pogge,CAN,190.5,197.0,L
+Defence,8471429,Tyler,Eckford,CAN,185.42,225.0,L
+Goalie,8476243,Iiro,Tarkki,FIN,187.96,190.0,L
+Defence,8471780,Patrick,McNeill,CAN,182.88,195.0,L
+Right Wing,8470809,Jeremy,Williams,CAN,182.88,191.0,R
+Goalie,8473532,Mark,Dekanich,CAN,187.96,185.0,L
+Defence,8473539,Carl,Sneep,USA,193.04,210.0,R
+Defence,8474585,Tyler,Cuma,CAN,185.42,194.0,L
+Defence,8471786,Ray,Macias,USA,187.96,195.0,R
+Right Wing,8474154,Andreas,Thuresson,SWE,185.42,206.0,R
+Defence,8473913,Sean,Collins,USA,185.42,205.0,R
+Defence,8475990,Jamie,Doornbosch,CAN,187.96,198.0,L
+Right Wing,8471265,Raymond,Sawada,CAN,187.96,207.0,R
+Defence,8471011,Garrett,Stafford,USA,185.42,207.0,R
+Left Wing,8474691,Philippe,Cornet,CAN,182.88,196.0,L
+Goalie,8471845,Jean-Philippe,Levasseur,CAN,185.42,205.0,R
+Right Wing,8475173,Scott,Glennie,CAN,185.42,200.0,R
+Defence,8474107,Maxim,Goncharov,RUS,190.5,215.0,R
+Goalie,8474194,Timo,Pielmeier,DEU,180.34,175.0,L
+Center,8475950,Marcel,Mueller,DEU,190.5,220.0,L
+Goalie,8469479,Jason,Bacashihua,USA,180.34,177.0,L
+Goalie,8476674,Paul,Deutsch,USA,185.42,180.0,R
+Right Wing,8465113,Brian,Willsie,CAN,185.42,202.0,R
+Defence,8473451,Kevin,Montgomery,USA,185.42,185.0,L
+Left Wing,8474143,Ryan,Thang,USA,182.88,194.0,R
+Right Wing,8468584,Jon,Disalvatore,USA,185.42,200.0,R
+Goalie,8475255,Scott,Stajcer,CAN,190.5,199.0,L
+Goalie,8474729,Mike,Murphy,CAN,180.34,172.0,L
+Left Wing,8474500,Derek,Whitmore,USA,177.8,190.0,L
+Center,8470838,Andrew,Joudrey,CAN,177.8,185.0,L
+Goalie,8474737,Patrick,Killeen,CAN,193.04,204.0,L
+Defence,8468113,Jeff,Finger,USA,185.42,209.0,R
+Defence,8473611,Shane,Sims,USA,185.42,195.0,R
+Left Wing,8475219,Kristopher,Foucault,CAN,185.42,188.0,L
+Defence,8473916,Steve,Wagner,USA,187.96,200.0,L
+Defence,8458172,Darryl,Sydor,CAN,185.42,211.0,L
+Defence,8469509,Nathan,Paetsch,CAN,185.42,198.0,L
+Left Wing,8459426,Paul,Kariya,CAN,177.8,185.0,L
+Right Wing,8462060,Georges,Laraque,CAN,193.04,245.0,R
+Center,8462823,Glen,Metropolit,CAN,177.8,196.0,R
+Right Wing,8459574,Darcy,Tucker,CAN,177.8,178.0,L
+Defence,8471396,Derek,Peltier,USA,180.34,190.0,L
+Left Wing,8472263,Chris,Durno,CAN,193.04,223.0,L
+Left Wing,8458229,Keith,Tkachuk,USA,187.96,235.0,L
+Center,8459122,Stephane,Yelle,CAN,187.96,182.0,L
+Left Wing,8466232,Quintin,Laing,CAN,190.5,193.0,L
+Left Wing,8470876,Nick,Tarnasky,CAN,187.96,230.0,L
+Center,8470631,Kamil,Kreps,CZE,187.96,194.0,R
+Defence,8468427,Brian,Pothier,USA,182.88,204.0,L
+Defence,8471895,Shaun,Heshka,CAN,185.42,208.0,R
+Defence,8467583,Dean,Arsene,CAN,187.96,205.0,L
+Center,8456966,Robert,Lang,CZE,190.5,217.0,R
+Right Wing,8466202,Maxim,Afinogenov,RUS,182.88,190.0,L
+Left Wing,8456887,Vyacheslav,Kozlov,RUS,177.8,190.0,L
+Defence,8469488,Mark,Popovic,CAN,185.42,205.0,L
+Defence,8469575,Christoph,Schubert,DEU,190.5,230.0,L
+Center,8470625,Ryan,Stone,CAN,187.96,207.0,L
+Center,8470608,Robert,Nilsson,SWE,180.34,185.0,L
+Right Wing,8470004,Jeff,Hoggan,CAN,185.42,193.0,L
+Defence,8459443,Anders,Eriksson,SWE,190.5,224.0,L
+Right Wing,8467357,Jonathan,Cheechoo,CAN,185.42,206.0,R
+Right Wing,8459450,Shean,Donovan,CAN,190.5,218.0,R
+Defence,8445550,Rob,Blake,CAN,193.04,220.0,R
+Defence,8462045,Jay,McKee,CAN,193.04,203.0,L
+Right Wing,8456464,Bill,Guerin,USA,187.96,220.0,R
+Center,8467491,Rickard,Wallin,SWE,187.96,195.0,L
+Defence,8467343,Martin,Skoula,CZE,190.5,226.0,L
+Defence,8468090,Garnet,Exelby,CAN,185.42,215.0,L
+Center,8460507,Wayne,Primeau,CAN,193.04,225.0,L
+Center,8467882,Jamie,Lundmark,CAN,182.88,197.0,R
+Defence,8471671,Dustin,Kohn,CAN,185.42,200.0,L
+Right Wing,8459094,Ian,Laperriere,CAN,185.42,200.0,R
+Left Wing,8468786,Riley,Cote,CAN,187.96,220.0,L
+Right Wing,8471263,Enver,Lisin,RUS,187.96,200.0,L
+Defence,8469477,Lukas,Krajicek,CZE,190.5,205.0,L
+Right Wing,8469543,Evgeny,Artyukhin,RUS,193.04,255.0,L
+Defence,8446053,Chris,Chelios,USA,182.88,191.0,R
+Defence,8470101,Tim,Conboy,USA,187.96,210.0,R
+Defence,8458519,Aaron,Ward,CAN,187.96,209.0,R
+Center,8445735,Rod,Brind'Amour,CAN,185.42,205.0,L
+Right Wing,8459547,Scott,Walker,CAN,177.8,196.0,R
+Defence,8458517,Scott,Niedermayer,CAN,185.42,194.0,L
+Center,8475381,Mika,Pyorala,FIN,182.88,190.0,L
+Left Wing,8459246,Donald,Brashear,USA,190.5,237.0,L
+Defence,8475128,Ilkka,Heikkinen,FIN,187.96,205.0,L
+Left Wing,8466292,Todd,Fedoruk,CAN,187.96,232.0,L
+Defence,8471188,Andy,Wozniewski,USA,195.58,225.0,L
+Right Wing,8459024,Jere,Lehtinen,FIN,182.88,194.0,R
+Left Wing,8471457,Gregory,Stewart,CAN,187.96,202.0,L
+Center,8458573,Michael,Nylander,SWE,185.42,200.0,L
+Defence,8473385,Ville,Koistinen,FIN,180.34,187.0,L
+Left Wing,8459001,Kirk,Maltby,CAN,182.88,195.0,R
+Left Wing,8457261,Brad,May,CAN,185.42,213.0,L
+Goalie,8473975,Erik,Ersberg,SWE,182.88,165.0,L
+Defence,8470058,Staffan,Kronwall,SWE,190.5,209.0,L
+Goalie,8465161,Steve,Valiquette,CAN,198.12,210.0,L
+Left Wing,8467355,Andrew,Peters,CAN,193.04,240.0,L
+Right Wing,8470225,Ilkka,Pikkarainen,FIN,187.96,215.0,R
+Defence,8473924,Cory,Murphy,CAN,175.26,175.0,R
+Center,8458536,Dean,McAmmond,CAN,180.34,195.0,L
+Center,8475638,Brayden,Irwin,CAN,195.58,215.0,R
+Center,8475617,Rob,Bordson,USA,187.96,190.0,L
+Right Wing,8459648,Pavol,Demitra,SVK,182.88,200.0,L
+Defence,8460500,Nolan,Baumgartner,CAN,187.96,195.0,R
+Goalie,8469658,Cristobal,Huet,FRA,185.42,205.0,L
+Right Wing,8449895,Owen,Nolan,CAN,185.42,214.0,R
+Defence,8460770,Kim,Johnsson,SWE,185.42,193.0,L
+Right Wing,8466300,Ben,Guite,CAN,185.42,210.0,R
+Center,8459064,Derek,Armstrong,CAN,182.88,197.0,R
+Left Wing,8471221,Alexandre,Picard,CAN,187.96,206.0,L
+Goalie,8459308,Manny,Legace,CAN,177.8,200.0,L
+Right Wing,8472215,Ryan,Vesce,USA,172.72,175.0,R
+Right Wing,8469666,Brandon,Bochenski,USA,185.42,195.0,R
+Defence,8472338,Jaime,Sifers,USA,180.34,198.0,R
+Defence,8459433,Brendan,Witt,CAN,187.96,223.0,L
+Right Wing,8459534,Miroslav,Satan,SVK,190.5,191.0,L
+Defence,8471711,Scott,Jackson,CAN,190.5,219.0,L
+Defence,8451224,Mathieu,Schneider,USA,180.34,192.0,L
+Defence,8470170,Ole-Kristian,Tollefsen,NOR,187.96,211.0,L
+Left Wing,8474177,Jon,Kalinski,CAN,185.42,175.0,L
+Left Wing,8470370,Charles,Linglet,CAN,187.96,205.0,L
+Goalie,8462117,Vesa,Toskala,FIN,177.8,198.0,L
+Right Wing,8471972,Ryan,Keller,CAN,177.8,196.0,R
+Right Wing,8471336,David,Laliberte,CAN,185.42,194.0,R
+Center,8472248,Jared,Ross,USA,177.8,175.0,L
+Defence,8470575,Tom,Preissing,USA,182.88,197.0,R
+Goalie,8475080,Johan,Backlund,SWE,187.96,198.0,L
+Left Wing,8473496,Oskar,Osala,FIN,193.04,219.0,L
+Center,8467857,Jason,Krog,CAN,180.34,185.0,R
+Goalie,8473420,Marc,Cheverie,CAN,190.5,186.0,L
+Goalie,8473471,Daniel,Larsson,SWE,182.88,184.0,L
+Center,8470223,Yan,Stastny,USA,177.8,191.0,L
+Defence,8471282,Casey,Borer,USA,187.96,205.0,L
+Center,8471829,Justin,Mercier,USA,180.34,190.0,L
+Left Wing,8474436,Brock,Trotter,CAN,177.8,180.0,R
+Center,8471372,Ben,Walter,CAN,185.42,190.0,L
+Center,8475085,MacGregor,Sharp,CAN,185.42,185.0,L
+Center,8468503,Nathan,Smith,CAN,187.96,206.0,L
+Left Wing,8468517,Andy,Hilbert,USA,177.8,188.0,L
+Left Wing,8470383,Chris,Minard,CAN,185.42,190.0,L
+Right Wing,8470064,Steven,Goertzen,CAN,187.96,216.0,R
+Defence,8475605,Jake,Newton,USA,190.5,200.0,L
+Center,8475086,Corey,Elkins,USA,187.96,214.0,L
+Left Wing,8466260,Kyle,Calder,CAN,180.34,177.0,L
+Center,8470131,Dwight,Helminen,USA,177.8,191.0,L
+Defence,8470119,Brett,Skinner,CAN,185.42,183.0,L
+Defence,8471327,Wes,O'Neill,CAN,193.04,215.0,L
+Right Wing,8471713,Petr,Kalus,CZE,185.42,201.0,L
+Defence,8473797,Chris,Lee,CAN,182.88,185.0,L
+Left Wing,8470899,Triston,Grant,CAN,185.42,211.0,L
+Center,8470970,Drew,Larman,USA,190.5,195.0,R
+Left Wing,8471736,Radek,Smolenak,CZE,187.96,207.0,L
+Right Wing,8470735,Greg,Moore,USA,185.42,225.0,R
+Center,8473491,Tomas,Kana,CZE,182.88,204.0,R
+Defence,8473438,Mathieu,Carle,CAN,182.88,203.0,R
+Right Wing,8471747,Mikko,Lehtonen,FIN,190.5,196.0,R
+Goalie,8470820,Matt,Zaba,CAN,185.42,190.0,L
+Left Wing,8468523,Matt,Pettinger,CAN,185.42,205.0,L
+Defence,8470208,Joey,Mormina,CAN,198.12,220.0,L
+Defence,8471704,Vladimir,Mihalik,SVK,203.2,246.0,L
+Defence,8468568,Kurt,Sauer,USA,193.04,222.0,L
+Left Wing,8465028,Boyd,Kane,CAN,187.96,229.0,L
+Left Wing,8451302,Brendan,Shanahan,CAN,190.5,220.0,R
+Goalie,8475130,Alexander,Salak,CZE,185.42,189.0,L
+Defence,8473510,Jonas,Junland,SWE,187.96,200.0,L
+Goalie,8470584,Wade,Dubielewicz,CAN,177.8,185.0,L
+Center,8471738,Perttu,Lindgren,FIN,182.88,188.0,L
+Center,8473687,Trevor,Frischmon,USA,182.88,202.0,L
+Center,8470671,Danny,Irmen,USA,182.88,182.0,R
+Right Wing,8468121,Darren,Haydar,CAN,175.26,170.0,R
+Defence,8474511,Jeff,Penner,CAN,177.8,183.0,R
+Right Wing,8475607,Cameron,MacIntyre,CAN,185.42,225.0,R
+Left Wing,8468707,Guillaume,Lefebvre,CAN,185.42,200.0,L
+Defence,8473582,Ivan,Vishnevskiy,RUS,182.88,193.0,L
+Defence,8475270,Anton,Klementyev,RUS,185.42,198.0,R
+Defence,8467422,Rob,Davison,CAN,187.96,215.0,L
+Goalie,8471781,Jeremy,Duchesne,USA,182.88,201.0,L
+Goalie,8474708,Alexander,Pechurskiy,RUS,182.88,187.0,L
+Left Wing,8469844,Josh,Gratton,CAN,187.96,215.0,L
+Defence,8474662,Johan,Motin,SWE,187.96,220.0,R
+Left Wing,8471290,Peter,Olvecky,SVK,187.96,220.0,L
+Center,8450978,Jeremy,Roenick,USA,185.42,205.0,R
+Defence,8470843,Nathan,McIver,CAN,187.96,205.0,L
+Defence,8467909,Alexei,Semenov,RUS,198.12,245.0,L
+Center,8469587,Tomas,Plihal,CZE,185.42,210.0,L
+Right Wing,8469629,Tom,Cavanagh,USA,182.88,200.0,L
+Defence,8456547,Bret,Hedican,USA,187.96,210.0,L
+Defence,8466203,Josef,Melichar,CZE,187.96,220.0,L
+Defence,8459493,Marek,Malik,CZE,198.12,235.0,L
+Right Wing,8471277,Martins,Karsums,LVA,177.8,198.0,R
+Center,8446788,Sergei,Fedorov,RUS,187.96,207.0,L
+Center,8459428,Viktor,Kozlov,RUS,193.04,232.0,R
+Defence,8467354,Dmitri,Kalinin,RUS,190.5,210.0,L
+Center,8447958,Bobby,Holik,CZE,193.04,230.0,R
+Defence,8468650,Erik,Reitz,USA,185.42,222.0,R
+Left Wing,8458530,Markus,Naslund,SWE,182.88,191.0,L
+Left Wing,8459479,Ville,Peltonen,FIN,180.34,182.0,L
+Right Wing,8460735,Richard,Zednik,SVK,182.88,200.0,L
+Center,8465968,Brett,McLean,CAN,180.34,184.0,L
+Goalie,8470266,Tobias,Stephan,CHE,187.96,180.0,L
+Left Wing,8473973,Antti,Pihlstrom,FIN,180.34,190.0,L
+Defence,8460254,Greg,De Vries,CAN,187.96,205.0,L
+Right Wing,8459441,Landon,Wilson,USA,190.5,224.0,R
+Defence,8467939,Dan,Jancevski,CAN,190.5,222.0,L
+Center,8460105,Radek,Bonk,CZE,187.96,210.0,L
+Left Wing,8471778,Jordan,Lavallee-Smotherman,USA,190.5,225.0,L
+Center,8466399,Eric,Perrin,CAN,175.26,180.0,L
+Right Wing,8448772,Claude,Lemieux,CAN,185.42,215.0,R
+Defence,8467956,Niclas,Havelid,SWE,182.88,200.0,L
+Left Wing,8471360,Steve,Regier,CAN,193.04,194.0,L
+Center,8469733,Cam,Paddock,CAN,182.88,178.0,R
+Defence,8469689,Tomas,Mojzis,CZE,185.42,195.0,L
+Defence,8445739,Patrice,Brisebois,CAN,187.96,197.0,R
+Right Wing,8460540,Mathieu,Dandenault,CAN,182.88,208.0,R
+Right Wing,8468647,Craig,Weller,CAN,193.04,220.0,R
+Right Wing,8460639,Andre,Roy,USA,193.04,229.0,L
+Right Wing,8466147,Jason,Ward,CAN,187.96,208.0,R
+Center,8470639,Dan,Fritsche,USA,185.42,204.0,R
+Left Wing,8450900,Gary,Roberts,CAN,187.96,215.0,L
+Center,8459425,Chris,Gratton,CAN,193.04,226.0,L
+Defence,8462115,Daniel,Tjarnqvist,SWE,185.42,207.0,L
+Center,8467483,Tyler,Arnason,USA,180.34,204.0,L
+Center,8469528,Garth,Murray,CAN,187.96,210.0,L
+Defence,8456850,Ken,Klee,USA,185.42,210.0,R
+Center,8468548,Joel,Lundqvist,SWE,185.42,194.0,L
+Center,8464960,Boyd,Devereaux,CAN,187.96,195.0,L
+Defence,8467531,Jonas,Frogren,SWE,185.42,189.0,L
+Defence,8467350,Mike,Van Ryn,CAN,185.42,213.0,R
+Goalie,8448382,Curtis,Joseph,CAN,180.34,193.0,L
+Center,8470373,Jeff,Hamilton,USA,177.8,185.0,R
+Right Wing,8465067,Jesse,Boulerice,USA,187.96,215.0,R
+Left Wing,8471235,Lukas,Kaspar,CZE,187.96,225.0,R
+Right Wing,8465175,Dan,Hinote,USA,182.88,187.0,R
+Defence,8467348,Christian,Backman,SWE,193.04,210.0,L
+Left Wing,8473904,Kyle,Greentree,CAN,190.5,215.0,L
+Center,8458976,Michael,Peca,CAN,180.34,183.0,R
+Center,8469475,Jiri,Novotny,CZE,190.5,204.0,R
+Left Wing,8468560,Ryan,Bayda,CAN,180.34,185.0,L
+Defence,8470743,Lasse,Kukkonen,FIN,182.88,190.0,L
+Defence,8469044,Wade,Brookbank,CAN,193.04,225.0,L
+Defence,8467949,Frantisek,Kaberle,CZE,182.88,190.0,L
+Defence,8467369,Ossi,Vaananen,FIN,193.04,215.0,L
+Right Wing,8470564,Joe,Motzko,USA,182.88,184.0,R
+Center,8467905,Michael,Ryan,USA,185.42,188.0,L
+Defence,8473923,Darcy,Campbell,CAN,185.42,180.0,L
+Defence,8471803,Brian,Salcido,USA,187.96,188.0,L
+Defence,8449924,Teppo,Numminen,FIN,187.96,198.0,R
+Goalie,8470090,Fredrik,Norrena,FIN,182.88,190.0,L
+Center,8451774,Mats,Sundin,SWE,195.58,231.0,R
+Defence,8468184,Lawrence,Nycholat,CAN,182.88,200.0,L
+Left Wing,8462082,Brad,Larsen,CAN,182.88,210.0,L
+Left Wing,8468884,Mitchell,Fritz,CAN,203.2,249.0,L
+Defence,8469919,Thomas,Pock,AUT,185.42,210.0,L
+Goalie,8471230,Marek,Schwarz,CZE,182.88,180.0,R
+Goalie,8468550,Mikael,Tellqvist,SWE,182.88,189.0,
+Defence,8458494,Sergei,Zubov,RUS,185.42,198.0,R
+Left Wing,8462209,P.J.,Axelsson,SWE,185.42,188.0,L
+Defence,8471004,Aaron,MacKenzie,CAN,185.42,195.0,L
+Defence,8458527,Philippe,Boucher,CAN,190.5,218.0,R
+Goalie,8471706,Tyler,Plante,USA,190.5,203.0,L
+Defence,8462050,Denis,Gauthier,CAN,187.96,220.0,L
+Defence,8471746,Phil,Oreskovic,CAN,193.04,217.0,R
+Right Wing,8468868,Ben,Ondrus,CAN,180.34,208.0,R
+Goalie,8458988,Manny,Fernandez,CAN,182.88,207.0,L
+Center,8451359,Mike,Sillinger,CAN,180.34,198.0,R
+Defence,8471288,Scott,Lehman,CAN,185.42,194.0,L
+Right Wing,8458982,Darren,McCarty,CAN,185.42,210.0,R
+Goalie,8448535,Olie,Kolzig,DEU,190.5,224.0,L
+Right Wing,8474225,Nate,Raduns,USA,190.5,212.0,R
+Defence,8450824,Luke,Richardson,CAN,190.5,214.0,L
+Defence,8458954,Jason,Smith,CAN,190.5,220.0,R
+Right Wing,8472008,Kurtis,McLean,CAN,182.88,190.0,R
+Center,8471641,Mike,Iggulden,CAN,190.5,215.0,R
+Goalie,8471305,Daniel,Lacosta,CAN,185.42,186.0,L
+Center,8471763,Ilya,Zubov,RUS,182.88,211.0,L
+Right Wing,8465992,Aaron,Downey,CAN,185.42,215.0,R
+Center,8468714,Janis,Sprukts,LVA,190.5,235.0,L
+Defence,8473433,Kevin,Quick,USA,182.88,181.0,L
+Defence,8471359,Janne,Niskala,FIN,182.88,187.0,L
+Defence,8473827,Jamie,Fraser,CAN,185.42,200.0,L
+Center,8451101,Joe,Sakic,CAN,180.34,195.0,L
+Left Wing,8470635,Petr,Vrana,CZE,177.8,174.0,L
+Right Wing,8470199,Barry,Tallackson,USA,195.58,215.0,R
+Defence,8475073,Geoff,Kinrade,CAN,182.88,195.0,L
+Defence,8456588,Jamie,Heward,CAN,187.96,215.0,R
+Goalie,8473650,Miika,Wiikman,SWE,182.88,180.0,L
+Goalie,8459463,Kevin,Weekes,CAN,187.96,215.0,L
+Goalie,8467430,Dany,Sabourin,CAN,193.04,204.0,L
+Goalie,8462055,Marc,Denis,CAN,185.42,193.0,L
+Left Wing,8471480,Janne,Pesonen,FIN,180.34,180.0,L
+Center,8471477,Jakub,Petruzalek,CZE,177.8,176.0,R
+Defence,8459406,Bryan,Helmer,CAN,187.96,208.0,R
+Defence,8470200,Ryan,Lannon,USA,185.42,200.0,L
+Center,8471516,Riley,Armstrong,CAN,180.34,185.0,R
+Defence,8467392,Alex,Henry,CAN,198.12,231.0,L
+Left Wing,8464983,Dan,Lacouture,USA,187.96,215.0,L
+Left Wing,8466266,Mike,York,USA,177.8,185.0,R
+Right Wing,8468604,Michel,Ouellet,CAN,185.42,193.0,R
+Goalie,8473632,Josh,Tordjman,CAN,185.42,156.0,
+Left Wing,8473407,Per,Ledin,SWE,182.88,194.0,L
+Center,8465041,Craig,MacDonald,CAN,185.42,201.0,L
+Center,8471334,Alexander,Nikulin,RUS,185.42,198.0,L
+Left Wing,8471237,Kris,Chucko,CAN,187.96,190.0,R
+Goalie,8470772,Chris,Holt,CAN,190.5,229.0,L
+Left Wing,8473905,Sean,Bentivoglio,CAN,177.8,190.0,L
+Right Wing,8475068,David,Sloane,USA,193.04,220.0,R
+Goalie,8473474,Riku,Helenius,FIN,190.5,211.0,L
+Defence,8475115,Jamie,Fritsch,USA,187.96,195.0,L
+Defence,8474076,John,Negrin,CAN,187.96,195.0,L
+Right Wing,8469920,Graham,Mink,USA,187.96,225.0,R
+Goalie,8468489,Brent,Krahn,CAN,193.04,232.0,L
+Left Wing,8470295,Connor,James,CAN,177.8,180.0,R
+Defence,8471253,Grant,Lewis,USA,190.5,190.0,R
+Center,8458069,Bryan,Smolinski,USA,185.42,203.0,R
+Center,8466110,Randy,Robitaille,CAN,180.34,200.0,L
+Center,8473979,Jaroslav,Hlinka,CZE,177.8,185.0,L
+Defence,8467352,Vitaly,Vishnevski,RUS,187.96,215.0,L
+Left Wing,8458978,Sergei,Brylin,RUS,177.8,190.0,L
+Left Wing,8462035,Chad,Kilger,CAN,193.04,224.0,L
+Defence,8466353,Karel,Rachunek,CZE,187.96,220.0,R
+Right Wing,8465016,Scott,Parker,USA,195.58,240.0,R
+Defence,8471358,Bryan,Young,CAN,185.42,191.0,L
+Defence,8460757,Dick,Tarnstrom,SWE,185.42,205.0,L
+Center,8466357,Wyatt,Smith,USA,180.34,205.0,L
+Defence,8467887,Jeff,Jillson,USA,190.5,215.0,R
+Left Wing,8457921,Geoff,Sanderson,CAN,182.88,190.0,L
+Left Wing,8447091,Martin,Gelinas,CAN,180.34,202.0,L
+Defence,8455805,Keith,Carney,USA,185.42,207.0,L
+Right Wing,8467966,Branko,Radivojevic,SVK,182.88,208.0,R
+Defence,8456595,Sean,Hill,USA,182.88,204.0,R
+Left Wing,8462081,Jan,Hlavac,CZE,182.88,201.0,L
+Goalie,8470084,Hannu,Toivonen,FIN,187.96,200.0,L
+Defence,8462040,Kyle,McLaren,CAN,193.04,235.0,L
+Center,8460534,Curtis,Brown,CAN,182.88,200.0,L
+Defence,8468750,Micki,Dupont,CAN,177.8,186.0,R
+Left Wing,8458534,Martin,Rucinsky,CZE,185.42,205.0,L
+Right Wing,8466109,Mike,Johnson,CAN,187.96,202.0,R
+Center,8459571,Andreas,Karlsson,SWE,193.04,201.0,L
+Left Wing,8469786,Karl,Stewart,CAN,180.34,185.0,L
+Right Wing,8471206,Junior,Lessard,CAN,180.34,191.0,R
+Left Wing,8470001,Jeff,Giuliano,USA,175.26,205.0,R
+Goalie,8460516,Dan,Cloutier,CAN,185.42,195.0,L
+Defence,8456852,Jon,Klemm,CAN,187.96,205.0,R
+Defence,8469795,Kevin,Dallman,CAN,180.34,195.0,R
+Defence,8467883,Branislav,Mezei,SVK,193.04,235.0,L
+Left Wing,8458554,Jozef,Stumpel,SVK,190.5,222.0,R
+Center,8466174,Jeremy,Reich,CAN,185.42,203.0,L
+Right Wing,8458532,Glen,Murray,CAN,190.5,218.0,R
+Goalie,8466303,Johan,Holmqvist,SWE,190.5,198.0,L
+Right Wing,8465189,Trevor,Letowski,CAN,177.8,180.0,R
+Defence,8452371,Glen,Wesley,CAN,185.42,207.0,L
+Left Wing,8467969,Mathias,Tjarnqvist,SWE,187.96,196.0,L
+Left Wing,8468496,Marcel,Hossa,SVK,190.5,220.0,L
+Center,8467516,Niko,Kapanen,FIN,172.72,180.0,L
+Center,8466343,Mark,Smith,CAN,177.8,200.0,L
+Center,8456100,Jim,Dowd,USA,182.88,180.0,R
+Right Wing,8462114,Sami,Kapanen,FIN,177.8,185.0,L
+Defence,8456531,Derian,Hatcher,USA,195.58,235.0,L
+Defence,8467896,Steve,McCarthy,CAN,185.42,210.0,L
+Center,8467565,John,Pohl,USA,185.42,196.0,R
+Left Wing,8468770,Simon,Gamache,CAN,177.8,186.0,L
+Left Wing,8460620,Bates,Battaglia,USA,187.96,205.0,L
+Defence,8473981,Magnus,Johansson,SWE,180.34,180.0,R
+Left Wing,8451972,Scott,Thornton,CAN,190.5,220.0,L
+Defence,8457403,Jaroslav,Modry,CZE,187.96,220.0,L
+Left Wing,8466304,Ladislav,Nagy,SVK,180.34,192.0,L
+Right Wing,8459455,David,Vyborny,CZE,177.8,181.0,L
+Defence,8467469,Allan,Rourke,CAN,187.96,215.0,L
+Left Wing,8465253,Marcus,Nilson,SWE,187.96,189.0,R
+Defence,8465250,Andrei,Zyuzin,RUS,185.42,208.0,L
+Right Wing,8458524,Martin,Lapointe,CAN,180.34,215.0,R
+Center,8458955,Martin,Straka,CZE,175.26,180.0,L
+Center,8458561,Yanic,Perreault,CAN,180.34,185.0,L
+Right Wing,8456106,Dallas,Drake,CAN,182.88,186.0,L
+Center,8459446,Kevyn,Adams,USA,185.42,200.0,R
+Goalie,8447687,Dominik,Hasek,CZE,185.42,166.0,L
+Defence,8469442,Duvie,Westcott,CAN,180.34,196.0,R
+Defence,8459538,Nolan,Pratt,CAN,190.5,207.0,L
+Center,8469997,Mark,Hartigan,CAN,182.88,200.0,L
+Right Wing,8470305,Rob,Globke,USA,187.96,208.0,R
+Defence,8458595,Alexei,Zhitnik,RUS,180.34,225.0,L
+Center,8470937,Kevin,Doell,CAN,180.34,190.0,R
+Center,8467416,Josef,Vasicek,CZE,195.58,214.0,L
+Defence,8465168,Joel,Kwiatkowski,CAN,182.88,205.0,L
+Right Wing,8470165,Matt,Foy,CAN,187.96,228.0,R
+Defence,8468597,Olli,Malmivaara,FIN,200.66,230.0,L
+Defence,8467378,Bobby,Allen,USA,182.88,201.0,L
+Goalie,8459432,Jocelyn,Thibault,CAN,180.34,169.0,L
+Defence,8470088,Matt,Jones,USA,182.88,224.0,L
+Left Wing,8467427,Kip,Brennan,CAN,193.04,230.0,L
+Defence,8462032,Bryan,Berard,USA,187.96,220.0,L
+Right Wing,8469510,Matt,Keith,CAN,187.96,200.0,R
+Defence,8469535,Drew,Fata,CAN,185.42,209.0,L
+Defence,8468613,Petteri,Nummelin,FIN,177.8,188.0,L
+Left Wing,8458031,Chris,Simon,CAN,190.5,232.0,L
+Goalie,8460715,John,Grahame,USA,190.5,220.0,L
+Defence,8460517,Rhett,Warrener,CAN,185.42,203.0,R
+Defence,8458544,Sandis,Ozolinsh,LVA,190.5,215.0,L
+Defence,8458984,Mattias,Norstrom,SWE,187.96,210.0,L
+Center,8455521,Stu,Barnes,CAN,180.34,182.0,R
+Center,8452285,Wes,Walz,CAN,180.34,190.0,R
+Left Wing,8470375,Patrick,Thoresen,NOR,180.34,188.0,L
+Defence,8469484,Matthew,Spiller,CAN,195.58,233.0,L
+Left Wing,8462419,Jeff,Cowan,CAN,187.96,205.0,L
+Center,8462197,Byron,Ritchie,CAN,177.8,190.0,L
+Center,8448825,Trevor,Linden,CAN,193.04,220.0,R
+Left Wing,8462094,Brad,Isbister,CAN,193.04,225.0,R
+Defence,8457384,Aaron,Miller,USA,190.5,210.0,R
+Defence,8471684,Luc,Bourdon,CAN,190.5,211.0,L
+Center,8470882,Geoff,Platt,CAN,175.26,175.0,L
+Defence,8467387,Joe,DiPenta,CAN,187.96,220.0,R
+Center,8467880,Kris,Beech,CAN,190.5,211.0,L
+Defence,8470643,Ivan,Baranka,SVK,190.5,205.0,L
+Right Wing,8473635,Denis,Tolpeko,RUS,185.42,190.0,L
+Defence,8468682,Ryan,Caldwell,CAN,187.96,174.0,L
+Left Wing,8473644,Gabe,Gauthier,USA,172.72,199.0,L
+Defence,8459558,Alain,Nasreddine,CAN,185.42,204.0,L
+Center,8469522,Brandon,Nolan,CAN,185.42,192.0,L
+Right Wing,8468732,Darryl,Bootland,CAN,185.42,197.0,R
+Defence,8467889,David,Tanabe,USA,185.42,212.0,R
+Defence,8459469,Rory,Fitzpatrick,USA,187.96,210.0,R
+Left Wing,8468123,Noah,Clarke,USA,175.26,190.0,L
+Center,8470821,Joe,Jensen,USA,180.34,180.0,L
+Right Wing,8470674,Stefan,Ruzicka,SVK,182.88,200.0,R
+Right Wing,8467323,Mark,Mowers,USA,180.34,174.0,R
+Goalie,8469556,Dimitri,Patzold,DEU,182.88,195.0,L
+Defence,8471256,Michael,Funk,CAN,193.04,199.0,L
+Right Wing,8471259,Adam,Pineault,USA,185.42,201.0,R
+Right Wing,8470663,Jonathan,Filewich,CAN,187.96,208.0,R
+Left Wing,8467924,Matt,Murley,USA,187.96,206.0,L
+Goalie,8466290,David,Aebischer,CHE,185.42,187.0,L
+Defence,8470681,Zack,Fitzgerald,USA,187.96,205.0,L
+Center,8469696,Petr,Cajanek,CZE,180.34,186.0,L
+Center,8472334,Alex,Foster,USA,182.88,200.0,L
+Goalie,8462102,Jean-Sebastien,Aubin,CAN,180.34,180.0,R
+Right Wing,8467962,Kyle,Wanvig,CAN,187.96,210.0,R
+Defence,8470624,Danny,Richmond,USA,185.42,190.0,L
+Center,8462037,Steve,Kelly,CAN,187.96,210.0,L
+Right Wing,8471224,Lauri,Tukonen,FIN,187.96,187.0,R
+Defence,8458522,Richard,Matvichuk,CAN,190.5,210.0,L
+Center,8471408,Petri,Kontiola,FIN,182.88,204.0,R
+Center,8470330,Mike,Glumac,CAN,187.96,209.0,R
+Left Wing,8467137,Pete,Vandermeer,CAN,182.88,212.0,L
+Right Wing,8466200,Josh,Langfeld,USA,190.5,215.0,R
+Defence,8469615,Maxim,Kondratiev,RUS,185.42,197.0,L
+Center,8473494,Petteri,Wirtanen,FIN,185.42,207.0,L
+Right Wing,8469656,Jason,King,CAN,182.88,193.0,L
+Right Wing,8466162,Ben,Clymer,USA,185.42,200.0,R
+Goalie,8470751,Chris,Beckford-Tseu,CAN,190.5,201.0,L
+Center,8459527,Shawn,Bates,USA,182.88,210.0,R
+Right Wing,8470637,Konstantin,Pushkarev,KAZ,182.88,180.0,R
+Center,8471906,David,Brine,CAN,185.42,201.0,L
+Left Wing,8471281,Adam,Berti,CAN,190.5,205.0,L
+Goalie,8470062,Tyler,Weiman,CAN,180.34,180.0,L
+Left Wing,8470744,Brady,Murray,USA,177.8,185.0,L
+Defence,8470632,Tim,Ramholt,CHE,187.96,170.0,L
+Goalie,8471819,Matt,Keetley,CAN,185.42,187.0,R
+Defence,8470698,Martin,Lojek,CZE,193.04,220.0,R
+Right Wing,8459156,Anson,Carter,CAN,185.42,210.0,R
+Defence,8463638,Bryan,Muir,CAN,190.5,225.0,L
+Center,8460495,Jeff,O'Neill,CAN,185.42,195.0,R
+Defence,8467540,Jim,Fahey,USA,182.88,205.0,R
+Defence,8470335,Alexander,Brooks,USA,185.42,195.0,R
+Left Wing,8470185,Jaroslav,Balastik,CZE,187.96,205.0,L
+Center,8469456,Alexander,Svitov,RUS,190.5,228.0,L
+Center,8464968,Erik,Rasmussen,USA,185.42,210.0,L
+Center,8467055,Patrik,Stefan,CZE,187.96,205.0,L
+Right Wing,8459019,Matthew,Barnaby,CAN,185.42,191.0,L
+Center,8458939,Alexei,Yashin,RUS,190.5,218.0,R
+Center,8458515,Eric,Lindros,CAN,193.04,240.0,R
+Right Wing,8468443,Jean-Pierre,Vigier,CAN,182.88,200.0,R
+Left Wing,8462185,Denis,Hamel,CAN,187.96,203.0,L
+Center,8459284,Steve,Rucchin,CAN,187.96,210.0,L
+Right Wing,8449545,Scott,Mellanby,CAN,185.42,210.0,R
+Right Wing,8460595,Nisse,Ekman,SWE,182.88,181.0,L
+Right Wing,8465180,Ronald,Petrovicky,SVK,182.88,195.0,R
+Defence,8468544,Filip,Novak,CZE,182.88,203.0,L
+Right Wing,8468466,Mark,Rycroft,CAN,182.88,192.0,R
+Left Wing,8466316,Antti,Laaksonen,FIN,182.88,180.0,L
+Right Wing,8455429,Tony,Amonte,USA,182.88,202.0,L
+Right Wing,8468536,Aleksander,Suglobov,RUS,182.88,200.0,L
+Left Wing,8460501,Jeff,Friesen,CAN,185.42,212.0,L
+Defence,8466381,Derrick,Walser,CAN,177.8,190.0,L
+Defence,8464959,Ric,Jackman,CAN,187.96,214.0,R
+Right Wing,8468103,Petr,Tenkrat,CZE,182.88,201.0,R
+Defence,8458468,Jason,York,CAN,187.96,202.0,R
+Right Wing,8469458,Stanislav,Chistov,RUS,177.8,193.0,R
+Defence,8459458,Janne,Niinimaa,FIN,185.42,220.0,L
+Right Wing,8469478,Alexander,Perezhogin,RUS,182.88,211.0,L
+Left Wing,8467397,Dimitri,Afanasenkov,RUS,187.96,209.0,R
+Goalie,8465093,Robert,Esche,USA,185.42,210.0,L
+Defence,8459484,Jamie,Rivers,CAN,185.42,200.0,L
+Left Wing,8470549,Peter,Sejna,SVK,175.26,190.0,L
+Left Wing,8466210,Ville,Nieminen,FIN,185.42,220.0,L
+Center,8470282,Jarkko,Immonen,FIN,182.88,200.0,R
+Center,8456430,Travis,Green,CAN,187.96,200.0,R
+Defence,8469714,Mikko,Lehtonen,FIN,185.42,194.0,L
+Right Wing,8467951,Mattias,Weinhandl,SWE,182.88,195.0,R
+Defence,8457421,Ian,Moran,USA,180.34,197.0,R
+Goalie,8462255,Jussi,Markkanen,FIN,182.88,182.0,L
+Center,8462061,Marc,Chouinard,CAN,195.58,205.0,R
+Center,8464998,Jan,Bulis,CZE,182.88,209.0,L
+Defence,8462177,Yannick,Tremblay,CAN,187.96,200.0,R
+Center,8458192,Tim,Taylor,CAN,185.42,190.0,L
+Defence,8470346,Richie,Regehr,CAN,182.88,205.0,L
+Right Wing,8467974,Juraj,Kolnik,SVK,180.34,195.0,R
+Center,8449893,Joe,Nieuwendyk,CAN,187.96,209.0,L
+Defence,8458942,Darius,Kasparaitis,RUS,180.34,215.0,L
+Center,8472418,Patrick,Fischer,CHE,180.34,194.0,L
+Left Wing,8467884,Oleg,Saprykin,RUS,185.42,190.0,L
+Left Wing,8468497,Alexei,Mikhnov,RUS,195.58,200.0,L
+Center,8466153,Michael,Holmqvist,SWE,193.04,210.0,L
+Center,8467386,Denis,Arkhipov,RUS,190.5,215.0,L
+Left Wing,8467914,Tony,Salmelainen,FIN,175.26,185.0,R
+Center,8450817,Mike,Ricci,CAN,182.88,200.0,L
+Center,8449807,Petr,Nedved,CZE,190.5,196.0,L
+Center,8451991,Pierre,Turgeon,CAN,185.42,199.0,L
+Defence,8469143,Travis,Roche,CAN,185.42,195.0,R
+Center,8470134,Jakub,Klepis,CZE,185.42,198.0,R
+Defence,8462258,Danny,Markov,RUS,185.42,186.0,L
+Goalie,8467879,Brian,Finley,CAN,187.96,205.0,R
+Right Wing,8468488,Nikita,Alexeev,RUS,198.12,227.0,L
+Goalie,8445386,Ed,Belfour,CAN,182.88,214.0,L
+Right Wing,8468036,Bjorn,Melin,SWE,185.42,205.0,R
+Center,8462105,Alyn,McCauley,CAN,180.34,200.0,L
+Left Wing,8467356,Ramzi,Abid,CAN,187.96,210.0,L
+Right Wing,8445575,Peter,Bondra,SVK,185.42,200.0,L
+Right Wing,8470150,Jonas,Johansson,SWE,187.96,190.0,R
+Center,8468118,Tommi,Santala,FIN,190.5,210.0,R
+Defence,8470935,Patrick,Coulombe,CAN,180.34,185.0,L
+Defence,8459181,Nathan,Dempsey,CAN,182.88,191.0,R
+Goalie,8470264,Barry,Brust,CAN,187.96,225.0,L
+Defence,8460493,Oleg,Tverdovsky,RUS,185.42,211.0,L
+Center,8459521,Marty,Murray,CAN,175.26,180.0,L
+Goalie,8470534,Yutaka,Fukufuji,JPN,185.42,160.0,L
+Goalie,8445769,Sean,Burke,CAN,193.04,209.0,L
+Goalie,8460696,Frederic,Cassivi,CAN,193.04,220.0,L
+Right Wing,8470076,Darren,Reid,CAN,187.96,205.0,R
+Defence,8469668,David,Printz,SWE,195.58,220.0,L
+Right Wing,8465220,Eric,Meloche,CAN,177.8,202.0,R
+Defence,8469593,Jussi,Timonen,FIN,182.88,200.0,L
+Center,8467564,Matt,Hussey,USA,187.96,212.0,L
+Center,8468566,Yanick,Lehoux,CAN,185.42,200.0,R
+Goalie,8458562,Jamie,McLennan,CAN,182.88,199.0,L
+Center,8468161,Brandon,Reid,CAN,175.26,180.0,R
+Defence,8459636,Brad,Norton,USA,193.04,230.0,L
+Defence,8469561,Bryce,Lampman,USA,185.42,205.0,L
+Right Wing,8465207,Reed,Low,CAN,193.04,220.0,R
+Right Wing,8468028,Niko,Dimitrakos,USA,180.34,193.0,R
+Defence,8458940,Mike,Rathje,CAN,195.58,235.0,L
+Right Wing,8469489,Duncan,Milroy,CAN,185.42,196.0,R
+Center,8467488,Erik,Westrum,USA,182.88,204.0,L
+Defence,8459065,Joel,Bouchard,CAN,185.42,209.0,L
+Defence,8467918,Martin,Grenier,CAN,195.58,245.0,L
+Left Wing,8467333,Rico,Fata,CAN,182.88,214.0,L
+Defence,8466146,Brad,Ference,CAN,190.5,201.0,R
+Goalie,8456137,Mike,Dunham,USA,187.96,190.0,L
+Center,8462062,Donald,MacLean,CAN,187.96,199.0,L
+Left Wing,8448622,John,LeClair,USA,190.5,233.0,L
+Center,8466394,Brad,Moran,CAN,180.34,182.0,L
+Center,8470336,Carsen,Germyn,CAN,180.34,190.0,R
+Center,8469847,Carl,Corazzini,USA,177.8,182.0,L
+Center,8468529,Jonas,Nordqvist,SWE,190.5,202.0,L
+Goalie,8471793,Tomas,Popperle,CZE,185.42,187.0,L
+Center,8459615,Eric,Boguniecki,USA,172.72,198.0,R
+Defence,8468487,Lars,Jonsson,SWE,185.42,198.0,L
+Right Wing,8466197,Lee,Goren,CAN,190.5,215.0,R
+Left Wing,8467383,Tyler,Bouck,CAN,182.88,196.0,L
+Goalie,8471526,Michael,Wall,CAN,187.96,209.0,L
+Right Wing,8470343,Jesse,Schultz,CAN,182.88,190.0,R
+Center,8469805,Gregory,Jacina,CAN,182.88,203.0,R
+Defence,8459008,Eric,Cairns,CAN,198.12,243.0,L
+Center,8462149,Jason,Morgan,CAN,185.42,194.0,L
+Defence,8471452,Mike,Card,CAN,185.42,201.0,R
+Left Wing,8470629,Vojtech,Polak,CZE,177.8,180.0,L
+Defence,8471911,Sebastien,Bisaillon,CAN,182.88,205.0,R
+Defence,8460782,Todd,Simpson,CAN,190.5,220.0,L
+Defence,8460521,Deron,Quint,USA,187.96,192.0,L
+Center,8470267,Alexei,Kaigorodov,RUS,182.88,194.0,L
+Right Wing,8469557,Tomi,Maki,FIN,180.34,193.0,L
+Defence,8472375,Jamie,Hunt,CAN,187.96,195.0,L
+Defence,8468035,Timo,Helbling,CHE,190.5,224.0,R
+Right Wing,8470244,Matt,Ellison,CAN,182.88,192.0,R
+Goalie,8467364,Philippe,Sauve,USA,182.88,190.0,L
+Goalie,8467486,Mike,Morrison,USA,190.5,194.0,L
+Defence,8471765,Jonathan,Sigalet,CAN,185.42,185.0,L
+Left Wing,8469132,David,Gove,USA,175.26,190.0,L
+Right Wing,8469546,Danny,Bois,CAN,182.88,196.0,R
+Center,8466421,Serge,Payer,CAN,182.88,191.0,L
+Left Wing,8469499,Tuomas,Pihlman,FIN,187.96,215.0,L
+Goalie,8468582,Stefan,Liv,SWE,185.42,177.0,L
+Defence,8469515,Tomas,Malec,SVK,187.96,215.0,L
+Left Wing,8469720,Shay,Stephenson,CAN,187.96,180.0,L
+Right Wing,8467337,Jeff,Heerema,CAN,187.96,212.0,R
+Goalie,8459252,Fred,Brathwaite,CAN,170.18,185.0,L
+Goalie,8471444,Martin,Houle,CAN,180.34,180.0,L
+Right Wing,8467444,Patrick,Leahy,USA,190.5,200.0,R
+Defence,8457191,Vladimir,Malakhov,RUS,193.04,230.0,L
+Defence,8458582,Dave,Karpa,CAN,185.42,205.0,R
+Left Wing,8456087,Ted,Donato,USA,177.8,189.0,L
+Right Wing,8458566,Sandy,McCarthy,CAN,190.5,223.0,R
+Center,8449573,Mark,Messier,CAN,187.96,211.0,L
+Goalie,8469463,Dan,Blackburn,CAN,185.42,180.0,L
+Defence,8448769,Brian,Leetch,USA,182.88,190.0,L
+Left Wing,8459071,Rem,Murray,CAN,187.96,195.0,L
+Left Wing,8467961,Jimmie,Olvestad,SWE,185.42,194.0,L
+Left Wing,8460509,Chris,Dingman,CAN,193.04,244.0,L
+Right Wing,8455738,Pavel,Bure,RUS,180.34,191.0,L
+Defence,8448770,Sylvain,Lefebvre,CAN,187.96,204.0,L
+Left Wing,8445000,Dave,Andreychuk,CAN,193.04,225.0,R
+Defence,8460520,Stan,Neckar,CZE,185.42,214.0,L
+Defence,8462148,Dale,Purinton,USA,190.5,228.0,L
+Center,8459010,Aaron,Gavey,CAN,187.96,189.0,L
+Right Wing,8466261,Jiri,Bicek,SVK,177.8,195.0,L
+Defence,8459014,Robert,Svehla,SVK,185.42,210.0,R
+Defence,8444919,Tommy,Albelin,SWE,187.96,195.0,L
+Right Wing,8458125,Turner,Stevenson,CAN,190.5,230.0,R
+Right Wing,8459158,Jonas,Hoglund,SWE,190.5,218.0,R
+Right Wing,8459614,Paul,Healey,CAN,187.96,198.0,R
+Left Wing,8449477,Jim,McKenzie,CAN,193.04,230.0,L
+Defence,8448824,Jyrki,Lumme,FIN,185.42,210.0,L
+Right Wing,8449654,Alexander,Mogilny,RUS,182.88,210.0,L
+Defence,8446309,Ken,Daneyko,CAN,185.42,215.0,L
+Defence,8462034,Aki,Berg,FIN,190.5,213.0,L
+Defence,8451715,Scott,Stevens,CAN,187.96,215.0,L
+Left Wing,8467363,Christian,Berglund,SWE,180.34,195.0,L
+Center,8450767,Robert,Reichel,CZE,177.8,180.0,L
+Right Wing,8446454,Tie,Domi,CAN,177.8,213.0,R
+Right Wing,8446830,Tom,Fitzgerald,USA,182.88,195.0,R
+Left Wing,8468766,Andrej,Nedorost,SVK,185.42,199.0,L
+Right Wing,8462121,Matt,Davidson,CAN,190.5,202.0,R
+Center,8468468,Blake,Bellefeuille,USA,177.8,210.0,R
+Center,8462182,Clarke,Wilm,CAN,182.88,202.0,L
+Center,8458565,Sean,Pronger,CAN,190.5,209.0,L
+Defence,8458518,Scott,Lachance,USA,185.42,215.0,L
+Left Wing,8447177,Brent,Gilchrist,CAN,180.34,180.0,L
+Center,8446003,Andrew,Cassels,CAN,180.34,178.0,L
+Left Wing,8462136,Vladimir,Orszagh,SVK,180.34,195.0,L
+Defence,8447979,Bill,Houlder,CAN,187.96,215.0,L
+Defence,8462211,Jean-Luc ,Grand-Pierre,CAN,190.5,228.0,R
+Right Wing,8462072,Nathan,Perrott,CAN,182.88,225.0,R
+Defence,8459002,Cale,Hulse,CAN,190.5,220.0,R
+Left Wing,8458650,Andreas,Johansson,SWE,182.88,203.0,L
+Defence,8459466,Jamie,Allison,CAN,185.42,210.0,L
+Defence,8465061,Andy,Berenzweig,USA,187.96,218.0,L
+Left Wing,8457297,Shawn,McEachern,USA,180.34,200.0,L
+Left Wing,8459159,Chris,Herperger,CAN,182.88,205.0,L
+Left Wing,8466183,Yuri,Butsayev,RUS,182.88,195.0,L
+Right Wing,8450678,Rob,Ray,CAN,182.88,222.0,L
+Right Wing,8460579,Vaclav,Varada,CZE,182.88,209.0,L
+Center,8459562,Per,Svartvadet,SWE,185.42,190.0,L
+Goalie,8466156,Mika,Noronen,FIN,187.96,196.0,L
+Defence,8458179,Chris,Tamer,USA,187.96,200.0,L
+Defence,8458058,Richard,Smehlik,CZE,190.5,230.0,L
+Defence,8458454,Jason,Woolley,CAN,182.88,207.0,L
+Center,8459223,Pascal,Rheaume,CAN,185.42,210.0,L
+Defence,8450223,James,Patrick,CAN,187.96,198.0,R
+Right Wing,8457566,Jeff,Odgers,CAN,182.88,200.0,R
+Center,8448017,Tony,Hrkac,CAN,180.34,190.0,L
+Goalie,8469636,Pasi,Nurminen,FIN,177.8,215.0,L
+Defence,8468105,Alexander,Khavanov,RUS,187.96,205.0,L
+Right Wing,8458540,Ziggy,Palffy,SVK,180.34,181.0,L
+Center,8467372,Justin,Papineau,CAN,180.34,180.0,L
+Defence,8470303,Tom,Koivisto,FIN,177.8,186.0,R
+Center,8459439,Jason,Allison,CAN,190.5,215.0,R
+Left Wing,8457704,Shjon,Podein,USA,187.96,200.0,L
+Left Wing,8460733,Tyson,Nash,CAN,180.34,191.0,L
+Defence,8448960,Al,MacInnis,CAN,185.42,204.0,R
+Defence,8462073,Christian,Laflamme,CAN,185.42,208.0,R
+Right Wing,8467682,Brad,Chartrand,CAN,180.34,192.0,R
+Defence,8458636,Dmitry,Yushkevich,RUS,180.34,210.0,R
+Goalie,8457714,Felix,Potvin,CAN,185.42,195.0,L
+Left Wing,8456729,Craig,Johnson,USA,187.96,200.0,L
+Center,8468527,Jared,Aulin,CAN,182.88,192.0,R
+Center,8467359,Artem,Chubarov,RUS,185.42,205.0,L
+Goalie,8458266,Roman,Turek,CZE,193.04,222.0,R
+Left Wing,8468055,Fedor,Fedorov,RUS,193.04,240.0,L
+Defence,8462090,Petr,Buzek,CZE,185.42,220.0,L
+Defence,8455666,Bob,Boughner,CAN,182.88,205.0,R
+Right Wing,8456849,Trent,Klatt,USA,185.42,225.0,R
+Defence,8445266,Murray,Baron,CAN,190.5,236.0,L
+Left Wing,8460587,Jamie,Wright,CAN,182.88,194.0,L
+Defence,8459490,Patrick,Boileau,CAN,182.88,200.0,R
+Center,8460484,Steve,Martins,CAN,175.26,185.0,L
+Center,8452578,Steve,Yzerman,CAN,177.8,187.0,R
+Center,8448669,Igor,Larionov,RUS,180.34,170.0,L
+Defence,8446826,Jeff,Finley,CAN,187.96,203.0,L
+Defence,8462056,Maxim,Kuznetsov,RUS,195.58,230.0,L
+Left Wing,8450941,Luc,Robitaille,CAN,185.42,215.0,L
+Right Wing,8448091,Brett,Hull,USA,180.34,205.0,R
+Right Wing,8466225,Ivan,Novoseltsev,RUS,185.42,215.0,L
+Defence,8447989,Phil,Housley,USA,177.8,185.0,L
+Center,8458487,Alexei,Zhamnov,RUS,185.42,204.0,L
+Defence,8458963,Boris,Mironov,RUS,193.04,223.0,R
+Left Wing,8449295,Stephane,Matteau,CAN,193.04,220.0,L
+Defence,8458838,Steve,Poapst,CAN,180.34,199.0,L
+Left Wing,8452161,Garry,Valk,CAN,185.42,205.0,L
+Defence,8449957,Lyle,Odelein,CAN,182.88,212.0,L
+Left Wing,8462198,Peter,Worrell,CAN,200.66,250.0,L
+Right Wing,8467885,Denis,Shvidki,RUS,187.96,210.0,L
+Left Wing,8456031,Louie,Debrusk,CAN,187.96,227.0,L
+Defence,8456793,Alexander,Karpovtsev,RUS,190.5,221.0,L
+Right Wing,8451898,Steve,Thomas,CAN,180.34,185.0,L
+Center,8458974,Igor,Korolev,RUS,185.42,197.0,L
+Right Wing,8458969,Valeri,Bure,RUS,180.34,180.0,R
+Left Wing,8460742,Sergei,Berezin,RUS,177.8,196.0,R
+Right Wing,8464963,Lance,Ward,CAN,190.5,214.0,L
+Defence,8469710,Ivan,Majesky,SVK,193.04,231.0,R
+Defence,8459174,Dan,McGillis,CAN,190.5,220.0,L
+Right Wing,8459430,Niklas,Sundstrom,SWE,182.88,190.0,L
+Right Wing,8459431,Todd,Harvey,CAN,182.88,210.0,R
+Defence,8449137,Bryan,Marchment,CAN,185.42,200.0,L
+Center,8446303,Vincent,Damphousse,CAN,185.42,205.0,L
+Right Wing,8446408,Rob,DiMaio,CAN,177.8,190.0,R
+Right Wing,8452569,Scott,Young,USA,185.42,200.0,R
+Left Wing,8449740,Kirk,Muller,CAN,182.88,205.0,L
+Left Wing,8447364,Adam,Graves,CAN,182.88,205.0,L
+Defence,8445428,Marc,Bergevin,CAN,185.42,214.0,L
+Left Wing,8458587,Vladimir,Vujtek,CZE,185.42,203.0,L
+Defence,8458546,Jamie,Pushor,CAN,190.5,218.0,R
+Center,8448782,Mario,Lemieux,CAN,193.04,230.0,R
+Left Wing,8464875,Steve,McKenna,CAN,203.2,252.0,L
+Center,8462159,Jan,Hrdina,CZE,182.88,200.0,R
+Right Wing,8462054,Aleksey,Morozov,RUS,185.42,204.0,L
+Right Wing,8459423,Alexandre,Daigle,CAN,182.88,204.0,L
+Center,8457203,Kent,Manderville,CAN,190.5,200.0,L
+Defence,8458805,Janne,Laukkanen,FIN,185.42,187.0,L
+Defence,8469715,Ales,Pisa,CZE,182.88,200.0,R
+Left Wing,8468120,Mikko,Eloranta,FIN,182.88,190.0,L
+Goalie,8459541,Tommy,Salo,SWE,182.88,180.0,L
+Defence,8460051,Scott,Ferguson,CAN,185.42,195.0,L
+Right Wing,8456556,Steve,Heinze,USA,180.34,202.0,R
+Center,8460603,Brian,Swanson,USA,177.8,185.0,L
+Left Wing,8459391,Darren,Langdon,CAN,185.42,205.0,L
+Defence,8459434,Kenny,Jonsson,SWE,190.5,205.0,L
+Left Wing,8458941,Todd,Warriner,CAN,187.96,210.0,L
+Center,8459437,Mats,Lindgren,SWE,187.96,205.0,L
+Center,8460498,Jason,Wiemer,CAN,185.42,225.0,L
+Defence,8459144,Mattias,Timander,SWE,190.5,230.0,L
+Center,8448674,Claude,Lapointe,CAN,175.26,188.0,L
+Center,8465018,Oleg,Kvasha,RUS,195.58,230.0,R
+Right Wing,8460664,Steve,Webb,CAN,182.88,211.0,R
+Goalie,8459132,Steve,Passmore,CAN,175.26,165.0,L
+Defence,8459038,Sami,Helenius,FIN,198.12,230.0,L
+Center,8458983,Andrei,Nikolishin,RUS,182.88,225.0,L
+Left Wing,8459515,Eric,Daze,CAN,198.12,235.0,L
+Center,8451005,Cliff,Ronning,CAN,172.72,165.0,L
+Right Wing,8446847,Theo,Fleury,CAN,167.64,182.0,R
+Defence,8468712,Lubomir,Sekeras,SVK,182.88,183.0,L
+Left Wing,8468554,Igor,Radulov,RUS,185.42,186.0,L
+Center,8458991,Sergei,Zholtok,LVA,185.42,197.0,R
+Defence,8457222,Jason,Marshall,CAN,187.96,200.0,R
+Center,8456156,Mike,Eastwood,CAN,190.5,216.0,R
+Right Wing,8459109,Ryan,Vandenbussche,CAN,182.88,200.0,R
+Left Wing,8458996,Jeremy,Stevenson,USA,185.42,215.0,L
+Left Wing,8460524,Matt,Johnson,CAN,195.58,235.0,L
+Defence,8466205,Burke,Henry,CAN,190.5,206.0,L
+Goalie,8457969,Corey,Schwab,CAN,182.88,180.0,L
+Defence,8462416,Andy,Delmore,CAN,182.88,201.0,R
+Left Wing,8460012,Eric,Messier,CAN,187.96,197.0,L
+Center,8468494,Vaclav,Nedorost,CZE,185.42,190.0,L
+Center,8458972,Jeff,Shantz,CAN,182.88,200.0,R
+Center,8460649,Serge,Aubin,CAN,185.42,200.0,L
+Defence,8462069,Denis,Smith,CAN,187.96,205.0,L
+Right Wing,8448415,Mike,Keane,CAN,177.8,190.0,R
+Left Wing,8462068,Chris,McAllister,CAN,200.66,250.0,L
+Goalie,8451033,Patrick,Roy,CAN,187.96,190.0,L
+Center,8467902,Michal,Sivek,CZE,190.5,213.0,L
+Left Wing,8469568,Tomas,Surovy,SVK,182.88,191.0,L
+Defence,8463125,Shawn,Heins,CAN,193.04,210.0,L
+Center,8468056,Riku,Hahl,FIN,185.42,205.0,L
+Defence,8459700,Hans,Jonsson,SWE,185.42,176.0,L
+Defence,8465252,Richard,Lintner,SVK,190.5,214.0,R
+Center,8456734,Greg,Johnson,CAN,180.34,200.0,L
+Right Wing,8460551,Vitali,Yachmenev,RUS,180.34,195.0,L
+Left Wing,8458036,Reid,Simpson,CAN,187.96,216.0,L
+Right Wing,8468438,Billy,Tibbetts,USA,187.96,215.0,R
+Center,8467347,Milan,Kraft,CZE,193.04,212.0,R
+Defence,8458929,Cory,Cross,CAN,195.58,225.0,L
+Defence,8466443,Radoslav,Suchy,SVK,187.96,201.0,L
+Left Wing,8458682,Brian,Savage,CAN,185.42,200.0,L
+Right Wing,8445733,Kelly,Buchberger,CAN,187.96,200.0,L
+Defence,8466189,Rick,Berry,CAN,187.96,213.0,L
+Defence,8462063,Jason,Doig,CAN,190.5,230.0,R
+Defence,8448287,Calle,Johansson,SWE,180.34,203.0,L
+Center,8469502,Jaroslav,Bednar,CZE,182.88,198.0,R
+Center,8449633,Kip,Miller,USA,177.8,188.0,L
+Left Wing,8458572,Steve,Konowalchuk,USA,185.42,205.0,L
+Goalie,8466192,Jani,Hurme,FIN,182.88,195.0,L
+Center,8469610,Andreas,Salomonsson,SWE,185.42,200.0,L
+Left Wing,8458947,Andrei,Nazarov,RUS,195.58,242.0,R
+Defence,8464964,Dan,Focht,CAN,198.12,237.0,L
+Defence,8459035,Marcus,Ragnarsson,SWE,185.42,215.0,L
+Left Wing,8462084,Mike,Leclerc,CAN,187.96,212.0,L
+Defence,8449971,Fredrik,Olausson,SWE,182.88,198.0,R
+Left Wing,8460836,Kevin,Sawyer,CAN,187.96,202.0,L
+Defence,8459522,John,Jakopin,CAN,195.58,239.0,R
+Center,8468150,Lynn,Loyns,CAN,180.34,205.0,L
+Left Wing,8455763,Dan,Bylsma,USA,187.96,215.0,L
+Left Wing,8456848,Patric,Kjellberg,SWE,190.5,210.0,L
+Left Wing,8467535,Jaroslav,Svoboda,CZE,190.5,201.0,L
+Left Wing,8446305,Jeff,Daniels,CAN,185.42,200.0,L
+Right Wing,8467920,Sheldon,Keefe,CAN,180.34,185.0,R
+Goalie,8456692,Arturs,Irbe,LVA,172.72,190.0,L
+Center,8446951,Ron,Francis,CAN,190.5,200.0,L
+Defence,8455653,Brad,Bombardir,CAN,185.42,205.0,L
+Defence,8460508,Brad,Brown,CAN,193.04,220.0,R
+Center,8459069,Jiri,Dopita,CZE,193.04,222.0,L
+Goalie,8458584,Milan,Hnilicka,CZE,185.42,190.0,L
+Defence,8467374,Jonathan,Girard,CAN,180.34,192.0,R
+Goalie,8458615,Steve,Shields,CAN,190.5,215.0,L
+Left Wing,8468539,Ivan,Huml,CZE,187.96,200.0,L
+Left Wing,8466437,Lubos,Bartecko,SVK,182.88,210.0,L
+Defence,8451819,Don,Sweeney,CAN,177.8,186.0,L
+Center,8465960,P.J.,Stock,CAN,177.8,200.0,L
+Defence,8462051,Sean,Brown,CAN,190.5,215.0,L
+Left Wing,8458477,Rob,Zamuner,CAN,190.5,201.0,L
+Left Wing,8459568,Michal,Grosek,CZE,187.96,219.0,R
+Left Wing,8457319,Marty,McInnis,USA,180.34,184.0,R
+Defence,8467475,Jesse,Fibiger,CAN,190.5,215.0,L
+Right Wing,8467438,Miroslav,Zalesak,SVK,185.42,211.0,L
+Center,8458526,Tyler,Wright,CAN,182.88,190.0,R
+Center,8456857,Espen,Knutsen,NOR,180.34,195.0,L
+Right Wing,8458959,Grant,Marshall,CAN,185.42,200.0,R
+Goalie,8464715,Peter,Skudra,LVA,185.42,185.0,L
+Defence,8459249,Darren,Van Impe,CAN,185.42,205.0,L
+Right Wing,8459602,David,Ling,CAN,177.8,204.0,R
+Goalie,8467340,Patrick,Desrochers,CAN,193.04,205.0,L
+Center,8466171,Harold,Druken,CAN,182.88,205.0,L
+Defence,8468717,Zdenek,Kutlak,CZE,190.5,210.0,L
+Left Wing,8459486,Krzysztof,Oliwa,POL,195.58,245.0,L
+Center,8468531,Kris,Vernarsky,USA,190.5,207.0,L
+Defence,8451059,Darren,Rumble,CAN,185.42,207.0,L
+Defence,8469701,Dmitri,Bykov,RUS,185.42,190.0,L
+Right Wing,8457785,Mikael,Renberg,SWE,187.96,235.0,L
+Center,8449951,Adam,Oates,CAN,180.34,190.0,R
+Left Wing,8468492,Alexei,Smirnov,RUS,190.5,215.0,L
+Defence,8464976,Jesse,Wallin,CAN,187.96,203.0,L
+Defence,8467349,Jiri,Fischer,CZE,195.58,229.0,L
+Defence,8467499,Tomas,Zizka,CZE,185.42,198.0,L
+Goalie,8460497,Jamie,Storr,CAN,187.96,200.0,L
+Left Wing,8466155,Mike,Brown,CAN,193.04,225.0,L
+Right Wing,8458628,Robert,Valicevic,USA,187.96,208.0,R
+Defence,8458585,Igor,Kravchuk,RUS,185.42,215.0,L
+Defence,8458202,Chris,Therien,CAN,195.58,235.0,L
+Defence,8458715,Igor,Ulanov,RUS,190.5,220.0,L
+Left Wing,8451093,Joe,Sacco,USA,185.42,190.0,L
+Defence,8446407,Eric,Desjardins,CAN,185.42,205.0,R
+Defence,8460594,Pavel,Trnka,CZE,187.96,206.0,L
+Defence,8467345,Mathieu,Biron,CAN,198.12,233.0,R
+Center,8467342,Eric,Chouinard,CAN,190.5,215.0,L
+Center,8450550,Keith,Primeau,CAN,195.58,220.0,L
+Right Wing,8462127,Radovan,Somik,SVK,187.96,194.0,R
+Goalie,8447449,Jeff,Hackett,CAN,185.42,198.0,L
+Right Wing,8446295,Ulf,Dahlen,SWE,190.5,204.0,L
+Left Wing,8467425,Petr,Schastlivy,RUS,185.42,204.0,L
+Right Wing,8448092,Jody,Hull,CAN,187.96,195.0,R
+Center,8452147,Shaun,Van Allen,CAN,185.42,206.0,L
+Defence,8448797,Curtis,Leschyshyn,CAN,185.42,207.0,L
+Left Wing,8466249,Magnus,Arvedson,SWE,187.96,198.0,R
+Left Wing,8446167,Shayne,Corson,CAN,185.42,202.0,L
+Defence,8460689,Raymond,Giroux,CAN,185.42,190.0,L
+Left Wing,8467886,Jani,Rita,FIN,185.42,206.0,R
+Right Wing,8458641,Oleg,Petrov,RUS,175.26,172.0,L
+Center,8456760,Joe,Juneau,CAN,182.88,193.0,L
+Right Wing,8458620,Mariusz,Czerkawski,POL,182.88,200.0,R
+Defence,8458986,Patrick,Traverse,CAN,193.04,210.0,L
+Defence,8456149,Karl,Dykhuis,CAN,190.5,214.0,L
+Right Wing,8465090,Andreas,Dackell,SWE,180.34,192.0,R
+Right Wing,8449450,Randy,McKay,CAN,187.96,210.0,R
+Defence,8450620,Stephane,Quintal,CAN,190.5,233.0,R
+Center,8447206,Doug,Gilmour,CAN,180.34,177.0,L
+Left Wing,8450653,Paul,Ranheim,USA,185.42,210.0,R
+Left Wing,8457646,Scott,Pellerin,CAN,180.34,190.0,L
+Left Wing,8465020,Gordie,Dwyer,CAN,190.5,202.0,L
+Right Wing,8459996,Dennis,Bonvie,CAN,180.34,221.0,R
+Left Wing,8458617,Bill,Lindsay,USA,182.88,198.0,L
+Right Wing,8445176,Donald,Audette,CAN,172.72,191.0,R
+Left Wing,8465230,Ivan,Ciernik,SVK,182.88,218.0,L
+Defence,8466170,Jean-Francois,Fortin,CAN,190.5,210.0,R
+Left Wing,8470030,Lasse,Pirjeta,FIN,190.5,228.0,L
+Goalie,8458075,Garth,Snow,USA,190.5,200.0,L
+Goalie,8468651,Roman,Cechmanek,CZE,190.5,211.0,L
+Defence,8452353,Eric,Weinrich,USA,185.42,215.0,L
+Right Wing,8462107,Tomi,Kallio,FIN,182.88,190.0,L
+Right Wing,8467877,Pavel,Brendl,CZE,185.42,204.0,R
+Center,8466164,Scott,Barney,CAN,193.04,225.0,R
+Right Wing,8467360,Stephen,Peat,CAN,187.96,235.0,R
+Goalie,8450833,Mike,Richter,USA,177.8,190.0,L
+Defence,8469491,Karel,Pilar,CZE,190.5,207.0,R
+Left Wing,8458347,Dixon,Ward,CAN,182.88,200.0,R
+Center,8466186,Roman,Lyashenko,RUS,182.88,196.0,R
+Center,8458638,Brian,Holzinger,USA,180.34,186.0,R
+Center,8458990,Mathias,Johansson,SWE,185.42,200.0,L
+Right Wing,8469728,Toni,Dahlman,FIN,182.88,198.0,R
+Goalie,8468037,Martin,Prusek,CZE,187.96,176.0,R
+Left Wing,8459146,Jeff,Toms,CAN,195.58,210.0,L
+Left Wing,8467417,Eric,Beaudoin,CAN,195.58,220.0,L
+Center,8459435,Denis,Pederson,CAN,187.96,205.0,R
+Defence,8467388,Paul,Manning,CAN,193.04,208.0,L
+Right Wing,8468130,Hannes,Hyvonen,FIN,187.96,200.0,R
+Right Wing,8468444,Brad,Tapper,CAN,182.88,180.0,R
+Defence,8448554,Uwe,Krupp,DEU,198.12,240.0,R
+Center,8467658,Daniel,Snyder,CAN,182.88,190.0,L
+Right Wing,8466345,Jonathan,Hedstrom,SWE,182.88,200.0,L
+Goalie,8459239,Jean-Francois,Labbe,CAN,175.26,174.0,L
+Left Wing,8460015,Sylvain,Blouin,CAN,187.96,215.0,L
+Right Wing,8460707,Bill,Muckalt,CAN,185.42,200.0,R
+Right Wing,8466971,Blake,Sloan,USA,177.8,196.0,R
+Left Wing,8448834,Dave,Lowry,CAN,185.42,192.0,L
+Defence,8445413,Drake,Berehowsky,CAN,187.96,217.0,R
+Defence,8467892,Kirill,Safronov,RUS,187.96,215.0,L
+Left Wing,8466240,Benjamin,Simon,USA,182.88,195.0,L
+Right Wing,8466336,Kamil,Piros,CZE,182.88,195.0,L
+Defence,8460548,Sven,Butenschon,DEU,193.04,215.0,L
+Goalie,8462247,Zac,Bierk,CAN,195.58,205.0,L
+Defence,8459161,Steven,Halko,CAN,185.42,200.0,R
+Goalie,8451837,Ron,Tugnutt,CAN,180.34,165.0,L
+Right Wing,8459436,Adam,Deadmarsh,USA,182.88,205.0,R
+Defence,8457264,Chris,McAlpine,USA,185.42,215.0,R
+Goalie,8462120,Sebastien,Charpentier,CAN,175.26,190.0,L
+Defence,8467558,Bruno,St. Jacques,CAN,187.96,210.0,L
+Defence,8460751,Ladislav,Benysek,CZE,187.96,190.0,L
+Defence,8467450,Tomas,Kloucek,CZE,190.5,235.0,L
+Center,8468449,Greg,Classen,CAN,185.42,200.0,L
+Defence,8447187,Todd,Gill,CAN,182.88,185.0,L
+Left Wing,8460510,Jason,Botterill,CAN,193.04,217.0,L
+Defence,8465044,Josef,Boumedienne,SWE,187.96,205.0,L
+Right Wing,8460044,Brad,Smyth,CAN,182.88,200.0,R
+Left Wing,8445440,Craig,Berube,CAN,185.42,205.0,L
+Goalie,8456830,Trevor,Kidd,CAN,187.96,213.0,L
+Center,8468615,Michael,Danton,CAN,175.26,191.0,R
+Right Wing,8462103,John,Tripp,DEU,190.5,223.0,R
+Center,8468003,Justin,Mapletoft,CAN,185.42,202.0,L
+Center,8467325,Andre,Savage,CAN,182.88,195.0,R
+Left Wing,8467461,Ryan,Flinn,CAN,193.04,235.0,L
+Right Wing,8456121,Steve,Dubinsky,CAN,182.88,190.0,L
+Goalie,8455994,Byron,Dafoe,GBR,180.34,185.0,L
+Defence,8459448,Mike,Wilson,CAN,198.12,229.0,L
+Goalie,8467940,Evgeny,Konstantinov,RUS,182.88,180.0,L
+Center,8456567,Darby,Hendrickson,USA,185.42,195.0,L
+Left Wing,8468512,Tomas,Kurka,CZE,180.34,190.0,L
+Center,8460482,Stephen,Guolla,CAN,182.88,190.0,L
+Right Wing,8467732,Kirby,Law,CAN,185.42,190.0,R
+Defence,8458560,Rich,Brennan,USA,187.96,212.0,R
+Left Wing,8468507,Martin,Samuelsson,SWE,187.96,197.0,L
+Right Wing,8459570,Frank,Banham,CAN,185.42,208.0,R
+Left Wing,8460654,Colin,Forbes,CAN,190.5,220.0,L
+Right Wing,8459033,Brantt,Myhres,CAN,190.5,220.0,R
+Defence,8469691,Kari,Haakana,FIN,185.42,220.0,L
+Center,8459412,Jim,Montgomery,CAN,177.8,180.0,R
+Defence,8465032,Zenith,Komarniski,CAN,182.88,200.0,L
+Center,8462239,Derek,Bekar,CAN,187.96,180.0,L
+Center,8458185,Chris,Taylor,CAN,187.96,188.0,L
+Center,8466191,Jeff,Farkas,USA,182.88,174.0,L
+Center,8467379,Steve,Moore,CAN,187.96,205.0,R
+Goalie,8445275,Tom,Barrasso,USA,190.5,210.0,R
+Center,8462227,Ryan,Kraft,USA,175.26,181.0,L
+Right Wing,8447383,Mark,Greig,CAN,180.34,190.0,R
+Center,8459472,Eric,Manlow,CAN,182.88,190.0,L
+Left Wing,8466317,Cam,Severson,CAN,187.96,220.0,L
+Defence,8467319,Darrel,Scoville,CAN,190.5,208.0,L
+Center,8460599,Chris,Schmidt,DEU,190.5,212.0,L
+Right Wing,8460663,Ladislav,Kohn,CZE,180.34,200.0,L
+Defence,8470239,Radoslav,Hecl,SVK,185.42,196.0,L
+Center,8458385,Peter,White,CAN,180.34,200.0,L
+Left Wing,8466039,Jean-Guy,Trudel,CAN,182.88,190.0,R
+Left Wing,8467418,Tommy,Vestlund,SWE,182.88,202.0,
+Center,8464965,Josh,Holden,CAN,182.88,189.0,L
+Right Wing,8458542,Jim,Campbell,USA,187.96,205.0,R
+Right Wing,8462126,Cameron,Mann,CAN,182.88,195.0,R
+Goalie,8459451,Tyler,Moss,CAN,182.88,185.0,R
+Goalie,8467938,Jan,Lasak,SVK,182.88,204.0,L
+Right Wing,8467373,Norman,Milley,CAN,182.88,211.0,R
+Right Wing,8460588,Eric,Nickulas,USA,180.34,206.0,R
+Center,8460061,Stacy,Roest,CAN,175.26,190.0,R
+Right Wing,8465003,Pierre,Dagenais,CAN,195.58,218.0,L
+Defence,8467358,Kyle,Rossiter,CAN,190.5,220.0,L
+Left Wing,8459089,Ken,Belanger,CAN,193.04,225.0,L
+Defence,8468747,Tomi,Pettinen,FIN,190.5,220.0,L
+Goalie,8445470,Craig,Billington,CAN,177.8,168.0,L
+Defence,8468654,Jarno,Kultanen,FIN,187.96,198.0,L
+Goalie,8459357,Kevin,Hodson,CAN,182.88,182.0,L
+Right Wing,8462078,Pavel,Rosa,CZE,180.34,188.0,R
+Defence,8467907,Ross,Lupaschuk,CAN,185.42,218.0,R
+Left Wing,8460523,Mike,Watt,CAN,187.96,210.0,L
+Left Wing,8466163,Brad,Defauw,USA,187.96,220.0,L
+Right Wing,8467553,Michael,Farrell,USA,182.88,220.0,R
+Left Wing,8465977,Sergei,Varlamov,UKR,180.34,204.0,L
+Goalie,8458680,Corey,Hirsch,CAN,177.8,170.0,L
+Right Wing,8458658,David,Oliver,CAN,182.88,197.0,R
+Right Wing,8467908,Milan,Bartovic,SVK,180.34,197.0,L
+Defence,8459262,Brandon,Smith,CAN,185.42,200.0,L
+Left Wing,8468726,Chad,Wiseman,CAN,185.42,205.0,L
+Goalie,8467830,Cody,Rudkowsky,CAN,185.42,216.0,L
+Right Wing,8467376,Jaroslav,Kristek,CZE,185.42,185.0,L
+Center,8467904,Charlie,Stephens,CAN,193.04,225.0,R
+Goalie,8456264,Wade,Flaherty,CAN,185.42,191.0,R
+Left Wing,8467941,Zdenek,Blatny,CZE,185.42,195.0,L
+Left Wing,8468047,Damian,Surma,USA,177.8,200.0,L
+Defence,8459624,Alan,Letang,CAN,182.88,205.0,L
+Goalie,8468741,Reinhard,Divis,AUT,180.34,197.0,L
+Right Wing,8467440,Mike,Siklenka,CAN,195.58,240.0,R
+Right Wing,8446423,Kevin,Dineen,CAN,180.34,190.0,R
+Goalie,8466165,Jean-Marc,Pelletier,USA,190.5,209.0,L
+Defence,8466211,Robert,Schnabel,CZE,195.58,232.0,L
+Left Wing,8467893,Barrett,Heisten,USA,185.42,200.0,L
+Defence,8464997,Jeff,Paul,CAN,193.04,225.0,R
+Center,8459566,Steve,Brule,CAN,182.88,200.0,R
+Right Wing,8466184,Pat,Kavanagh,CAN,190.5,200.0,R
+Defence,8462215,Ray,Schultz,CAN,187.96,210.0,L
+Defence,8467731,Curtis,Murphy,CAN,172.72,185.0,R
+Right Wing,8466349,Kent,McDonell,CAN,187.96,195.0,R
+Right Wing,8465035,Joey,Tetarenko,CAN,187.96,214.0,R
+Center,8459474,Domenic,Pittis,CAN,180.34,190.0,L
+Center,8460582,Matthew,Herr,USA,187.96,203.0,L
+Left Wing,8467891,Konstantin,Koltsov,BLR,182.88,218.0,L
+Defence,8460529,Jason,Holland,DEU,187.96,193.0,R
+Defence,8459559,Rick,Mrozik,USA,190.5,225.0,L
+Center,8465179,Daniel,Corso,CAN,175.26,190.0,L
+Left Wing,8462843,Robert,Dome,SVK,182.88,217.0,L
+Left Wing,8460573,Hnat,Domenichelli,CHE,182.88,195.0,L
+Defence,8458966,Chris,O'Sullivan,USA,187.96,213.0,L
+Defence,8447981,Doug,Houda,CAN,187.96,208.0,R
+Center,8458557,Craig,Darby,USA,190.5,205.0,R
+Center,8467944,Jason,Jaspers,CAN,180.34,207.0,L
+Defence,8467421,Mikko,Jokela,FIN,185.42,212.0,R
+Defence,8446181,Sylvain,Cote,CAN,180.34,195.0,R
+Defence,8460087,Pascal,Trepanier,CAN,182.88,210.0,R
+Right Wing,8468738,Sean,McMorrow,CAN,193.04,224.0,R
+Goalie,8459523,Dieter,Kochan,CAN,185.42,165.0,L
+Center,8462112,Ian,MacNeil,CAN,187.96,190.0,L
+Left Wing,8460931,Doug,Doull,CAN,187.96,216.0,L
+Defence,8469518,Grant,McNeill,CAN,187.96,214.0,L
+Left Wing,8460629,Alexander,Korolyuk,RUS,175.26,190.0,L
+Defence,8467054,Todd,Rohloff,USA,187.96,218.0,L
+Defence,8459645,Martin,Strbak,SVK,190.5,210.0,L
+Defence,8465034,Antti Jussi,Niemi,FIN,185.42,195.0,L
+Center,8470766,Esa,Pirnes,FIN,182.88,189.0,L
+Left Wing,8467025,Garrett,Burnett,CAN,190.5,246.0,L
+Center,8466271,Peter,Sarno,CAN,180.34,185.0,L
+Center,8468798,Darcy,Verot,CAN,182.88,199.0,L
+Center,8451392,Jarrod,Skalde,CAN,182.88,190.0,L
+Defence,8462099,Rocky,Thompson,CAN,187.96,206.0,R
+Center,8462135,Benoit,Gratton,CAN,180.34,180.0,L
+Goalie,8467895,Maxime,Ouellet,CAN,187.96,194.0,L
+Left Wing,8468025,Jordan,Krestanovich,CAN,182.88,170.0,L
+Left Wing,8464993,Travis,Brigley,CAN,185.42,190.0,L
+Right Wing,8455984,Jim,Cummins,USA,187.96,210.0,R
+Defence,8462220,Jaroslav,Obsut,SVK,185.42,200.0,L
+Defence,8458052,Jiri,Slegr,CZE,185.42,210.0,L
+Left Wing,8466436,Martin,Sonnenberg,CAN,182.88,197.0,L
+Center,8468436,Mike,Green,USA,180.34,195.0,L
+Defence,8459478,Chris,Armstrong,CAN,182.88,203.0,L
+Left Wing,8462235,Casey,Hankinson,USA,185.42,196.0,L
+Center,8469999,Mike,Bishai,CAN,180.34,185.0,L
+Defence,8468107,Goran,Bezina,CHE,187.96,225.0,L
+Center,8467557,Martin,Cibak,SVK,185.42,203.0,L
+Right Wing,8468491,Pavel,Vorobiev,RUS,182.88,194.0,L
+Right Wing,8468558,Jozef,Balej,SVK,182.88,195.0,R
+Center,8469667,Tony,Martensson,SWE,182.88,192.0,L
+Center,8468916,Benoit,Dusablon,CAN,187.96,209.0,L
+Defence,8464961,Johnathan,Aitken,CAN,193.04,211.0,L
+Right Wing,8462085,Shane,Willis,CAN,185.42,195.0,R
+Left Wing,8468569,Libor,Pivko,CZE,187.96,192.0,L
+Left Wing,8466209,Steve,Gainey,CAN,185.42,192.0,L
+Right Wing,8456745,Keith,Jones,CAN,187.96,200.0,R
+Defence,8468617,Mike,Stuart,USA,182.88,195.0,R
+Right Wing,8468300,Richard,Scott,CAN,187.96,210.0,L
+Goalie,8469613,Andy,Chiodo,CAN,180.34,192.0,L
+Defence,8467901,Kristian,Kudroc,SVK,200.66,255.0,R
+Right Wing,8469539,Owen,Fussey,CAN,182.88,195.0,L
+Left Wing,8460575,Steve,McLaren,CAN,182.88,226.0,L
+Right Wing,8466152,Ty,Jones,USA,190.5,218.0,R
+Center,8468553,Sergei,Zinovjev,RUS,177.8,185.0,L
+Defence,8458600,Aris,Brimanis,USA,187.96,212.0,R
+Right Wing,8466431,Brad,Leeb,CAN,180.34,187.0,R
+Defence,8467958,Peter,Smrek,SVK,185.42,205.0,L
+Defence,8467399,Julien,Vauclair,CHE,182.88,200.0,L
+Goalie,8467394,Jamie,Hodson,CAN,187.96,205.0,L
+Center,8468490,Mikhail,Yakubov,RUS,190.5,202.0,L
+Left Wing,8462259,Rob,Skrlac,CAN,195.58,245.0,L
+Left Wing,8460563,Greg,Crozier,CAN,190.5,180.0,L
+Defence,8466236,Jame,Pollock,CAN,185.42,210.0,R
+Defence,8457783,Todd,Reirden,USA,195.58,220.0,L
+Defence,8464982,Pavel,Skrbek,CZE,190.5,191.0,
+Left Wing,8470172,Christoph,Brandner,AUT,193.04,224.0,L
+Center,8468005,Roman,Tvrdon,SVK,185.42,197.0,L
+Defence,8468541,Jakub,Cutta,CZE,190.5,214.0,L
+Goalie,8467548,Matthew,Yeats,CAN,182.88,181.0,L
+Right Wing,8469486,Timofei,Shishkanov,RUS,185.42,213.0,R
+Defence,8470247,Mikko,Luoma,FIN,190.5,207.0,L
+Defence,8459550,Anders,Myrvold,NOR,185.42,178.0,L
+Center,8466143,Daniel,Tkaczuk,CAN,185.42,195.0,L
+Defence,8458048,John,Slaney,CAN,182.88,190.0,L
+Left Wing,8468670,Josh,Olson,USA,190.5,236.0,L
+Left Wing,8467381,Ryan,Barnes,CAN,185.42,201.0,L
+Goalie,8467497,Rastislav,Stana,SVK,187.96,184.0,L
+Defence,8456455,John,Gruden,USA,182.88,205.0,L
+Defence,8468413,Dwayne,Zinger,CAN,190.5,229.0,L
+Defence,8464986,Chris,Hajt,USA,190.5,206.0,L
+Left Wing,8470559,Mike,Stutzel,CAN,187.96,216.0,L
+Defence,8467594,Jeff,MacMillan,CAN,190.5,210.0,L
+Center,8468406,Gavin,Morgan,CAN,180.34,190.0,R
+Center,8467922,Brett,Lysak,CAN,182.88,190.0,L
+Right Wing,8459078,Jason,MacDonald,CAN,180.34,205.0,R
+Defence,8462111,Justin,Kurtz,CAN,180.34,200.0,L
+Right Wing,8468656,Jukka,Hentunen,FIN,177.8,190.0,R
+Goalie,8459289,Martin,Brochu,CAN,182.88,199.0,L
+Defence,8468112,Pierre,Hedin,SWE,185.42,198.0,L
+Right Wing,8468158,Jeremy,Yablonski,CAN,180.34,239.0,R
+Center,8468458,Cory,Larose,CAN,180.34,190.0,R
+Defence,8470652,Michal,Barinka,CZE,190.5,225.0,L
+Right Wing,8470479,Garret,Stroshein,CAN,200.66,245.0,R
+Right Wing,8460739,Mike,Peluso,USA,185.42,208.0,R
+Left Wing,8470418,Nathan,Robinson,CAN,177.8,180.0,L
+Center,8465178,Andrei,Podkonicky,SVK,187.96,202.0,L
+Center,8466173,Stanislav,Gron,SVK,185.42,189.0,L
+Center,8449607,Kevin,Miller,USA,180.34,190.0,R
+Left Wing,8467898,Mikhail,Kuleshov,RUS,190.5,220.0,R
+Center,8459061,Mikael,Hakanson,SWE,185.42,180.0,L
+Goalie,8469758,Frederic,Cloutier,CAN,182.88,174.0,R
+Goalie,8467341,Mathieu,Chouinard,CAN,185.42,211.0,L
+Goalie,8459028,Marc,Lamothe,CAN,187.96,210.0,L
+Goalie,8469482,Adam,Munro,CAN,185.42,187.0,L
+Left Wing,8467402,Mike,Pandolfo,USA,190.5,220.0,L
+Defence,8469495,Doug,Lynch,CAN,190.5,214.0,L
+Left Wing,8459328,Melvin,Angelstad,CAN,190.5,210.0,L
+Left Wing,8466150,Michel,Riesen,CHE,187.96,190.0,R
+Center,8467541,Petr,Hubacek,CZE,187.96,185.0,
+Right Wing,8460550,Tavis,Hansen,CAN,185.42,205.0,R
+Left Wing,8468751,Reto,Von Arx,CHE,177.8,179.0,L
+Left Wing,8468081,Vaclav,Pletka,CZE,180.34,182.0,L
+Goalie,8468020,Seamus,Kotyk,CAN,180.34,180.0,L
+Center,8468082,Layne,Ulmer,CAN,182.88,193.0,L
+Goalie,8458738,Neil,Little,CAN,185.42,190.0,L
+Right Wing,8456361,Ken,Gernander,USA,180.34,180.0,L
+Defence,8467957,Brad,Fast,CAN,182.88,185.0,L
+Goalie,8468043,Matt,Underhill,CAN,187.96,220.0,L
+Goalie,8471915,Vitaly,Kolesnik,KAZ,187.96,198.0,L
+Left Wing,8466320,Niklas,Nordgren,SWE,182.88,185.0,R
+Right Wing,8470055,Petr,Kanko,CZE,177.8,195.0,L
+Center,8470574,Grant,Stevenson,CAN,180.34,170.0,L
+Center,8468532,Shane,Endicott,CAN,190.5,209.0,L
+Goalie,8469529,Michael,Garnett,CAN,185.42,210.0,L
+Right Wing,8469807,Jonathan,Ferland,CAN,187.96,209.0,R
+Defence,8466995,Andy,Roach,USA,180.34,181.0,R
+Left Wing,8468094,Colin,Hemingway,CAN,182.88,170.0,R
+Left Wing,8470075,Jason,Ryznar,USA,190.5,200.0,L
+Defence,8462213,Dan,Smith,CAN,187.96,200.0,
+Center,8471524,Matt,Ryan,CAN,180.34,185.0,L
+Left Wing,8466230,Ryan,Ready,CAN,187.96,195.0,L
+Goalie,8472371,Scott,Munroe,CAN,187.96,210.0,L
+Left Wing,8469588,Cole,Jarrett,CAN,177.8,200.0,L
+Left Wing,8470659,Masi,Marjamaki,FIN,187.96,184.0,L
+Defence,8470784,Doug,O'Brien,CAN,182.88,200.0,L
+Goalie,8469653,Jordan,Sigalet,CAN,185.42,180.0,L
+Center,8466208,Petr,Sykora,CZE,190.5,206.0,R
+Right Wing,8468153,Kevin,Colley,USA,177.8,181.0,R
+Goalie,8467954,Adam,Hauser,USA,187.96,192.0,L
+Goalie,8468706,Brian,Eklund,USA,193.04,211.0,L
+Left Wing,8468800,Louis,Robitaille,CAN,185.42,188.0,L
+Goalie,8472374,David,McKee,USA,185.42,187.0,L
+Right Wing,8469994,Rob,Collins,CAN,177.8,185.0,R
+Goalie,8468720,Adam,Berkhoel,USA,180.34,185.0,L
+Center,8468634,Matt,Koalska,USA,182.88,205.0,L
+Defence,8459563,Mike,Crowley,USA,180.34,165.0,L
+Defence,8471200,Prestin,Ryan,CAN,182.88,192.0,L
+Goalie,8469750,Robert,McVicar,CAN,193.04,202.0,L
+Center,8470248,Petr,Taticek,CZE,182.88,188.0,L
+Left Wing,8469590,Frantisek,Skladany,SVK,182.88,185.0,L
+Center,8470850,Joey,Tenute,CAN,177.8,176.0,L
+Defence,8470023,Wade,Skolney,CAN,182.88,201.0,R
+Goalie,8470813,Gerald,Coleman,USA,193.04,213.0,L
+Defence,8459173,Mark,Wotton,USA,180.34,200.0,L
+Center,8467700,Eric,Healey,USA,180.34,201.0,L
+Defence,8470237,Krisjanis,Redlihs,LVA,190.5,190.0,L
+Right Wing,8458645,Bruce,Gardiner,CAN,185.42,193.0,R
+Defence,8448543,Frantisek,Kucera,CZE,187.96,215.0,R
+Center,8448542,Robert,Kron,CZE,180.34,190.0,L
+Left Wing,8464991,Marian,Cisar,SVK,182.88,192.0,R
+Right Wing,8460628,Alexander,Selivanov,RUS,182.88,205.0,L
+Left Wing,8445493,James,Black,CAN,180.34,210.0,L
+Right Wing,8448484,Dmitri,Khristich,UKR,187.96,211.0,R
+Right Wing,8445730,Doug,Brown,USA,180.34,185.0,R
+Defence,8450742,Joe,Reekie,CAN,190.5,218.0,L
+Defence,8452695,Rob,Zettler,CAN,190.5,202.0,L
+Defence,8446494,Steve,Duchesne,CAN,180.34,195.0,L
+Defence,8449745,Larry,Murphy,CAN,185.42,215.0,R
+Goalie,8446719,Bob,Essensa,CAN,182.88,188.0,L
+Left Wing,8462071,Dwayne,Hay,CAN,185.42,219.0,L
+Left Wing,8450773,Dave,Reid,CAN,185.42,217.0,L
+Defence,8459569,Jere,Karalahti,FIN,187.96,210.0,R
+Right Wing,8458208,John,Thomas,USA,187.96,195.0,R
+Left Wing,8447386,Stu,Grimson,CAN,195.58,239.0,L
+Right Wing,8446675,Nelson,Emerson,CAN,177.8,180.0,R
+Defence,8445621,Ray,Bourque,CAN,182.88,223.0,L
+Defence,8459074,Daniel,Trebil,USA,190.5,210.0,R
+Center,8459672,German,Titov,RUS,185.42,203.0,L
+Goalie,8447715,Guy,Hebert,USA,180.34,184.0,L
+Right Wing,8451925,Rick,Tocchet,CAN,182.88,210.0,R
+Left Wing,8458126,Cameron,Stewart,CAN,180.34,195.0,L
+Defence,8459059,Michal,Sykora,CZE,195.58,225.0,L
+Right Wing,8457511,Jeff,Nielsen,USA,182.88,200.0,R
+Right Wing,8468612,Maxim,Sushinsky,RUS,175.26,180.0,L
+Left Wing,8451711,Kevin,Stevens,USA,190.5,231.0,L
+Right Wing,8458949,Sergei,Krivokrasov,RUS,180.34,185.0,L
+Left Wing,8449961,Gino,Odjick,CAN,190.5,224.0,L
+Left Wing,8460239,Vladimir,Tsyplakov,BLR,185.42,210.0,L
+Defence,8465165,Evgeny,Korolev,RUS,185.42,214.0,L
+Right Wing,8458632,Mark,Lawrence,CAN,193.04,215.0,R
+Center,8455564,Jesse,Belanger,CAN,185.42,190.0,R
+Goalie,8452157,John,Vanbiesbrouck,USA,172.72,175.0,L
+Defence,8447004,Garry,Galley,CAN,182.88,207.0,L
+Defence,8457681,Lance,Pitlick,USA,182.88,205.0,R
+Defence,8449123,Dave,Manson,CAN,187.96,220.0,L
+Center,8445283,Len,Barrie,CAN,182.88,200.0,L
+Left Wing,8455575,Josef,Beranek,CZE,187.96,195.0,L
+Left Wing,8458538,Rene,Corbet,CAN,182.88,187.0,L
+Right Wing,8468561,Alexandre,Kharitonov,RUS,172.72,170.0,R
+Defence,8451789,Petr,Svoboda,CZE,185.42,183.0,L
+Right Wing,8466195,Matt,Elich,USA,187.96,200.0,R
+Center,8459545,John,Emmons,USA,182.88,185.0,L
+Left Wing,8467534,Johan,Witehall,SWE,185.42,198.0,L
+Left Wing,8457491,Sergei,Nemchinov,RUS,185.42,205.0,L
+Defence,8466288,Sascha,Goc,DEU,187.96,225.0,R
+Left Wing,8456770,Valeri,Kamensky,RUS,187.96,205.0,R
+Defence,8450389,Rich,Pilon,CAN,187.96,214.0,L
+Center,8459654,Joel,Prpic,CAN,198.12,236.0,L
+Right Wing,8456882,Andrei,Kovalenko,RUS,177.8,215.0,L
+Defence,8457706,Peter,Popovic,SWE,198.12,235.0,L
+Defence,8468748,Pavel,Kolarik,CZE,185.42,207.0,
+Goalie,8457791,Damian,Rhodes,USA,180.34,195.0,L
+Right Wing,8459414,Dean,Sylvester,USA,187.96,210.0,R
+Left Wing,8458888,Denny,Lambert,CAN,180.34,211.0,L
+Defence,8449754,Gord,Murphy,CAN,187.96,200.0,R
+Left Wing,8467867,Bryan,Adams,CAN,182.88,185.0,
+Center,8446823,Ray,Ferraro,CAN,175.26,200.0,L
+Left Wing,8458575,Yves,Sarault,CAN,185.42,190.0,L
+Right Wing,8465975,Herbert,Vasiljevs,LVA,180.34,175.0,R
+Defence,8448380,Chris,Joseph,CAN,187.96,211.0,R
+Center,8446165,Bob,Corkum,USA,182.88,222.0,R
+Goalie,8459549,Norm,Maracle,CAN,175.26,175.0,L
+Defence,8456514,David,Harlock,CAN,187.96,220.0,L
+Goalie,8459045,Joaquin,Gage,CAN,182.88,200.0,L
+Defence,8462097,Sergei,Vyshedkevich,RUS,185.42,200.0,L
+Defence,8445783,Adam,Burt,USA,187.96,210.0,L
+Right Wing,8468578,Jonas,Ronnqvist,SWE,187.96,200.0,L
+Defence,8462057,Marc,Moro,CAN,185.42,220.0,L
+Defence,8464783,Alexandre,Boikov,RUS,182.88,180.0,L
+Goalie,8452217,Mike,Vernon,CAN,175.26,175.0,L
+Center,8451793,Ron,Sutter,CAN,182.88,180.0,R
+Right Wing,8467362,Chris,Nielsen,CAN,187.96,214.0,R
+Right Wing,8459889,Mike,Maneluk,CAN,180.34,190.0,R
+Defence,8451804,Gary,Suter,USA,182.88,205.0,L
+Right Wing,8452216,Pat,Verbeek,CAN,175.26,190.0,R
+Defence,8449902,Jeff,Norton,USA,187.96,200.0,L
+Left Wing,8459114,Juha,Lind,FIN,180.34,185.0,L
+Left Wing,8458523,Patrick,Poulin,CAN,185.42,214.0,L
+Center,8468753,Roman,Simicek,CZE,187.96,210.0,R
+Center,8463019,Eric,Landry,USA,180.34,185.0,L
+Defence,8459487,Vladimir,Chebaturkin,RUS,193.04,222.0,L
+Center,8465125,Xavier,Delisle,CAN,180.34,193.0,R
+Right Wing,8449751,Joe,Murphy,CAN,185.42,201.0,L
+Defence,8460711,Craig,Millar,CAN,187.96,212.0,L
+Defence,8451805,Ken,Sutton,CAN,185.42,205.0,L
+Defence,8457661,Ricard,Persson,SWE,185.42,201.0,L
+Left Wing,8444894,Greg,Adams,CAN,193.04,196.0,L
+Left Wing,8462184,Martin,Spanhel,CZE,187.96,206.0,L
+Left Wing,8467445,Francis,Bélanger,CAN,187.96,233.0,L
+Left Wing,8466130,Andrei,Bashkirov,RUS,182.88,215.0,L
+Goalie,8460761,Scott,Fankhouser,USA,185.42,195.0,L
+Defence,8447680,Kevin,Hatcher,USA,190.5,230.0,R
+Right Wing,8447350,Tony,Granato,USA,177.8,180.0,R
+Defence,8446435,Bobby,Dollas,CAN,187.96,212.0,L
+Defence,8448740,Grant,Ledyard,CAN,187.96,195.0,L
+Right Wing,8456117,Stan,Drulia,USA,180.34,190.0,R
+Right Wing,8468189,Jeff,Ulmer,CAN,177.8,191.0,R
+Goalie,8460695,Vitali,Yeremeyev,KAZ,177.8,190.0,L
+Left Wing,8467851,Steven,Kariya,CAN,172.72,170.0,R
+Left Wing,8455447,Niklas,Andersson,SWE,175.26,175.0,L
+Defence,8447690,Greg,Hawgood,CAN,177.8,190.0,L
+Defence,8458373,Brad,Werenka,CAN,185.42,221.0,L
+Defence,8451558,Steve,Smith,GBR,193.04,215.0,L
+Center,8458155,Mike,Sullivan,USA,187.96,211.0,L
+Center,8458605,Juha,Ylonen,FIN,185.42,189.0,L
+Goalie,8447709,Glenn,Healy,CAN,172.72,195.0,L
+Defence,8457003,Paul,Laus,CAN,185.42,215.0,R
+Goalie,8446831,Stephane,Fiset,CAN,185.42,198.0,L
+Center,8451673,Mike,Stapleton,CAN,177.8,183.0,R
+Defence,8447477,Kevin,Haller,CAN,187.96,200.0,L
+Left Wing,8458950,Joe,Hulbig,USA,193.04,215.0,L
+Defence,8446117,Paul,Coffey,CAN,182.88,205.0,L
+Defence,8446286,Jean-Jacques,Daigneault,CAN,177.8,192.0,L
+Defence,8455875,Enrico,Ciccone,CAN,195.58,222.0,L
+Left Wing,8456933,Eric,Lacroix,CAN,187.96,210.0,L
+Left Wing,8445734,Benoit,Brunet,CAN,177.8,203.0,L
+Defence,8464972,Matthieu,Descôteaux,CAN,190.5,222.0,L
+Left Wing,8466368,Jay,Henderson,CAN,180.34,190.0,L
+Goalie,8452440,Kay,Whitmore,CAN,180.34,175.0,L
+Left Wing,8458483,Valeri,Zelepukin,RUS,185.42,200.0,L
+Defence,8456024,Kevin,Dean,USA,190.5,205.0,L
+Left Wing,8450561,Bob,Probert,CAN,190.5,220.0,L
+Center,8448225,Mark,Janssens,CAN,190.5,216.0,L
+Left Wing,8460531,Jean-Yves,Leroux,CAN,187.96,211.0,L
+Center,8460526,Josef,Marha,CZE,185.42,191.0,L
+Defence,8456153,Dallas,Eakins,USA,185.42,195.0,L
+Defence,8447363,Alexei,Gusarov,RUS,187.96,200.0,L
+Right Wing,8459011,Jan,Caloun,CZE,177.8,190.0,R
+Center,8459543,Tomas,Vlasak,CZE,177.8,175.0,R
+Defence,8468000,Kaspars,Astashenko,LVA,185.42,206.0,L
+Defence,8462096,Sergey,Gusev,RUS,185.42,205.0,L
+Goalie,8465091,Michel,Larocque,DEU,180.34,198.0,L
+Right Wing,8455479,Blair,Atcheynum,CAN,187.96,203.0,R
+Goalie,8449474,Kirk,McLean,CAN,182.88,182.0,L
+Defence,8451333,Darryl,Shannon,CAN,187.96,210.0,L
+Right Wing,8459141,Marko,Tuomainen,FIN,187.96,190.0,R
+Center,8452557,Terry,Yake,CAN,180.34,191.0,R
+Defence,8458672,Dmitri,Mironov,RUS,193.04,227.0,R
+Right Wing,8467500,Tomas,Divisek,CZE,187.96,210.0,L
+Defence,8467510,Petr,Svoboda,CZE,190.5,216.0,R
+Defence,8446417,Gerald,Diduck,CAN,185.42,216.0,R
+Defence,8466023,Mike,Matteucci,CAN,187.96,210.0,L
+Left Wing,8467468,Pavel,Patera,CZE,185.42,181.0,L
+Center,8459147,Brian,Bonin,USA,175.26,165.0,L
+Goalie,8457866,Dominic,Roussel,CAN,185.42,200.0,L
+Goalie,8451860,Chris,Terreri,USA,175.26,170.0,L
+Left Wing,8449093,Steve,Maltais,CAN,187.96,210.0,L
+Center,8459494,Sebastien,Bordeleau,FRA,180.34,185.0,R
+Left Wing,8448487,Kris,King,CAN,180.34,208.0,L
+Left Wing,8455413,Mika,Alatalo,FIN,182.88,202.0,L
+Center,8459557,Antti,Aalto,FIN,187.96,214.0,L
+Center,8468743,Thomas,Ziegler,CHE,180.34,176.0,L
+Defence,8464980,Peter,Ratchuk,USA,182.88,175.0,L
+Right Wing,8449499,John,MacLean,CAN,182.88,200.0,R
+Left Wing,8445423,Benoit,Hogue,CAN,177.8,194.0,L
+Center,8465002,Yuri,Babenko,RUS,185.42,205.0,L
+Center,8459993,William,Bowler,CAN,172.72,170.0,L
+Defence,8459449,Radim,Bicanek,CZE,185.42,212.0,L
+Defence,8459482,Maxim,Galanov,RUS,185.42,210.0,L
+Left Wing,8466198,Kyle,Freadrich,CAN,200.66,260.0,L
+Right Wing,8459576,Christian,Matte,CAN,180.34,186.0,R
+Left Wing,8465167,Kai,Nurminen,FIN,185.42,198.0,L
+Left Wing,8468694,Peter,Bartos,SVK,182.88,185.0,L
+Defence,8466282,Andrei,Skopintsev,RUS,182.88,185.0,R
+Right Wing,8458964,Paul,Brousseau,CAN,187.96,212.0,R
+Goalie,8467834,Gregg,Naumenko,USA,185.42,195.0,L
+Left Wing,8460846,Patrick,Cote,CAN,190.5,220.0,L
+Left Wing,8450357,Michel,Picard,CAN,180.34,202.0,L
+Center,8457686,Derek,Plante,USA,180.34,181.0,L
+Defence,8460513,Yan,Golubovsky,RUS,190.5,205.0,R
+Center,8459499,Steve,Washburn,CAN,187.96,198.0,L
+Defence,8446955,Frantisek,Musil,CZE,190.5,215.0,L
+Defence,8456000,Kevin,Dahl,CAN,180.34,190.0,R
+Center,8458946,Robert,Petrovicky,SVK,180.34,180.0,L
+Defence,8457805,Barry,Richter,USA,187.96,200.0,L
+Goalie,8468477,Derek,Gustafson,USA,180.34,210.0,L
+Defence,8458801,Michael,Gaul,CAN,185.42,200.0,R
+Defence,8460912,Sean,Gagnon,CAN,187.96,215.0,L
+Goalie,8465962,Rich,Parent,CAN,190.5,215.0,L
+Center,8456182,David,Emma,USA,177.8,187.0,L
+Center,8464971,Matt,Higgins,CAN,187.96,188.0,L
+Defence,8459674,Bert,Robertsson,SWE,190.5,210.0,L
+Defence,8465184,Greg,Kuznik,CAN,185.42,190.0,L
+Defence,8460007,Michael,Rucinski,USA,180.34,188.0,L
+Defence,8467843,David,Cullen,CAN,187.96,197.0,R
+Left Wing,8460014,Eric,Bertrand,CAN,185.42,205.0,L
+Goalie,8458981,Mike,Fountain,CAN,182.88,176.0,L
+Right Wing,8460601,Tony,Tuzzolino,ITA,187.96,180.0,R
+Center,8462600,Rob,Shearer,CAN,177.8,190.0,R
+Right Wing,8458348,Edward,Ward,CAN,193.04,220.0,R
+Left Wing,8460539,Sean,Haggerty,USA,185.42,186.0,L
+Left Wing,8459519,Bob,Wren,CAN,177.8,190.0,L
+Defence,8464990,Marek,Posmyk,CZE,195.58,209.0,
+Defence,8458598,Brad,Tiley,CAN,185.42,185.0,L
+Center,8456118,Ted,Drury,USA,182.88,206.0,L
+Center,8467097,Greg,Koehler,CAN,187.96,195.0,R
+Goalie,8460935,Travis,Scott,CAN,187.96,162.0,L
+Defence,8458948,David,Cooper,CAN,187.96,213.0,L
+Left Wing,8467926,Brad,Ralph,CAN,187.96,198.0,L
+Goalie,8460506,Eric,Fichaud,CAN,180.34,171.0,L
+Center,8466403,Greg,Leeb,CAN,175.26,160.0,L
+Center,8460054,Marquis,Mathieu,USA,180.34,185.0,R
+Left Wing,8456903,Paul,Kruse,CAN,182.88,214.0,L
+Left Wing,8459605,Sean,Selmser,CAN,185.42,182.0,L
+Defence,8468448,Dale,Clarke,CAN,185.42,193.0,R
+Defence,8458962,Drew,Bannister,CAN,187.96,200.0,R
+Defence,8458956,David,Wilkie,USA,190.5,215.0,R
+Left Wing,8467577,Matt,Henderson,USA,185.42,190.0,L
+Left Wing,8456512,Brett,Harkins,USA,185.42,170.0,L
+Center,8466206,Nick,Smith,CAN,187.96,207.0,L
+Defence,8460560,Marko,Kiprusoff,FIN,182.88,194.0,R
+Right Wing,8446213,Mike,Craig,CAN,185.42,188.0,R
+Left Wing,8446133,Zdeno,Ciger,SVK,185.42,190.0,L
+Right Wing,8450825,Stephane,Richer,CAN,187.96,218.0,R
+Left Wing,8467384,Chris,Bala,USA,185.42,193.0,L
+Left Wing,8467414,Ryan,Jardine,CAN,182.88,210.0,L
+Goalie,8468243,Sebastien,Centomo,CAN,185.42,200.0,L
+Right Wing,8468545,David,Morisset,CAN,185.42,191.0,R
+Left Wing,8469551,Timo,Parssinen,FIN,177.8,196.0,L
+Left Wing,8462633,Ryan,Tobler,CAN,193.04,227.0,L
+Goalie,8466159,Jean-Francois,Damphousse,CAN,182.88,146.0,L
+Center,8458666,Kelly,Fairchild,USA,180.34,198.0,L
+Defence,8459016,Dean,Melanson,CAN,180.34,196.0,R
+Right Wing,8467429,Chris,Corrinet,USA,190.5,220.0,R
+Right Wing,8469552,Tony,Virta,FIN,177.8,187.0,L
+Right Wing,8460821,Gaetan,Royer,CAN,190.5,210.0,R
+Left Wing,8465066,Ryan,Christie,CAN,187.96,175.0,L
+Defence,8456533,Brett,Hauer,USA,187.96,190.0,R
+Right Wing,8458960,Peter,Ferraro,USA,175.26,181.0,R
+Center,8459021,Chris,Ferraro,USA,175.26,179.0,R
+Defence,8469558,Martti,Jarventie,FIN,180.34,196.0,L
+Defence,8455505,Steve,Bancroft,CAN,185.42,215.0,L
+Right Wing,8458549,Jason,Dawe,CAN,177.8,189.0,L
+Left Wing,8459483,Dave,Roche,CAN,193.04,230.0,L
+Defence,8465071,Alexei,Tezikov,RUS,185.42,200.0,L
+Center,8460522,Jason,Podollan,CAN,187.96,201.0,R
+Defence,8466157,Nikos,Tselios,USA,195.58,226.0,L
+Right Wing,8462104,David,Gosselin,CAN,182.88,205.0,R
+Goalie,8469800,Olivier,Michaud,CAN,180.34,179.0,L
+Center,8464922,Jeff,Daw,CAN,190.5,190.0,R
+Defence,8459553,Chris,Kelleher,USA,185.42,215.0,L
+Goalie,8467921,Simon,Lajeunesse,CAN,185.42,178.0,L
+Defence,8467903,Luke,Sellars,CAN,185.42,210.0,L
+Goalie,8480373,Josef,Korenar,,185.42,185.0,L
+Right Wing,8478434,Keegan,Kolesar,CAN,187.96,227.0,R
+Defence,8476987,Jake,Bischoff,USA,185.42,194.0,L
+Defence,8479980,Nicolas,Hague,CAN,198.12,215.0,L
+Center,8480018,Nick,Suzuki,CAN,180.34,183.0,R
+Center,8479996,Cody,Glass,CAN,187.96,178.0,R
+Center,8478477,Mitchell,Stephens,CAN,182.88,191.0,R
+Right Wing,8480186,Alexander,Volkov,RUS,185.42,191.0,L
+Right Wing,8478472,Mathieu,Joseph,CAN,185.42,173.0,L
+Defence,8478049,Ben,Thomas,CAN,185.42,187.0,R
+Goalie,8478971,Connor,Ingram,CAN,185.42,204.0,L
+Center,8477409,Carter,Verhaeghe,CAN,185.42,181.0,L
+Defence,8478416,Erik,Cernak,SVK,190.5,203.0,R
+Defence,8477966,Dominik,Masin,CZE,187.96,198.0,L
+Defence,8477978,Ryan,Collins,USA,195.58,212.0,R
+Goalie,8480162,Matiss,Kivlenieks,USA,187.96,178.0,L
+Center,8477387,Emil,Pettersson,SWE,187.96,164.0,L
+Defence,8479329,Frederic,Allard,CAN,185.42,179.0,R
+Goalie,8478435,Dan,Vladar,CZE,195.58,185.0,L
+Right Wing,8478485,Zach,Senyshyn,CAN,185.42,192.0,R
+Defence,8478415,Jakub,Zboril,CZE,182.88,200.0,L
+Center,8479415,Michael,McLeod,CAN,187.96,188.0,R
+Right Wing,8479315,Joey,Anderson,USA,180.34,190.0,R
+Defence,8480073,Erik,Brannstrom,SWE,177.8,173.0,L
+Defence,8479378,Logan,Stanley,CAN,200.66,228.0,L
+Right Wing,8478487,Michael,Spacek,CZE,180.34,187.0,R
+Defence,8477440,Jan,Kostalek,CZE,185.42,181.0,R
+Center,8478891,Mason,Appleton,USA,187.96,193.0,R
+Center,8478424,Jansen,Harkins,USA,185.42,182.0,L
+Goalie,8480356,Kyle,Keyser,,,,L
+Defence,8479454,Lukas,Bengtsson,SWE,180.34,172.0,R
+Center,8480341,Adam,Johnson,USA,182.88,174.0,L
+Goalie,8477050,Jamie,Phillips,CAN,185.42,170.0,L
+Center,8479443,Sam,Anas,USA,172.72,154.0,R
+Defence,8479734,Brennan,Menell,USA,180.34,183.0,R
+Defence,8478524,Zach,Palmquist,USA,182.88,192.0,L
+Right Wing,8480020,Ivan,Lodnia,USA,180.34,183.0,R
+Left Wing,8477386,Henri,Ikonen,FIN,182.88,191.0,L
+Defence,8476860,Dylan,Blujus,USA,190.5,203.0,R
+Defence,8477435,Ryan,Graves,CAN,195.58,226.0,L
+Defence,8477889,Mathew,Bodie,CAN,182.88,175.0,L
+Goalie,8475879,Mac,Carruth,USA,187.96,190.0,L
+Left Wing,8476774,Terry,Broadhurst,USA,180.34,162.0,L
+Left Wing,8475966,Garret,Ross,USA,182.88,172.0,L
+Defence,8477195,Mathieu,Brisebois,CAN,180.34,197.0,R
+Defence,8475074,Brian,Connelly,USA,180.34,180.0,L
+Center,8478367,Cole,Bardreau,USA,177.8,185.0,R
+Defence,8472373,Jon,Landry,CAN,187.96,212.0,L
+Left Wing,8476933,Raphael,Bussieres,CAN,187.96,202.0,L
+Goalie,8475860,Johan,Gustafsson,SWE,187.96,199.0,L
+Center,8476481,Zack,Phillips,CAN,182.88,194.0,R
+Center,8478390,Grayson,Downing,CAN,182.88,192.0,L
+Defence,8478208,Hunter,Warner,USA,193.04,221.0,R
+Goalie,8476313,Steve,Michalek,USA,190.5,205.0,L
+Defence,8478138,Guillaume,Gelinas,CAN,177.8,197.0,L
+Right Wing,8477149,Scott,Sabourin,CAN,190.5,208.0,R
+Goalie,8477378,Patrik,Bartosak,CZE,185.42,193.0,L
+Goalie,8478461,Luke,Opilka,USA,185.42,192.0,L
+Defence,8477982,Jack,Dougherty,USA,185.42,186.0,R
+Left Wing,8478426,Paul,Bittner,USA,190.5,211.0,L
+Right Wing,8479411,Vitaly,Abramov,RUS,175.26,171.0,L
+Center,8477430,Nick,Moutrey,CAN,190.5,207.0,L
+Center,8477638,Jordan,Maletta,CAN,190.5,216.0,R
+Defence,8478501,Gustav,Bouramman,SWE,182.88,187.0,R
+Goalie,8476963,Sean,Maguire,CAN,187.96,202.0,L
+Right Wing,8474620,Danny,Kristo,USA,182.88,195.0,R
+Defence,8477221,Tommy,Hughes,CAN,187.96,223.0,R
+Goalie,8479432,Nick,Ellis,USA,185.42,174.0,L
+Left Wing,8476949,Joey,Laleggia,CAN,177.8,185.0,L
+Left Wing,8479368,Max,Jones,USA,190.5,209.0,L
+Goalie,8479294,Kevin,Boyle,USA,185.42,195.0,L
+Center,8479351,Sam,Steel,CAN,180.34,185.0,L
+Defence,8476950,Ryan,Culkin,CAN,187.96,200.0,L
+Goalie,8474678,Jason,Missiaen,CAN,203.2,206.0,L
+Defence,8476970,Andrew,O'Brien,CAN,193.04,208.0,L
+Goalie,8477863,Ryan,Faragher,CAN,187.96,202.0,L
+Defence,8477489,Keegan,Kanzig,CAN,200.66,247.0,L
+Defence,8477920,Johan,Alm,SWE,190.5,209.0,L
+Right Wing,8477190,Brandon,Alderson,CAN,193.04,202.0,R
+Center,8476810,Travis,Oleksuk,CAN,182.88,200.0,L
+Goalie,8476896,Jake,Paterson,CAN,185.42,176.0,L
+Left Wing,8475972,Tyler,Brown,CAN,185.42,185.0,L
+Right Wing,8471467,Matthew,Ford,USA,185.42,207.0,R
+Defence,8474614,Brandon,Burlon,CAN,182.88,190.0,L
+Defence,8474219,Dan,Kelly,USA,185.42,215.0,L
+Left Wing,8474023,Mike,Hoeffel,USA,193.04,210.0,L
+Center,8473664,Justin,Azevedo,CAN,170.18,175.0,R
+Defence,8475096,Patrick,Mullen,USA,180.34,185.0,R
+Center,8475346,Marek,Viedensky,SVK,190.5,210.0,R
+Goalie,8474580,Chet,Pickard,CAN,187.96,206.0,L
+Goalie,8475114,Jordan,Pearce,USA,185.42,195.0,L
+Defence,8473445,Kyle,Medvec,USA,198.12,227.0,L
+Left Wing,8473936,Kirk,MacDonald,CAN,187.96,210.0,R
+Defence,8473556,Yury,Alexandrov,RUS,182.88,185.0,L
+Right Wing,8475614,Mike,Testwuide,USA,190.5,210.0,R
+Center,8474626,Robert,Czarnik,USA,182.88,189.0,R
+Center,8475802,Louis-Marc,Aubry,CAN,193.04,208.0,L
+Defence,8474874,Travis,Ehrhardt,CAN,180.34,198.0,L
+Center,8474815,Francis,Pare,CAN,177.8,190.0,R
+Goalie,8475095,Alec,Richards,USA,190.5,209.0,L
+Center,8474720,Brett,Hextall,USA,177.8,185.0,R
+Center,8475216,Ethan,Werek,CAN,185.42,189.0,L
+Defence,8474103,Joe,Lavin,USA,187.96,197.0,L
+Center,8476268,Mattias,Sjogren,SWE,190.5,220.0,L
+Right Wing,8476767,Sebastian,Stalberg,SWE,185.42,185.0,R
+Defence,8475365,Sena,Acolatse,CAN,182.88,210.0,R
+Goalie,8475939,J.P.,Anderson,CAN,180.34,185.0,L
+Defence,8473497,Dennis,Persson,SWE,185.42,192.0,L
+Goalie,8474745,Paul,Karpowich,CAN,187.96,195.0,L
+Defence,8475257,Peter,Andersson,SWE,190.5,194.0,L
+Left Wing,8475978,Alexandre,Mallet,CAN,185.42,195.0,R
+Center,8474875,Brent,Raedeke,CAN,182.88,200.0,L
+Defence,8473409,Logan,Pyett,CAN,177.8,199.0,R
+Center,8475707,Ilari,Filppula,FIN,180.34,191.0,L
+Center,8474378,Matt,Beaudoin,CAN,177.8,180.0,R
+Left Wing,8480801,Brady,Tkachuk,USA,193.04,212.0,L
+Center,8480208,Drake,Batherson,USA,190.5,206.0,R
+Defence,8480043,Timothy,Liljegren,SWE,182.88,198.0,R
+Left Wing,8478857,Dmytro,Timashov,UKR,177.8,192.0,L
+Right Wing,8481624,Ilya,Mikheyev,RUS,190.5,195.0,L
+Center,8479675,Trevor,Moore,USA,177.8,185.0,L
+Defence,8480873,Rasmus,Sandin,SWE,180.34,183.0,L
+Left Wing,8476907,Mackenzie,MacEachern,USA,187.96,190.0,L
+Defence,8478399,Jonas,Siegenthaler,CHE,190.5,210.0,L
+Defence,8477343,Tyler,Lewington,CAN,187.96,200.0,R
+Center,8480023,Robert,Thomas,CAN,182.88,188.0,R
+Defence,8480796,Martin,Fehervary,SVK,187.96,200.0,L
+Defence,8480800,Quinn,Hughes,USA,177.8,170.0,L
+Center,8481813,Gaetan,Haas,CHE,182.88,181.0,R
+Left Wing,8481638,Joakim,Nygard,SWE,182.88,179.0,L
+Right Wing,8479466,Patrick,Russell,DNK,185.42,203.0,R
+Center,8480012,Elias,Pettersson,SWE,187.96,176.0,L
+Left Wing,8481515,Danil,Yurtaykin,RUS,180.34,165.0,R
+Defence,8479983,Mario,Ferraro,CAN,180.34,185.0,L
+Center,8480780,Lukas,Radil,CZE,193.04,205.0,R
+Center,8481640,Lean,Bergmann,DEU,187.96,205.0,L
+Defence,8481486,Jimmy,Schuldt,USA,182.88,203.0,L
+Center,8477963,Jayce,Hawryluk,CAN,180.34,196.0,R
+Defence,8477384,Josh,Brown,CAN,195.58,217.0,R
+Center,8481019,David,Gustafsson,SWE,187.96,196.0,L
+Defence,8479323,Adam,Fox,USA,180.34,181.0,R
+Defence,8481572,Ville,Heinola,FIN,180.34,178.0,L
+Right Wing,8481554,Kaapo,Kakko,FIN,190.5,199.0,L
+Defence,8479333,Libor,Hajek,CZE,187.96,203.0,L
+Center,8479353,Brett,Howden,CAN,190.5,197.0,L
+Defence,8478507,John,Marino,USA,185.42,181.0,R
+Right Wing,8478109,Victor,Olofsson,SWE,180.34,183.0,L
+Defence,8480945,Juuso,Riikola,FIN,182.88,189.0,L
+Center,8480946,Dominik,Kahun,DEU,180.34,175.0,L
+Defence,8480839,Rasmus,Dahlin,SWE,190.5,193.0,L
+Defence,8480035,Henri,Jokiharju,FIN,182.88,195.0,R
+Center,8480829,Jesperi,Kotkaniemi,FIN,187.96,198.0,L
+Defence,8479985,Cale,Fleury,CAN,185.42,205.0,R
+Right Wing,8480830,Andrei,Svechnikov,RUS,187.96,195.0,L
+Defence,8479371,Dante,Fabbro,CAN,182.88,189.0,R
+Center,8480944,Par,Lindholm,SWE,182.88,183.0,L
+Center,8480901,Karson,Kuhlman,USA,180.34,185.0,R
+Defence,8477365,Connor,Clifton,USA,180.34,175.0,R
+Defence,8480036,Miro,Heiskanen,FIN,185.42,190.0,L
+Defence,8479982,Conor,Timmins,CAN,187.96,185.0,R
+Defence,8480069,Cale,Makar,CAN,180.34,187.0,R
+Center,8480849,Barrett,Hayton,CAN,185.42,190.0,L
+Right Wing,8478856,Conor,Garland,USA,177.8,165.0,R
+Center,8479382,Connor,Bunnaman,CAN,185.42,207.0,L
+Defence,8478502,Dennis,Gilbert,USA,187.96,216.0,L
+Left Wing,8479358,Carsen,Twarynski,CAN,187.96,198.0,L
+Left Wing,8477330,Dominik,Kubalik,CZE,187.96,179.0,L
+Goalie,8479394,Carter,Hart,CAN,187.96,181.0,L
+Goalie,8478406,Mackenzie,Blackwood,CAN,193.04,225.0,L
+Center,8481559,Jack,Hughes,USA,180.34,170.0,L
+Center,8480003,Jesper,Boqvist,SWE,182.88,180.0,L
+Left Wing,8477038,Nikita,Gusev,RUS,175.26,163.0,R
+Defence,8478038,Devon,Toews,CAN,185.42,191.0,L
+Defence,8480865,Noah,Dobson,CAN,193.04,184.0,R
+Goalie,8478492,Ilya,Samsonov,RUS,190.5,208.0,L
+Center,8480074,Alexandre,Texier,FRA,185.42,192.0,L
+Center,8480205,Emil,Bemstrom,SWE,182.88,190.0,R
+Left Wing,8481650,Jakob,Lilja,SWE,185.42,196.0,L
+Defence,8478882,Vladislav,Gavrikov,RUS,190.5,213.0,L
+Defence,8478136,Jacob,Middleton,CAN,190.5,210.0,L
+Goalie,8478007,Elvis,Merzlikins,LVA,190.5,181.0,L
+Right Wing,8480769,Joel,L'Esperance,USA,187.96,215.0,R
+Center,8479587,Rhett,Gardner,CAN,190.5,225.0,L
+Right Wing,8479381,Nick,Caamano,CAN,190.5,200.0,L
+Defence,8479425,Filip,Hronek,CZE,182.88,183.0,R
+Center,8478036,Christoffer,Ehn,SWE,190.5,195.0,L
+Left Wing,8481433,Taro,Hirose,CAN,177.8,162.0,L
+Defence,8479395,Dennis,Cholowski,CAN,187.96,197.0,L
+Center,8480806,Isac,Lundestrom,SWE,182.88,187.0,L
+Center,8481481,Blake,Lizotte,USA,170.18,172.0,L
+Left Wing,8478455,Austin,Wagner,CAN,185.42,185.0,L
+Defence,8480940,Joel,Persson,SWE,180.34,170.0,R
+Defence,8478911,Matt,Roy,USA,185.42,200.0,R
+Right Wing,8479336,Carl,Grundstrom,SWE,182.88,201.0,L
+Defence,8481600,Tobias,Bjornfot,SWE,182.88,202.0,L
+Defence,8480336,Sean,Walker,CAN,180.34,196.0,R
+Goalie,8478470,Sam,Montembeault,CAN,190.5,199.0,L
+Center,8478043,Sam,Lafferty,USA,185.42,195.0,R
+Left Wing,8480031,Max,Comtois,CAN,187.96,215.0,L
+Right Wing,8479328,Julien,Gauthier,CAN,193.04,227.0,R
+Center,8481523,Kirby,Dach,CAN,193.04,197.0,R
+Goalie,8480925,Pavel,Francouz,CZE,182.88,179.0,R
+Defence,8480950,Ilya,Lyubushkin,RUS,187.96,201.0,R
+Center,8479933,Gerald,Mayhew,USA,175.26,166.0,L
+Right Wing,8480789,Oliver,Wahlstrom,USA,187.96,211.0,R
+Defence,8478021,William,Lagesson,SWE,187.96,207.0,L
+Center,8478508,Yakov,Trenin,RUS,187.96,201.0,L
+Left Wing,8476947,Nikolai,Prokhorkin,RUS,190.5,190.0,L
+Center,8479393,Noah,Gregor,CAN,182.88,185.0,L
+Center,8478844,Mikhail,Vorobyev,RUS,187.96,194.0,L
+Left Wing,8480797,Joel,Farabee,USA,182.88,164.0,L
+Center,8478833,J.C.,Beaudin,CAN,185.42,196.0,R
+Defence,8479388,Riley,Stillman,CAN,185.42,196.0,L
+Defence,8478840,William,Borgen,USA,190.5,198.0,R
+Right Wing,8479379,Givani,Smith,CAN,187.96,210.0,L
+Center,8478409,Anthony,Richard,CAN,177.8,163.0,L
+Defence,8479324,Ryan,Lindgren,USA,182.88,191.0,L
+Center,8476278,Colin,Blackwell,USA,175.26,190.0,R
+Defence,8479372,Josh,Mahura,CAN,182.88,186.0,L
+Center,8479424,German,Rubtsov,RUS,187.96,178.0,L
+Defence,8479026,Philippe,Myers,CAN,195.58,210.0,R
+Left Wing,8479526,Otto,Koivula,FIN,193.04,219.0,L
+Left Wing,8478058,CJ,Suess,USA,180.34,190.0,L
+Right Wing,8478949,Kole,Sherwood,USA,185.42,212.0,R
+Defence,8480871,Adam,Boqvist,SWE,180.34,179.0,R
+Center,8478888,Cameron,Hughes,CAN,180.34,160.0,L
+Center,8480068,Ryan,Poehling,USA,187.96,204.0,L
+Defence,8480160,Radim,Simek,CZE,180.34,200.0,L
+Center,8480185,Eetu,Luostarinen,FIN,190.5,184.0,L
+Right Wing,8480247,Jonathan,Davidsson,SWE,180.34,185.0,R
+Defence,8480935,Lawrence,Pilut,SWE,180.34,194.0,L
+Defence,8478970,Jalen,Chatfield,USA,185.42,188.0,R
+Left Wing,8481649,Joona,Luoto,FIN,190.5,192.0,L
+Defence,8479945,Gavin,Bayreuther,USA,185.42,195.0,L
+Defence,8481122,Simon,Benoit,CAN,190.5,191.0,L
+Defence,8480001,Urho,Vaakanainen,FIN,185.42,185.0,L
+Right Wing,8481186,Logan,O'Connor,USA,182.88,175.0,R
+Goalie,8479530,Adam,Werner,SWE,195.58,205.0,L
+Right Wing,8479644,Matt,Luff,CAN,187.96,196.0,R
+Defence,8478452,Caleb,Jones,USA,185.42,194.0,L
+Center,8479772,Zack,MacEwen,CAN,190.5,205.0,R
+Center,8479365,Trent,Frederic,USA,187.96,203.0,L
+Defence,8478841,Colton,White,CAN,185.42,185.0,L
+Center,8480011,Klim,Kostin,RUS,190.5,212.0,L
+Center,8479335,Rasmus,Asplund,SWE,180.34,190.0,L
+Goalie,8479288,Kasimir,Kaskisuo,FIN,190.5,203.0,L
+Center,8479346,Dillon,Dube,CAN,180.34,187.0,L
+Center,8480028,Morgan,Frost,CAN,180.34,170.0,L
+Right Wing,8480314,Max,Veronneau,CAN,185.42,193.0,R
+Right Wing,8479671,Mathieu,Olivier,USA,187.96,210.0,R
+Left Wing,8478115,Pierre,Engvall,SWE,195.58,214.0,L
+Center,8480965,Antti,Suomela,FIN,182.88,180.0,L
+Left Wing,8479364,Tim,Gettinger,USA,198.12,218.0,L
+Left Wing,8479359,Beck,Malenstyn,CAN,190.5,200.0,L
+Defence,8481630,Alexander,Yelesin,RUS,182.88,195.0,R
+Defence,8479320,Maxime,Lajoie,CAN,185.42,196.0,L
+Left Wing,8478881,Brett,Seney,CAN,175.26,156.0,L
+Right Wing,8480821,Filip,Zadina,CZE,182.88,189.0,L
+Center,8480021,Jack,Studnicka,CAN,185.42,171.0,R
+Goalie,8478039,Kaapo,Kahkonen,FIN,187.96,215.0,L
+Center,8480326,Sheldon,Dries,USA,175.26,180.0,L
+Left Wing,8481637,Anton,Wedin,SWE,180.34,195.0,L
+Center,8478056,Clark,Bishop,CAN,185.42,199.0,L
+Right Wing,8478040,Austin,Poganski,USA,185.42,198.0,R
+Goalie,8477405,Marcus,Hogberg,SWE,195.58,209.0,L
+Defence,8479369,Andrew,Peeke,USA,190.5,194.0,R
+Goalie,8480051,Cayden,Primeau,USA,190.5,198.0,L
+Defence,8481105,Otto,Leskinen,FIN,180.34,183.0,L
+Goalie,8480022,Michael,Dipietro,CAN,182.88,200.0,L
+Center,8481477,Nico,Sturm,DEU,190.5,206.0,L
+Center,8479385,Jordan,Kyrou,CAN,182.88,175.0,R
+Center,8479547,Matthew,Phillips,CAN,170.18,140.0,R
+Right Wing,8478436,David,Kase,CZE,180.34,169.0,L
+Right Wing,8479571,Joachim,Blichfeld,DNK,187.96,180.0,R
+Left Wing,8479633,Brayden,Burke,CAN,177.8,165.0,L
+Defence,8478859,Niko,Mikkola,FIN,193.04,185.0,L
+Defence,8478465,Guillaume,Brisebois,CAN,187.96,175.0,L
+Right Wing,8477979,Nicolas,Aube-Kubel,CAN,180.34,187.0,R
+Center,8478831,Kevin,Stenlund,SWE,193.04,209.0,R
+Defence,8479348,Kale,Clague,CAN,182.88,177.0,L
+Center,8478996,Adam,Brooks,CAN,177.8,185.0,L
+Center,8478838,Lukas,Vejdemo,SWE,187.96,194.0,L
+Center,8477366,Luke,Johnson,USA,180.34,177.0,R
+Defence,8480913,Jordan,Gross,USA,177.8,190.0,R
+Goalie,8480213,Gilles,Senn,CHE,195.58,191.0,R
+Center,8477974,Ryan,MacInnis,USA,193.04,200.0,L
+Center,8481516,Joel,Kellman,SWE,180.34,192.0,L
+Right Wing,8478404,Jeremy,Bracco,USA,180.34,185.0,R
+Defence,8478468,Jeremy,Lauzon,CAN,185.42,204.0,L
+Defence,8477372,Teemu,Kivihalme,USA,182.88,181.0,L
+Left Wing,8475748,Dalton,Smith,CAN,187.96,206.0,L
+Left Wing,8478975,Mason,Marchment,,193.04,220.0,L
+Left Wing,8481641,Joel,Kiviranta,FIN,180.34,180.0,L
+Right Wing,8480748,Kiefer,Sherwood,USA,182.88,194.0,R
+Goalie,8478048,Igor,Shesterkin,RUS,187.96,182.0,L
+Defence,8478017,Mark,Friedman,CAN,180.34,185.0,R
+Center,8479994,Jaret,Anderson-Dolan,CAN,180.34,188.0,L
+Left Wing,8479542,Brandon,Hagel,CAN,180.34,174.0,L
+Left Wing,8480005,Kristian,Vesalainen,FIN,190.5,207.0,L
+Center,8478074,Anthony,Angello,USA,195.58,210.0,R
+Left Wing,8479347,Tyler,Benson,CAN,182.88,190.0,L
+Goalie,8477992,Jonas,Johansson,SWE,195.58,219.0,L
+Left Wing,8479356,Kieffer,Bellows,USA,185.42,195.0,L
+Center,8480384,Alexander,True,DNK,195.58,200.0,L
+Defence,8480184,Gustav,Lindstrom,SWE,187.96,190.0,R
+Center,8478133,Jake,Evans,CAN,185.42,181.0,R
+Right Wing,8481642,Andrei,Chibisov,RUS,193.04,227.0,L
+Goalie,8477361,Calvin,Petersen,USA,185.42,185.0,R
+Center,8480853,Liam,Foudy,CAN,187.96,182.0,L
+Left Wing,8480027,Jason,Robertson,USA,190.5,210.0,L
+Defence,8480466,Joey,Keane,USA,182.88,187.0,R
+Right Wing,8479510,Egor,Korshkov,RUS,193.04,214.0,L
+Center,8478446,Glenn,Gawdin,CAN,185.42,191.0,R
+Defence,8480803,Evan,Bouchard,CAN,190.5,194.0,R
+Right Wing,8480822,Martin,Kaut,CZE,187.96,190.0,R
+Defence,8478467,Nicolas,Meloche,CAN,190.5,205.0,R
+Center,8480014,Gabriel,Vilardi,CAN,190.5,201.0,R
+Goalie,8479188,David,Ayres,CAN,182.88,201.0,
+Center,8480064,Josh,Norris,USA,187.96,192.0,L
+Center,8479557,Calvin,Thurkauf,CHE,187.96,204.0,L
+Center,8479748,Gage,Quinney,USA,180.34,200.0,L
+Defence,8479523,Lucas,Carlsson,SWE,182.88,189.0,L
+Defence,8477972,Josh,Jacobs,USA,187.96,200.0,R
+Defence,8479998,Mikey,Anderson,USA,182.88,197.0,L
+Defence,8480084,Nick,DeSimone,USA,187.96,185.0,R
+Defence,8481812,Nikolai,Knyzhov,RUS,187.96,194.0,L
+Center,8479987,Morgan,Geekie,CAN,190.5,192.0,R
+Defence,8480814,Nicolas,Beaudin,CAN,180.34,168.0,L
+Center,8478904,Steven,Lorentz,CAN,193.04,206.0,L
+Defence,8479402,Jake,Bean,CAN,185.42,186.0,L
+Right Wing,8480833,Vitali,Kravtsov,RUS,190.5,189.0,L
+Defence,8479027,Brandon,Crawley,USA,185.42,202.0,L
+Defence,8478178,Darren,Raddysh,CAN,185.42,200.0,R
+Goalie,8480947,Kevin,Lankinen,FIN,187.96,185.0,L
+Right Wing,8480025,MacKenzie,Entwistle,CAN,190.5,184.0,R
+Defence,8481598,Philip,Broberg,SWE,190.5,199.0,L
+Goalie,8479973,Stuart,Skinner,CAN,193.04,206.0,L
+Center,8478442,Cooper,Marody,USA,182.88,184.0,R
+Center,8480798,Philipp,Kurashev,CHE,182.88,190.0,L
+Defence,8480831,Alec,Regula,USA,193.04,208.0,R
+Center,8480802,Ryan,McLeod,CAN,187.96,207.0,L
+Goalie,8477475,Philippe,Desrosiers,CAN,185.42,204.0,L
+Defence,8481442,Brady,Keeper,CAN,187.96,209.0,R
+Defence,8479597,Chase,Priskie,USA,182.88,185.0,R
+Right Wing,8475968,Alex,Belzile,CAN,182.88,192.0,R
+Goalie,8481643,Emil,Larmi,FIN,182.88,185.0,L
+Goalie,8478933,Michael,McNiven,CAN,185.42,205.0,L
+Defence,8480058,Pierre-Olivier,Joseph,CAN,187.96,185.0,L
+Goalie,8479574,Mikhail,Berdin,RUS,187.96,163.0,L
+Goalie,8481501,Artyom,Zagidulin,RUS,187.96,180.0,L
+Defence,8481599,Victor,Soderstrom,SWE,180.34,179.0,R
+Goalie,8480279,Kirill,Ustimenko,BLR,190.5,187.0,L
+Defence,8481178,Egor,Zamula,RUS,190.5,177.0,L
+Center,8480032,Shane,Bowers,CAN,187.96,186.0,L
+Defence,8481524,Bowen,Byram,CAN,185.42,190.0,L
+Goalie,8479361,Joseph,Woll,USA,193.04,203.0,L
+Left Wing,8481582,Nicholas,Robertson,USA,175.26,164.0,L
+Defence,8481479,Brogan,Rafferty,USA,182.88,195.0,R
+Goalie,8481443,Mat,Robson,CAN,190.5,190.0,L
+Defence,8479355,Olli,Juolevi,FIN,187.96,182.0,L
+Defence,8480823,Alexander,Alexeyev,RUS,193.04,210.0,L
+Center,8477544,Philippe,Maillet,CAN,177.8,190.0,L
+Center,8481580,Connor,McMichael,CAN,182.88,183.0,L
+Defence,8479639,Dylan,Coghlan,CAN,187.96,190.0,R
+Goalie,8479016,Landon,Bow,CAN,195.58,220.0,L
+Center,8481522,Peyton,Krebs,CAN,180.34,180.0,L
+Defence,8481581,Thomas,Harley,USA,190.5,190.0,L
+Goalie,8479979,Jake,Oettinger,USA,195.58,225.0,L
+Center,8480848,Ty,Dellandrea,CAN,185.42,190.0,R
+Center,8478097,Reid,Duke,CAN,182.88,191.0,R
+Goalie,8481031,Ivan,Prosvetov,RUS,195.58,175.0,L
+Goalie,8481001,Veini,Vehvilainen,FIN,182.88,181.0,L
+Goalie,8480112,Hunter,Miska,USA,185.42,175.0,L
+Goalie,8481478,Jake,Kielly,USA,187.96,201.0,L
+Defence,8480943,Igor,Ozhiganov,RUS,187.96,210.0,R
+Defence,8479976,Juuso,Valimaki,FIN,187.96,212.0,L
+Center,8478078,Rourke,Chartier,CAN,180.34,190.0,L
+Defence,8480161,Libor,Sulak,CZE,187.96,207.0,L
+Center,8479992,Michael,Rasmussen,CAN,198.12,229.0,L
+Defence,8479439,Jacob,MacDonald,,182.88,204.0,L
+Right Wing,8477996,Juho,Lammikko,FIN,187.96,191.0,L
+Left Wing,8479657,Alexandre,Fortin,CAN,182.88,184.0,L
+Defence,8480955,Bogdan,Kiselevich,RUS,182.88,202.0,L
+Defence,8478129,Jeff,Taylor,USA,180.34,181.0,L
+Defence,8480948,Egor,Yakovlev,RUS,182.88,190.0,L
+Defence,8479416,Ben,Gleason,USA,185.42,180.0,L
+Goalie,8480436,Cole,Kehler,CAN,193.04,205.0,R
+Goalie,8475277,Edward,Pasquale,CAN,187.96,215.0,L
+Right Wing,8477357,Saku,Maenalanen,FIN,193.04,207.0,L
+Left Wing,8478047,Michael,Bunting,CAN,180.34,197.0,L
+Right Wing,8479447,Anthony,Greco,USA,177.8,176.0,R
+Center,8480954,Jacob,Nilsson,SWE,177.8,180.0,L
+Center,8479970,Joseph,Gambardella,USA,177.8,196.0,L
+Right Wing,8479414,Nathan,Bastian,CAN,193.04,205.0,R
+Right Wing,8477680,Josh,Currie,CAN,177.8,172.0,R
+Center,8479330,Brandon,Gignac,CAN,180.34,170.0,L
+Defence,8481425,Josh,Teves,CAN,182.88,170.0,L
+Left Wing,8481426,Ryan,Kuffner,CAN,185.42,186.0,L
+Goalie,8481440,Dustyn,Zenner,USA,182.88,200.0,L
+Center,8479514,Rem,Pitlick,CAN,175.26,196.0,L
+Defence,8477865,Jake,Chelios,USA,187.96,185.0,L
+Goalie,8478916,Joey,Daccord,USA,187.96,197.0,L
+Goalie,8480363,Kaden,Fulcher,,187.96,182.0,
+Goalie,8480779,Niclas,Westerholm,,190.5,198.0,
+Goalie,8477970,Vitek,Vanecek,CZE,187.96,187.0,L
+Goalie,8480394,Alex,D'Orio,CAN,187.96,209.0,R
+Defence,8479289,Ethan,Prow,USA,180.34,182.0,R
+Left Wing,8480395,Sam,Miletic,USA,182.88,197.0,L
+Left Wing,8479374,Adam,Mascherin,CAN,177.8,205.0,L
+Goalie,8479403,Tyler,Parsons,USA,185.42,185.0,L
+Defence,8480970,Marcus,Hogstrom,SWE,193.04,200.0,L
+Goalie,8477574,Parker,Milner,USA,185.42,185.0,L
+Center,8477352,Ryan,Fitzgerald,USA,175.26,172.0,R
