@@ -3113,6 +3113,41 @@ END&quot;</attribute>
       <map key='[State]' value='[sqlproxy].[State]' />
       <map key='[Sub-Category]' value='[sqlproxy].[Sub-Category]' />
     </cols>
+    <relation type='collection'>
+      <relation name='sqlproxy' table='[sqlproxy]' type='table' />
+      <relation name='sqlproxy' table='[sqlproxy]' type='table' />
+      <relation name='sqlproxy' table='[sqlproxy]' type='table' />
+    </relation>
+    <cols>
+      <map key='[Calculation_1368249927221915648]' value='[sqlproxy].[Calculation_1368249927221915648]' />
+      <map key='[Category]' value='[sqlproxy].[Category]' />
+      <map key='[City]' value='[sqlproxy].[City]' />
+      <map key='[Country/Region]' value='[sqlproxy].[Country/Region]' />
+      <map key='[Customer ID]' value='[sqlproxy].[Customer ID]' />
+      <map key='[Customer Name]' value='[sqlproxy].[Customer Name]' />
+      <map key='[Discount]' value='[sqlproxy].[Discount]' />
+      <map key='[Order Date]' value='[sqlproxy].[Order Date]' />
+      <map key='[Order ID (Returns)]' value='[sqlproxy].[Order ID (Returns)]' />
+      <map key='[Order ID]' value='[sqlproxy].[Order ID]' />
+      <map key='[Postal Code]' value='[sqlproxy].[Postal Code]' />
+      <map key='[Product ID]' value='[sqlproxy].[Product ID]' />
+      <map key='[Product Name (group)]' value='[sqlproxy].[Product Name (group)]' />
+      <map key='[Product Name]' value='[sqlproxy].[Product Name]' />
+      <map key='[Profit (bin)]' value='[sqlproxy].[Profit (bin)]' />
+      <map key='[Profit]' value='[sqlproxy].[Profit]' />
+      <map key='[Quantity]' value='[sqlproxy].[Quantity]' />
+      <map key='[Region (People)]' value='[sqlproxy].[Region (People)]' />
+      <map key='[Region]' value='[sqlproxy].[Region]' />
+      <map key='[Regional Manager]' value='[sqlproxy].[Regional Manager]' />
+      <map key='[Returned]' value='[sqlproxy].[Returned]' />
+      <map key='[Row ID]' value='[sqlproxy].[Row ID]' />
+      <map key='[Sales]' value='[sqlproxy].[Sales]' />
+      <map key='[Segment]' value='[sqlproxy].[Segment]' />
+      <map key='[Ship Date]' value='[sqlproxy].[Ship Date]' />
+      <map key='[Ship Mode]' value='[sqlproxy].[Ship Mode]' />
+      <map key='[State]' value='[sqlproxy].[State]' />
+      <map key='[Sub-Category]' value='[sqlproxy].[Sub-Category]' />
+    </cols>
   </connection>
   <aliases enabled='yes' />
   <column aggregation='User' caption='Profit Ratio' datatype='real' default-type='quantitative' name='[Calculation_1368249927221915648]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default'>
@@ -5409,6 +5444,9 @@ END&quot;</attribute>
         <properties context=''>
           <relation name='sqlproxy' table='[sqlproxy]' type='table' />
         </properties>
+        <properties context=''>
+          <relation name='sqlproxy' table='[sqlproxy]' type='table' />
+        </properties>
       </object>
       <object caption='People' id='People_D73023733B004CC1B3CB1ACF62F4A965'>
         <properties context=''>
@@ -5423,8 +5461,14 @@ END&quot;</attribute>
         <properties context=''>
           <relation name='sqlproxy' table='[sqlproxy]' type='table' />
         </properties>
+        <properties context=''>
+          <relation name='sqlproxy' table='[sqlproxy]' type='table' />
+        </properties>
       </object>
       <object caption='Returns' id='Returns_2AA0FE4D737A4F63970131D0E7480A03'>
+        <properties context=''>
+          <relation name='sqlproxy' table='[sqlproxy]' type='table' />
+        </properties>
         <properties context=''>
           <relation name='sqlproxy' table='[sqlproxy]' type='table' />
         </properties>
@@ -8755,8 +8799,8 @@ END&quot;</attribute>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1250' minheight='1250' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='26' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='25' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='28' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='27' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone h='9500' id='16' type-v2='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -8926,8 +8970,8 @@ END&quot;</attribute>
           </layout-options>
           <size maxheight='1600' minheight='1600' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='51' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='50' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='53' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='52' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='5125' id='22' type-v2='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -9270,7 +9314,7 @@ END&quot;</attribute>
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='10' />
+      <active id='-1' />
       <simple-id uuid='{52DDD74B-8C30-4F2F-8B01-091198BE2BBD}' />
     </window>
     <window class='dashboard' maximized='true' name='An investigation into how a NHL player&apos;s dominant shooting hand correlates to their country of origin'>
